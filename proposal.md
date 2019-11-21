@@ -10,15 +10,15 @@ We are proposing to build a visualization app that uses educational mobility as 
 
 The dataset we are using was compiled by the World Bank, and includes estimates of "absolute and relative intergenerational mobility (IGM) by 10-year cohorts, covering individuals born between 1940 and 1989" (Source: [GDIM, 2018](http://pubdocs.worldbank.org/en/734501527703249115/GDIM-Description-May29.pdf)).  We are going to be focusing on the education mobility data which covers 148 countries for at least one generation, and 111 countries over multiple generations.
 
-The main variable we are plotting in all our visualizations is educational mobility. The raw dataset includes a column named `IGP` which represents intergenerational persistance in education. This is calculated from drawing a regression line between a child's years of schooling (or highest education level) and the highest education level of their parents.  A higher IGP means the education of the parents has more importance and therefore is associated with reduced relative education mobility. For our purposes
+The main variable we are plotting in all our visualizations is educational mobility. The raw dataset includes a column named `IGP` which represents intergenerational persistance in education. This is calculated from drawing a regression line between a child's years of schooling (or highest education level) and the highest education level of their parents.  The `IGP` s calculated in a way that higher values mean less mobility and lower values mean more mobility. This takes more cognitive effort when looking at plots, so for our visualiztion purposes we have made a new variable called `ed_mob_index` that maps the best World Bank `IGP` to a value of 1 and the worst to a value of 0. We feel that using this index makes the plots easier to follow (higher index = improved mobility!).
 
  We also use the following variables to allow the user to make selections for comparisons:
- - `countryname`
- - `region`
- - `incgroup2`
- - `incgroup4`
- - `year`
- - `child`
+ - `countryname`: name of the country
+ - `region`: continent name
+ - `incgroup2`: either high-income economies or developing economies
+ - `incgroup4`: this further splits developing economies into 3 subcategories: low, middle, and high.
+ - `year`: this is the decade children are born in. Options are 1940, 1950, 1960, 1970, or 1980. 
+ - `child`: either son or daughter
 
  There are many other columns in the raw dataset that we will not be including in our visualizations. Many of these are indicators or coefficients that are used to calculate the `IGP` and another mobility index relating to economic mobility, `IGE`.  For the purposes of this dashboard, we are excluding data relating to economic mobility since there is very little data available compared to educational mobility. We also take the `IGP` as a starting point instead of re-calculating all the estimation parameters.  A detailed description of each of these columns can also be found [here](http://pubdocs.worldbank.org/en/734501527703249115/GDIM-Description-May29.pdf).
 
