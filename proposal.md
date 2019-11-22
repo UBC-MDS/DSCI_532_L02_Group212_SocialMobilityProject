@@ -43,7 +43,7 @@ With this information in hand, she decides to write her paper on the impact of w
 
 The app will feature a global map that will allow users to get a big-picture view for a selected generation along with the ability to get specific information for any country. There is a bar chart next to the plot showing the overall ranking of all countries for the selected generation.  Below the map, the app will include three interactive plots where the user can select two countries or regions to compare against each other more closely in terms of overall education index, education index for men and women, and overall ranking.  
 
-![](img\Dashboard_Schematic.jpg)
+![](img/Dashboard_Schematic.pdf)
 
 
 
