@@ -1,0 +1,461 @@
+,countryname,region,incgroup2,incgroup4,child,1940,1950,1960,1970,1980,continent,country_num
+0,Afghanistan,South Asia,Developing economies,Low income,all,,,,,0.37831239400000005,Asia,4.0
+1,Afghanistan,South Asia,Developing economies,Low income,daughter,,,,,0.3309163527500001,Asia,4.0
+2,Afghanistan,South Asia,Developing economies,Low income,son,,,,,0.37776063375,Asia,4.0
+3,Albania,Europe & Central Asia,Developing economies,Upper middle income,all,0.40680287775,0.58186867075,0.622470781,0.55047890525,0.6024193615,Europe,8.0
+4,Albania,Europe & Central Asia,Developing economies,Upper middle income,daughter,0.4444090875000001,0.49334520825000006,0.596762717,0.520640321,0.59016087675,Europe,8.0
+5,Albania,Europe & Central Asia,Developing economies,Upper middle income,son,0.3510247915,0.6737102420000001,0.6603978535,0.55880191925,0.62549539675,Europe,8.0
+6,Angola,Sub-Saharan Africa,Developing economies,Upper middle income,all,,,,,0.27965185024999994,Africa,24.0
+7,Angola,Sub-Saharan Africa,Developing economies,Upper middle income,daughter,,,,,0.2229345292499999,Africa,24.0
+8,Angola,Sub-Saharan Africa,Developing economies,Upper middle income,son,,,,,0.35166242724999996,Africa,24.0
+9,Argentina,Latin America & Caribbean,Developing economies,Upper middle income,all,0.451284468,0.416522622,0.5413334970000001,0.5756392779999999,0.6587258579999999,South America,32.0
+10,Argentina,Latin America & Caribbean,Developing economies,Upper middle income,daughter,0.472094417,0.43647253500000005,0.543168336,0.601006478,0.679276079,South America,32.0
+11,Argentina,Latin America & Caribbean,Developing economies,Upper middle income,son,0.4239052529999999,0.39314925700000003,0.536746532,0.5455414949999999,0.6243993640000001,South America,32.0
+12,Armenia,Europe & Central Asia,Developing economies,Lower middle income,all,0.64382109775,0.701772727,0.65070123975,0.6279995887500001,0.5071391092499999,Europe,51.0
+13,Armenia,Europe & Central Asia,Developing economies,Lower middle income,all,0.64382109775,0.701772727,0.65070123975,0.6279995887500001,0.5071391092499999,Asia,51.0
+14,Armenia,Europe & Central Asia,Developing economies,Lower middle income,daughter,0.578637436,0.67113275825,0.70958879975,0.620291099,0.56276277475,Europe,51.0
+15,Armenia,Europe & Central Asia,Developing economies,Lower middle income,daughter,0.578637436,0.67113275825,0.70958879975,0.620291099,0.56276277475,Asia,51.0
+16,Armenia,Europe & Central Asia,Developing economies,Lower middle income,son,0.73466734225,0.74768997375,0.5391915737499999,0.6410889477499999,0.4453478827499999,Europe,51.0
+17,Armenia,Europe & Central Asia,Developing economies,Lower middle income,son,0.73466734225,0.74768997375,0.5391915737499999,0.6410889477499999,0.4453478827499999,Asia,51.0
+18,Australia,High income,High-income economies,High income,all,0.68514120575,0.78474903875,0.801766567,0.818810977,0.77879510075,Oceania,36.0
+19,Australia,High income,High-income economies,High income,daughter,0.630145341,0.773974575,0.82763654725,0.7651252225,0.7510826885,Oceania,36.0
+20,Australia,High income,High-income economies,High income,son,0.73836762475,0.8038559892499999,0.7624958605000001,0.86951265875,0.810798453,Oceania,36.0
+21,Austria,High income,High-income economies,High income,all,0.5932867079999999,0.592149578,0.563206583,0.7075817582499999,0.5987057015,Europe,40.0
+22,Austria,High income,High-income economies,High income,daughter,0.6750548705,0.6108303665,0.576013662,0.67200277,0.6735330075,Europe,40.0
+23,Austria,High income,High-income economies,High income,son,0.5712129324999999,0.57757052025,0.54857319575,0.7521051464999999,0.49728805575,Europe,40.0
+24,Azerbaijan,Europe & Central Asia,Developing economies,Upper middle income,all,,0.90002649625,0.8681174385,0.79120676975,0.58600410825,Europe,31.0
+25,Azerbaijan,Europe & Central Asia,Developing economies,Upper middle income,all,,0.90002649625,0.8681174385,0.79120676975,0.58600410825,Asia,31.0
+26,Azerbaijan,Europe & Central Asia,Developing economies,Upper middle income,daughter,,0.912875142,0.849995205,0.79472317525,0.5945180135000001,Europe,31.0
+27,Azerbaijan,Europe & Central Asia,Developing economies,Upper middle income,daughter,,0.912875142,0.849995205,0.79472317525,0.5945180135000001,Asia,31.0
+28,Azerbaijan,Europe & Central Asia,Developing economies,Upper middle income,son,,0.874522185,0.917867122,0.7968617585,0.5845602599999999,Europe,31.0
+29,Azerbaijan,Europe & Central Asia,Developing economies,Upper middle income,son,,0.874522185,0.917867122,0.7968617585,0.5845602599999999,Asia,31.0
+30,Bangladesh,South Asia,Developing economies,Lower middle income,all,,,,,0.34205734749999994,Asia,50.0
+31,Bangladesh,South Asia,Developing economies,Lower middle income,daughter,,,,,0.3162041605,Asia,50.0
+32,Bangladesh,South Asia,Developing economies,Lower middle income,son,,,,,0.3649566322500001,Asia,50.0
+33,Belarus,Europe & Central Asia,Developing economies,Upper middle income,all,0.8609956990000001,0.78276265025,0.8070591465,0.755182907,0.68846349425,Europe,112.0
+34,Belarus,Europe & Central Asia,Developing economies,Upper middle income,daughter,0.85494716075,0.807918124,0.8363899255,0.81802563,0.66806014625,Europe,112.0
+35,Belarus,Europe & Central Asia,Developing economies,Upper middle income,son,0.8931712285,0.72170111575,0.760932181,0.66825626775,0.70601820225,Europe,112.0
+36,Belgium,High income,High-income economies,High income,all,0.594885163,0.59438970675,0.6777254942500001,0.6565922275,0.69730763125,Europe,56.0
+37,Belgium,High income,High-income economies,High income,daughter,0.6278970315,0.63129361725,0.6577455999999999,0.7179261745000001,0.641894832,Europe,56.0
+38,Belgium,High income,High-income economies,High income,son,0.55040475725,0.5525841709999999,0.6966562345,0.59292093675,0.750392165,Europe,56.0
+39,Benin,Sub-Saharan Africa,Developing economies,Low income,all,0.09829801299999996,0.19113874400000008,0.22715681799999998,0.27685523,0.25520425999999996,Africa,204.0
+40,Benin,Sub-Saharan Africa,Developing economies,Low income,daughter,0.18104255200000008,0.31494087000000004,0.27292949,0.3234459759999999,0.22459465299999992,Africa,204.0
+41,Benin,Sub-Saharan Africa,Developing economies,Low income,son,0.04774540700000007,0.101166427,0.22293436499999997,0.28848588500000005,0.32583725500000005,Africa,204.0
+42,Bhutan,South Asia,Developing economies,Lower middle income,all,0.12107533250000002,0.20118001124999996,0.09810496874999997,0.11682496975000001,0.25639557825000003,Asia,64.0
+43,Bhutan,South Asia,Developing economies,Lower middle income,daughter,0.4673753977499999,0.24352464075000002,0.14586560425000006,0.1619498132499999,0.11987784525,Asia,64.0
+44,Bhutan,South Asia,Developing economies,Lower middle income,son,-0.06361123949999992,0.2417357415000001,0.09378287175,0.08000443875000007,0.41199278824999996,Asia,64.0
+45,Bolivia,Latin America & Caribbean,Developing economies,Lower middle income,all,0.14365498725000003,0.17123131425000004,0.31823611249999995,0.37217107424999996,0.5700107292500001,South America,68.0
+46,Bolivia,Latin America & Caribbean,Developing economies,Lower middle income,daughter,0.11812445524999993,0.10490916674999995,0.2510790825,0.28452214575,0.52470506725,South America,68.0
+47,Bolivia,Latin America & Caribbean,Developing economies,Lower middle income,son,0.19082722075000003,0.24767839925000001,0.39220072325,0.47287435825,0.6275810374999999,South America,68.0
+48,Bosnia and Herzegovina,Europe & Central Asia,Developing economies,Upper middle income,all,0.47266811875000003,0.47664113375000006,0.62452884775,0.55208498975,0.5627171325,Europe,70.0
+49,Bosnia and Herzegovina,Europe & Central Asia,Developing economies,Upper middle income,daughter,0.33144059775,0.340106696,0.53380451375,0.5063222199999999,0.5053538607500001,Europe,70.0
+50,Bosnia and Herzegovina,Europe & Central Asia,Developing economies,Upper middle income,son,0.60003959375,0.61250939225,0.7339760587499999,0.58899988225,0.6203885600000001,Europe,70.0
+51,Botswana,Sub-Saharan Africa,Developing economies,Upper middle income,all,,,,,0.67347036275,Africa,72.0
+52,Botswana,Sub-Saharan Africa,Developing economies,Upper middle income,daughter,,,,,0.7503197565,Africa,72.0
+53,Botswana,Sub-Saharan Africa,Developing economies,Upper middle income,son,,,,,0.5778223725,Africa,72.0
+54,Brazil,Latin America & Caribbean,Developing economies,Upper middle income,all,0.16576857850000004,0.27684929950000003,0.44554264875000005,0.5146308317499999,0.632768437,South America,76.0
+55,Brazil,Latin America & Caribbean,Developing economies,Upper middle income,daughter,0.20724181825,0.29088468850000004,0.46448517600000006,0.5359108225,0.657607779,South America,76.0
+56,Brazil,Latin America & Caribbean,Developing economies,Upper middle income,son,0.11010645299999999,0.26096363350000007,0.42519742274999994,0.48986044524999994,0.6033769175,South America,76.0
+57,Bulgaria,Europe & Central Asia,Developing economies,Upper middle income,all,0.44761665175,0.49843236074999997,0.56132175775,0.45860232425,0.40396629275000007,Europe,100.0
+58,Bulgaria,Europe & Central Asia,Developing economies,Upper middle income,daughter,0.44290401049999994,0.49968171875,0.48506745725,0.38912051925,0.332768619,Europe,100.0
+59,Bulgaria,Europe & Central Asia,Developing economies,Upper middle income,son,0.45206131024999996,0.4987134635,0.6321158705000001,0.535007015,0.4595264642499999,Europe,100.0
+60,Burkina Faso,Sub-Saharan Africa,Developing economies,Low income,all,,,,,0.048792928250000034,Africa,854.0
+61,Burkina Faso,Sub-Saharan Africa,Developing economies,Low income,daughter,,,,,0.05142487574999999,Africa,854.0
+62,Burkina Faso,Sub-Saharan Africa,Developing economies,Low income,son,,,,,0.08133515724999996,Africa,854.0
+63,Cabo Verde,Sub-Saharan Africa,Developing economies,Lower middle income,all,,,,,0.59687383475,Africa,132.0
+64,Cabo Verde,Sub-Saharan Africa,Developing economies,Lower middle income,daughter,,,,,0.43875832849999996,Africa,132.0
+65,Cabo Verde,Sub-Saharan Africa,Developing economies,Lower middle income,son,,,,,0.8626283702499999,Africa,132.0
+66,Cambodia,East Asia & Pacific,Developing economies,Lower middle income,all,,,,,0.3846581727499999,Asia,116.0
+67,Cambodia,East Asia & Pacific,Developing economies,Lower middle income,daughter,,,,,0.39441324750000006,Asia,116.0
+68,Cambodia,East Asia & Pacific,Developing economies,Lower middle income,son,,,,,0.38070458949999997,Asia,116.0
+69,Cameroon,Sub-Saharan Africa,Developing economies,Lower middle income,all,,,,,0.36557377874999997,Africa,120.0
+70,Cameroon,Sub-Saharan Africa,Developing economies,Lower middle income,daughter,,,,,0.42337402675,Africa,120.0
+71,Cameroon,Sub-Saharan Africa,Developing economies,Lower middle income,son,,,,,0.32140171525000005,Africa,120.0
+72,Canada,High income,High-income economies,High income,all,0.71729202575,0.7916213087499999,0.8094183392500001,0.78958196925,0.7454807237500001,North America,124.0
+73,Canada,High income,High-income economies,High income,daughter,0.70579174175,0.7745233177499999,0.78247297525,0.780064892,0.7553442530000001,North America,124.0
+74,Canada,High income,High-income economies,High income,son,0.733576264,0.81038178125,0.83658130825,0.7950442805,0.73323203625,North America,124.0
+75,Central African Republic,Sub-Saharan Africa,Developing economies,Low income,all,,,,,0.4888993502500001,Africa,140.0
+76,Central African Republic,Sub-Saharan Africa,Developing economies,Low income,daughter,,,,,0.5244372635,Africa,140.0
+77,Central African Republic,Sub-Saharan Africa,Developing economies,Low income,son,,,,,0.47261197850000003,Africa,140.0
+78,Chad,Sub-Saharan Africa,Developing economies,Low income,all,,,,,0.3585748522500001,Africa,148.0
+79,Chad,Sub-Saharan Africa,Developing economies,Low income,daughter,,,,,0.32168343675,Africa,148.0
+80,Chad,Sub-Saharan Africa,Developing economies,Low income,son,,,,,0.38015370075,Africa,148.0
+81,Chile,High income,High-income economies,High income,all,0.35991761074999995,0.453708753,0.550487995,0.5843123942499999,0.6360106915,South America,152.0
+82,Chile,High income,High-income economies,High income,daughter,0.3784271925,0.4508243355,0.5680930615,0.59850478175,0.654485777,South America,152.0
+83,Chile,High income,High-income economies,High income,son,0.33502222574999996,0.45909310875,0.5314923149999999,0.56884449725,0.6083839685,South America,152.0
+84,China,East Asia & Pacific,Developing economies,Upper middle income,all,0.64698634275,0.60191304225,0.6300032662499999,0.515015185,0.52489810425,Asia,156.0
+85,China,East Asia & Pacific,Developing economies,Upper middle income,daughter,0.543791935,0.5239313990000001,0.5582746117499999,0.46320451075,0.45972410575,Asia,156.0
+86,China,East Asia & Pacific,Developing economies,Upper middle income,son,0.76452572275,0.67369022975,0.71047078075,0.57044661825,0.5844709875,Asia,156.0
+87,Colombia,Latin America & Caribbean,Developing economies,Upper middle income,all,0.08480443049999997,0.21091724925,0.28751397125,0.397844255,0.5164935515,South America,170.0
+88,Colombia,Latin America & Caribbean,Developing economies,Upper middle income,daughter,0.10866686699999994,0.25444120175000007,0.3096661865,0.41327603174999994,0.535607301,South America,170.0
+89,Colombia,Latin America & Caribbean,Developing economies,Upper middle income,son,0.06093028200000006,0.16536903400000003,0.26373066,0.37508408700000007,0.4905008155,South America,170.0
+90,Comoros,Sub-Saharan Africa,Developing economies,Low income,all,0.99652364125,0.94885888875,0.4909135427499999,0.6504231057500001,0.35948118575,Africa,174.0
+91,Comoros,Sub-Saharan Africa,Developing economies,Low income,daughter,1.009543473,0.83094354475,0.5301085052500001,0.8395661005,0.37071485824999995,Africa,174.0
+92,Comoros,Sub-Saharan Africa,Developing economies,Low income,son,,1.01740923125,0.20961278699999997,0.35850837825000004,0.34861454375,Africa,174.0
+93,"Congo, Dem. Rep.",Sub-Saharan Africa,Developing economies,Low income,all,0.527972668,0.4607637520000001,0.514276087,0.552203,0.5177784860000001,Africa,180.0
+94,"Congo, Dem. Rep.",Sub-Saharan Africa,Developing economies,Low income,daughter,0.683202475,0.545146048,0.5413373109999999,0.522141874,0.506451726,Africa,180.0
+95,"Congo, Dem. Rep.",Sub-Saharan Africa,Developing economies,Low income,son,0.504881591,0.47085744100000004,0.5778248610000001,0.604029357,0.567177743,Africa,180.0
+96,"Congo, Rep.",Sub-Saharan Africa,Developing economies,Lower middle income,all,,,,,0.531015888,Africa,178.0
+97,"Congo, Rep.",Sub-Saharan Africa,Developing economies,Lower middle income,daughter,,,,,0.49103844175,Africa,178.0
+98,"Congo, Rep.",Sub-Saharan Africa,Developing economies,Lower middle income,son,,,,,0.5710238515,Africa,178.0
+99,Costa Rica,Latin America & Caribbean,Developing economies,Upper middle income,all,0.52662158,0.590394914,0.650983125,0.6218280789999999,0.652981818,North America,188.0
+100,Costa Rica,Latin America & Caribbean,Developing economies,Upper middle income,daughter,0.50673762,0.583343327,0.628783822,0.637531936,0.655143738,North America,188.0
+101,Costa Rica,Latin America & Caribbean,Developing economies,Upper middle income,son,0.562339932,0.5943826139999999,0.677787513,0.611878157,0.650261194,North America,188.0
+102,Cote d'Ivoire,Sub-Saharan Africa,Developing economies,Lower middle income,all,,,,,0.34763620800000006,Africa,384.0
+103,Cote d'Ivoire,Sub-Saharan Africa,Developing economies,Lower middle income,daughter,,,,,0.37630784524999994,Africa,384.0
+104,Cote d'Ivoire,Sub-Saharan Africa,Developing economies,Lower middle income,son,,,,,0.32460483924999994,Africa,384.0
+105,Croatia,High income,High-income economies,High income,all,0.33182153125,0.530465871,0.564097069,0.48220843825000004,0.54644306025,Europe,191.0
+106,Croatia,High income,High-income economies,High income,daughter,0.1754047125,0.4236543625,0.571806416,0.48637474300000005,0.5277061985,Europe,191.0
+107,Croatia,High income,High-income economies,High income,son,0.5565380005,0.636124052,0.55426795775,0.48023425799999997,0.55795276175,Europe,191.0
+108,Cyprus,High income,High-income economies,High income,all,0.48527548475000004,0.59781534225,0.66726670425,0.6543541475000001,0.79961947725,Europe,196.0
+109,Cyprus,High income,High-income economies,High income,all,0.48527548475000004,0.59781534225,0.66726670425,0.6543541475000001,0.79961947725,Asia,196.0
+110,Cyprus,High income,High-income economies,High income,daughter,0.3467736545,0.6016738340000001,0.6102978287499999,0.7217696125,0.7914305815,Europe,196.0
+111,Cyprus,High income,High-income economies,High income,daughter,0.3467736545,0.6016738340000001,0.6102978287499999,0.7217696125,0.7914305815,Asia,196.0
+112,Cyprus,High income,High-income economies,High income,son,0.6896370277499999,0.621230282,0.7346113845,0.57815394575,0.79954760525,Europe,196.0
+113,Cyprus,High income,High-income economies,High income,son,0.6896370277499999,0.621230282,0.7346113845,0.57815394575,0.79954760525,Asia,196.0
+114,Czech Republic,High income,High-income economies,High income,all,0.6113337205,0.5639030785000001,0.6557910517500001,0.5353359355,0.6251371649999999,Europe,203.0
+115,Czech Republic,High income,High-income economies,High income,daughter,0.61657624675,0.59722659,0.64350344225,0.49565866599999997,0.6898837985,Europe,203.0
+116,Czech Republic,High income,High-income economies,High income,son,0.63948689425,0.536699958,0.66406078625,0.5757779405,0.55518770975,Europe,203.0
+117,Denmark,High income,High-income economies,High income,all,0.51249619575,0.64493752275,0.6706362145,0.58337941775,0.8065470905000001,Europe,208.0
+118,Denmark,High income,High-income economies,High income,daughter,0.51500768975,0.67624663575,0.635000199,0.56566012625,0.8603824005,Europe,208.0
+119,Denmark,High income,High-income economies,High income,son,0.506931238,0.6131262630000001,0.7147615924999999,0.601627156,0.7481723615,Europe,208.0
+120,Djibouti,Middle East & North Africa,Developing economies,Lower middle income,all,,,,,0.535131134,Africa,262.0
+121,Djibouti,Middle East & North Africa,Developing economies,Lower middle income,daughter,,,,,0.5181483925,Africa,262.0
+122,Djibouti,Middle East & North Africa,Developing economies,Lower middle income,son,,,,,0.5561710369999999,Africa,262.0
+123,Dominican Republic,Latin America & Caribbean,Developing economies,Upper middle income,all,0.2178365590000001,0.472517371,0.459151328,0.606992662,0.66084823,North America,214.0
+124,Dominican Republic,Latin America & Caribbean,Developing economies,Upper middle income,daughter,0.14850944300000002,0.573543817,0.46202606,0.566415757,0.69369483,North America,214.0
+125,Dominican Republic,Latin America & Caribbean,Developing economies,Upper middle income,son,0.2944663759999999,0.39436852899999997,0.458199143,0.6421727239999999,0.628159404,North America,214.0
+126,Ecuador,Latin America & Caribbean,Developing economies,Upper middle income,all,0.15074926599999994,0.21295779950000004,0.3182444274999999,0.4240434019999999,0.498188034,South America,218.0
+127,Ecuador,Latin America & Caribbean,Developing economies,Upper middle income,daughter,0.21147127449999992,0.21392515299999992,0.30472941675,0.409035489,0.49230749875,South America,218.0
+128,Ecuador,Latin America & Caribbean,Developing economies,Upper middle income,son,0.10169303399999996,0.21400687100000004,0.33434850000000005,0.43790271875,0.5015034899999999,South America,218.0
+129,"Egypt, Arab Rep.",Middle East & North Africa,Developing economies,Lower middle income,all,0.09488555750000005,0.16557732225,0.29826429500000007,0.5021835192499999,0.580580525,Africa,818.0
+130,"Egypt, Arab Rep.",Middle East & North Africa,Developing economies,Lower middle income,daughter,0.09659701600000004,0.08298942424999989,0.21229495125000009,0.4126469195,0.52811260525,Africa,818.0
+131,"Egypt, Arab Rep.",Middle East & North Africa,Developing economies,Lower middle income,son,0.10181045499999997,0.24491204325000004,0.39869514100000003,0.5793184339999999,0.641390711,Africa,818.0
+132,El Salvador,Latin America & Caribbean,Developing economies,Lower middle income,all,0.283839583,0.270312428,0.423942626,0.5279967489999999,0.5615062120000001,North America,222.0
+133,El Salvador,Latin America & Caribbean,Developing economies,Lower middle income,daughter,0.27475857700000006,0.2535846829999999,0.5053007899999999,0.478463769,0.593943179,North America,222.0
+134,El Salvador,Latin America & Caribbean,Developing economies,Lower middle income,son,0.301418662,0.30354773999999995,0.3677132129999999,0.57954675,0.5269070570000001,North America,222.0
+135,Estonia,High income,High-income economies,High income,all,0.74268244975,0.7624208327499999,0.71213081825,0.6974097975,0.66708865,Europe,233.0
+136,Estonia,High income,High-income economies,High income,daughter,0.76918052125,0.8060118035,0.7227194084999999,0.77509423725,0.65140695875,Europe,233.0
+137,Estonia,High income,High-income economies,High income,son,0.69669585675,0.7023916915,0.71127042175,0.5944214612500001,0.67461486125,Europe,233.0
+138,Ethiopia,Sub-Saharan Africa,Developing economies,Low income,all,0.57274273775,0.2980728895,0.22696606824999987,0.23484188350000001,0.27625657625,Africa,231.0
+139,Ethiopia,Sub-Saharan Africa,Developing economies,Low income,daughter,0.595345944,0.5547374114999999,0.20935925850000003,0.19810865825,0.21173864600000003,Africa,231.0
+140,Ethiopia,Sub-Saharan Africa,Developing economies,Low income,son,0.5450370015,0.20241843175000007,0.25698599200000005,0.30286869400000005,0.36405001574999996,Africa,231.0
+141,Fiji,East Asia & Pacific,Developing economies,Upper middle income,all,,,,,0.6477058677499999,Oceania,242.0
+142,Fiji,East Asia & Pacific,Developing economies,Upper middle income,daughter,,,,,0.66457240275,Oceania,242.0
+143,Fiji,East Asia & Pacific,Developing economies,Upper middle income,son,,,,,0.666853152,Oceania,242.0
+144,Finland,High income,High-income economies,High income,all,0.6481823175,0.6985576895000001,0.7593179605,0.72250054425,0.7794856245,Europe,246.0
+145,Finland,High income,High-income economies,High income,daughter,0.66064769025,0.7092867567500001,0.78799559175,0.7403648979999999,0.798315123,Europe,246.0
+146,Finland,High income,High-income economies,High income,son,0.63460072125,0.6831520870000001,0.7295521425,0.69321835025,0.75389226525,Europe,246.0
+147,France,High income,High-income economies,High income,all,0.46735000625,0.603509903,0.68815259625,0.6833183765,0.76325846825,Europe,250.0
+148,France,High income,High-income economies,High income,daughter,0.4678268432499999,0.5860315635,0.665802568,0.729161784,0.7765629737499999,Europe,250.0
+149,France,High income,High-income economies,High income,son,0.46121197175000006,0.6225537062500001,0.72352212675,0.6252283827499999,0.747650735,Europe,250.0
+150,Gabon,Sub-Saharan Africa,Developing economies,Upper middle income,all,,,,,0.6067687495,Africa,266.0
+151,Gabon,Sub-Saharan Africa,Developing economies,Upper middle income,daughter,,,,,0.58370898675,Africa,266.0
+152,Gabon,Sub-Saharan Africa,Developing economies,Upper middle income,son,,,,,0.6186439022500001,Africa,266.0
+153,Georgia,Europe & Central Asia,Developing economies,Upper middle income,all,0.7083293795000001,0.6487085294999999,0.6337122395,0.4738225785,0.553564407,Europe,268.0
+154,Georgia,Europe & Central Asia,Developing economies,Upper middle income,all,0.7083293795000001,0.6487085294999999,0.6337122395,0.4738225785,0.553564407,Asia,268.0
+155,Georgia,Europe & Central Asia,Developing economies,Upper middle income,daughter,0.72492668775,0.7383938542499999,0.58645126975,0.6236431745,0.55442762375,Europe,268.0
+156,Georgia,Europe & Central Asia,Developing economies,Upper middle income,daughter,0.72492668775,0.7383938542499999,0.58645126975,0.6236431745,0.55442762375,Asia,268.0
+157,Georgia,Europe & Central Asia,Developing economies,Upper middle income,son,0.6855289565,0.51449026175,0.7026928065,0.36382466550000003,0.5527850165,Europe,268.0
+158,Georgia,Europe & Central Asia,Developing economies,Upper middle income,son,0.6855289565,0.51449026175,0.7026928065,0.36382466550000003,0.5527850165,Asia,268.0
+159,Germany,High income,High-income economies,High income,all,0.6197134405,0.684511978,0.581091933,0.65326415,0.71823858075,Europe,276.0
+160,Germany,High income,High-income economies,High income,daughter,0.5987477675,0.69927717,0.65003255775,0.6389679685,0.6557064057499999,Europe,276.0
+161,Germany,High income,High-income economies,High income,son,0.6738215647500001,0.6694725865,0.510475479,0.6642734260000001,0.7724403665,Europe,276.0
+162,Ghana,Sub-Saharan Africa,Developing economies,Lower middle income,all,0.33834835875,0.4943211452499999,0.4962126539999999,0.503615871,0.459986523,Africa,288.0
+163,Ghana,Sub-Saharan Africa,Developing economies,Lower middle income,daughter,0.398870148,0.43453054125,0.4548601882500001,0.46072763924999993,0.44819794599999996,Africa,288.0
+164,Ghana,Sub-Saharan Africa,Developing economies,Lower middle income,son,0.2604929207500001,0.5138033252499999,0.54709039625,0.56863854825,0.492190279,Africa,288.0
+165,Greece,High income,High-income economies,High income,all,0.40044842675000003,0.41218022975,0.60338809325,0.582986526,0.6907002252500001,Europe,300.0
+166,Greece,High income,High-income economies,High income,daughter,0.43454808,0.42781840250000003,0.61490691475,0.63701611025,0.6671791897499999,Europe,300.0
+167,Greece,High income,High-income economies,High income,son,0.34907126450000003,0.400330022,0.59292266525,0.53663032525,0.71116183325,Europe,300.0
+168,Guatemala,Latin America & Caribbean,Developing economies,Lower middle income,all,0.07477547225000003,-0.03145305799999987,0.05661953975,0.16116371725,0.24386946850000002,North America,320.0
+169,Guatemala,Latin America & Caribbean,Developing economies,Lower middle income,daughter,0.13782186799999996,0.03070481100000011,0.09915708000000012,0.07759904849999999,0.1782955975,North America,320.0
+170,Guatemala,Latin America & Caribbean,Developing economies,Lower middle income,son,-0.05475801224999999,-0.10778123149999996,0.010850862000000072,0.24598203600000002,0.31778395174999996,North America,320.0
+171,Guinea,Sub-Saharan Africa,Developing economies,Low income,all,0.57744385275,0.3851569294999999,0.50119580325,0.48184156425,0.37983776625,Africa,324.0
+172,Guinea,Sub-Saharan Africa,Developing economies,Low income,daughter,0.77712132425,0.4200208187500001,0.543254353,0.537146173,0.414909765,Africa,324.0
+173,Guinea,Sub-Saharan Africa,Developing economies,Low income,son,0.4037291555000001,0.37600566425000004,0.47352273749999996,0.4442769885000001,0.35742472125,Africa,324.0
+174,Guinea-Bissau,Sub-Saharan Africa,Developing economies,Low income,all,,,,,0.4373013375,Africa,624.0
+175,Guinea-Bissau,Sub-Saharan Africa,Developing economies,Low income,daughter,,,,,0.36289645724999997,Africa,624.0
+176,Guinea-Bissau,Sub-Saharan Africa,Developing economies,Low income,son,,,,,0.47020578375,Africa,624.0
+177,Honduras,Latin America & Caribbean,Developing economies,Lower middle income,all,0.37793237,0.31083220200000006,0.436438024,0.39066433899999997,0.426318526,North America,340.0
+178,Honduras,Latin America & Caribbean,Developing economies,Lower middle income,daughter,0.26888877200000005,0.23742282400000003,0.45248580000000005,0.488362312,0.41271287200000006,North America,340.0
+179,Honduras,Latin America & Caribbean,Developing economies,Lower middle income,son,0.465892792,0.36272805899999994,0.42276173799999994,0.2997905609999999,0.43959820299999997,North America,340.0
+180,Hungary,High income,High-income economies,High income,all,0.518558964,0.5949670825,0.5732609185,0.4425576627500001,0.42423450949999997,Europe,348.0
+181,Hungary,High income,High-income economies,High income,daughter,0.54349867275,0.5479424297500001,0.5332149565000001,0.41156372425,0.43066752725,Europe,348.0
+182,Hungary,High income,High-income economies,High income,son,0.49208702149999994,0.66110530475,0.6273446680000001,0.47027219100000006,0.4078788160000001,Europe,348.0
+183,Iceland,High income,High-income economies,High income,all,0.46228144325,0.781041313,0.61285094175,0.68426454075,0.7553198597499999,Europe,352.0
+184,Iceland,High income,High-income economies,High income,daughter,,0.45848751100000007,0.614965923,0.6263324917499999,0.75629865,Europe,352.0
+185,Iceland,High income,High-income economies,High income,son,,0.92860636175,0.589888796,0.7007494645000001,0.7541664915,Europe,352.0
+186,India,South Asia,Developing economies,Lower middle income,all,0.02106995899999986,0.15108516824999996,0.20525945749999996,0.29617671675,0.35805931699999993,Asia,356.0
+187,India,South Asia,Developing economies,Lower middle income,daughter,0.53900146125,0.11359629025000006,0.18918624524999994,0.25046229350000004,0.2982567399999999,Asia,356.0
+188,India,South Asia,Developing economies,Lower middle income,son,0.005054518500000049,0.17721435424999998,0.2249361725000001,0.35778005425000003,0.4315616485,Asia,356.0
+189,Indonesia,East Asia & Pacific,Developing economies,Lower middle income,all,0.37291593850000004,0.41196981075000005,0.34931522599999987,0.49957196425000006,0.57902821175,Asia,360.0
+190,Indonesia,East Asia & Pacific,Developing economies,Lower middle income,daughter,0.35311225025000004,0.4192148149999999,0.3215911087500001,0.463548973,0.5577039420000001,Asia,360.0
+191,Indonesia,East Asia & Pacific,Developing economies,Lower middle income,son,0.3851035085000001,0.3955170065,0.392061502,0.53659792975,0.6031058505,Asia,360.0
+192,"Iran, Islamic Rep.",Middle East & North Africa,Developing economies,Upper middle income,all,,,,,0.643755004,Asia,364.0
+193,"Iran, Islamic Rep.",Middle East & North Africa,Developing economies,Upper middle income,daughter,,,,,0.638580084,Asia,364.0
+194,"Iran, Islamic Rep.",Middle East & North Africa,Developing economies,Upper middle income,son,,,,,0.653394267,Asia,364.0
+195,Iraq,Middle East & North Africa,Developing economies,Upper middle income,all,0.11387327300000005,0.12546733,0.361518994,0.4567856564999999,0.43634124075,Asia,368.0
+196,Iraq,Middle East & North Africa,Developing economies,Upper middle income,daughter,-0.1331657022499999,-0.014136493250000104,0.22370639449999996,0.4242971167499999,0.3881426305000001,Asia,368.0
+197,Iraq,Middle East & North Africa,Developing economies,Upper middle income,son,0.29694226375,0.29425491375,0.52455265825,0.49760237350000003,0.49435599900000005,Asia,368.0
+198,Ireland,High income,High-income economies,High income,all,0.559676662,0.663456224,0.6886830255,0.68445616225,0.6476159242499999,Europe,372.0
+199,Ireland,High income,High-income economies,High income,daughter,0.53792879725,0.6386336015,0.6715549825,0.691818472,0.65800550575,Europe,372.0
+200,Ireland,High income,High-income economies,High income,son,0.57937093825,0.691132851,0.7031586915,0.677298382,0.63594235475,Europe,372.0
+201,Israel,High income,High-income economies,High income,all,0.6130764710000001,0.6908555925,0.72083719825,0.72914477075,0.8180897942500001,Asia,376.0
+202,Israel,High income,High-income economies,High income,daughter,0.61589423575,0.6821699962500001,0.70012672975,0.6993124335,0.81355340025,Asia,376.0
+203,Israel,High income,High-income economies,High income,son,0.6042969229999999,0.70565007625,0.7427796907499999,0.76345747725,0.82223594575,Asia,376.0
+204,Italy,High income,High-income economies,High income,all,0.41167469324999995,0.4385448245000001,0.52851459375,0.6142672600000001,0.6619612724999999,Europe,380.0
+205,Italy,High income,High-income economies,High income,daughter,0.41012689450000006,0.43766354025,0.5185640229999999,0.59001249825,0.6586522905000001,Europe,380.0
+206,Italy,High income,High-income economies,High income,son,0.4173299075,0.4383821185,0.5480694027499999,0.64791730775,0.66494146,Europe,380.0
+207,Japan,High income,High-income economies,High income,all,0.66308452175,0.7315148490000001,0.66104319675,0.665597722,0.7045338452500001,Asia,392.0
+208,Japan,High income,High-income economies,High income,daughter,0.688567378,0.73558792475,0.6787689925,0.70499784875,0.70460841825,Asia,392.0
+209,Japan,High income,High-income economies,High income,son,0.642534889,0.7282585725,0.639329158,0.613182515,0.7051265725,Asia,392.0
+210,Jordan,Middle East & North Africa,Developing economies,Upper middle income,all,0.43565067625,0.46929995699999993,0.66020686175,0.721102342,0.75941907225,Asia,400.0
+211,Jordan,Middle East & North Africa,Developing economies,Upper middle income,daughter,0.19292992325000002,0.32968436175000004,0.6333228425,0.7164616807499999,0.7409355790000001,Asia,400.0
+212,Jordan,Middle East & North Africa,Developing economies,Upper middle income,son,0.5875780655,0.59532104425,0.6660937665,0.7254852430000001,0.77843600125,Asia,400.0
+213,Kazakhstan,Europe & Central Asia,Developing economies,Upper middle income,all,0.78777539725,0.86348001075,0.8048792035,0.69817115725,0.69213823975,Europe,398.0
+214,Kazakhstan,Europe & Central Asia,Developing economies,Upper middle income,all,0.78777539725,0.86348001075,0.8048792035,0.69817115725,0.69213823975,Asia,398.0
+215,Kazakhstan,Europe & Central Asia,Developing economies,Upper middle income,daughter,0.7744220125,0.88120711575,0.82575252275,0.70008120675,0.6535063237500001,Europe,398.0
+216,Kazakhstan,Europe & Central Asia,Developing economies,Upper middle income,daughter,0.7744220125,0.88120711575,0.82575252275,0.70008120675,0.6535063237500001,Asia,398.0
+217,Kazakhstan,Europe & Central Asia,Developing economies,Upper middle income,son,,0.817610916,0.74581650275,0.679844793,0.74192047125,Europe,398.0
+218,Kazakhstan,Europe & Central Asia,Developing economies,Upper middle income,son,,0.817610916,0.74581650275,0.679844793,0.74192047125,Asia,398.0
+219,Kenya,Sub-Saharan Africa,Developing economies,Lower middle income,all,,1.0179410415,0.802421309,0.7685904205,0.63511724,Africa,404.0
+220,Kenya,Sub-Saharan Africa,Developing economies,Lower middle income,daughter,,,0.671707064,0.73676651325,0.65748546275,Africa,404.0
+221,Kenya,Sub-Saharan Africa,Developing economies,Lower middle income,son,,0.91292602475,0.91946909275,0.78361215825,0.6089289932499999,Africa,404.0
+222,Kiribati,East Asia & Pacific,Developing economies,Lower middle income,all,,,,,0.78667209675,Oceania,296.0
+223,Kiribati,East Asia & Pacific,Developing economies,Lower middle income,daughter,,,,,0.80632545425,Oceania,296.0
+224,Kiribati,East Asia & Pacific,Developing economies,Lower middle income,son,,,,,0.7704142295,Oceania,296.0
+225,"Korea, Rep.",High income,High-income economies,High income,all,0.49084088950000004,0.58017970625,0.73023212325,0.79394163925,0.8055962285,Asia,410.0
+226,"Korea, Rep.",High income,High-income economies,High income,daughter,0.48940963299999996,0.55483378475,0.7116706185,0.7835263125,0.7718732915,Asia,410.0
+227,"Korea, Rep.",High income,High-income economies,High income,son,0.5233464685,0.6170429215,0.7449590975,0.8024063557500001,0.835535884,Asia,410.0
+231,Kyrgyz Republic,Europe & Central Asia,Developing economies,Lower middle income,all,0.723707512,0.81783665325,0.799201805,0.770678874,0.6582890675,Asia,417.0
+232,Kyrgyz Republic,Europe & Central Asia,Developing economies,Lower middle income,daughter,0.69512115425,0.8263968045,0.7758065275,0.6795048565,0.6639692187499999,Asia,417.0
+233,Kyrgyz Republic,Europe & Central Asia,Developing economies,Lower middle income,son,0.80591081475,0.80886656775,0.8267668635000001,0.860731,0.6595110070000001,Asia,417.0
+234,Lao PDR,East Asia & Pacific,Developing economies,Lower middle income,all,,0.26130314925,0.34441024075000004,0.47830162200000004,0.5098986925,Asia,418.0
+235,Lao PDR,East Asia & Pacific,Developing economies,Lower middle income,daughter,,0.8137303035000001,0.4533251225,0.40917620050000003,0.5034651607499999,Asia,418.0
+236,Lao PDR,East Asia & Pacific,Developing economies,Lower middle income,son,,-0.01774114374999991,0.12556755524999996,0.5799581635,0.53894269475,Asia,418.0
+237,Latvia,High income,High-income economies,High income,all,0.65967304275,0.87145972425,0.751486171,0.683687523,0.6218729540000001,Europe,428.0
+238,Latvia,High income,High-income economies,High income,daughter,0.6227834895,0.938950389,0.72754959,0.58294942975,0.5930185095,Europe,428.0
+239,Latvia,High income,High-income economies,High income,son,0.7294649259999999,0.762245022,0.77695707225,0.7706532925,0.62875919075,Europe,428.0
+240,Lebanon,Middle East & North Africa,Developing economies,Upper middle income,all,,,,,0.5438225269999999,Asia,422.0
+241,Lebanon,Middle East & North Africa,Developing economies,Upper middle income,daughter,,,,,0.7688537165,Asia,422.0
+242,Lebanon,Middle East & North Africa,Developing economies,Upper middle income,son,,,,,0.44131448125000006,Asia,422.0
+243,Lesotho,Sub-Saharan Africa,Developing economies,Lower middle income,all,,,,,0.71204494325,Africa,426.0
+244,Lesotho,Sub-Saharan Africa,Developing economies,Lower middle income,daughter,,,,,0.6250458695,Africa,426.0
+245,Lesotho,Sub-Saharan Africa,Developing economies,Lower middle income,son,,,,,1.2140436435,Africa,426.0
+246,Liberia,Sub-Saharan Africa,Developing economies,Low income,all,0.37363621599999997,0.46664327399999994,0.5837499052499999,0.50369911675,0.584797077,Africa,430.0
+247,Liberia,Sub-Saharan Africa,Developing economies,Low income,daughter,0.5041893795000001,0.47395786625,0.48453357825,0.48666692525,0.50031434775,Africa,430.0
+248,Liberia,Sub-Saharan Africa,Developing economies,Low income,son,0.29651644825,0.5176285577499999,0.677947387,0.57164920125,0.733639836,Africa,430.0
+249,Lithuania,High income,High-income economies,High income,all,0.7082296535,0.8376154675,0.86772227275,0.75960556425,0.6978959405,Europe,440.0
+250,Lithuania,High income,High-income economies,High income,daughter,0.67393104725,0.813561473,0.8325383479999999,0.74006155875,0.6551799105,Europe,440.0
+251,Lithuania,High income,High-income economies,High income,son,0.7608421405,0.8495072945,0.90588052575,0.78098693125,0.7471770085,Europe,440.0
+252,"Macedonia, FYR",Europe & Central Asia,Developing economies,Upper middle income,all,0.21712161575,0.4105309395000001,0.37467916300000004,0.36377386749999996,0.46597907675000005,Europe,807.0
+253,"Macedonia, FYR",Europe & Central Asia,Developing economies,Upper middle income,daughter,0.21038800474999997,0.3417178242500001,0.26740732775,0.256512478,0.35011681924999993,Europe,807.0
+254,"Macedonia, FYR",Europe & Central Asia,Developing economies,Upper middle income,son,0.18988224850000002,0.49730417125000004,0.462873906,0.48886522675,0.55295211075,Europe,807.0
+255,Madagascar,Sub-Saharan Africa,Developing economies,Low income,all,0.340855688,0.3022688177499999,0.35046254100000007,0.4844969065,0.39496721324999995,Africa,450.0
+256,Madagascar,Sub-Saharan Africa,Developing economies,Low income,daughter,0.41602800799999995,0.2762337772500001,0.328344196,0.4895387662499999,0.40052552525000007,Africa,450.0
+257,Madagascar,Sub-Saharan Africa,Developing economies,Low income,son,0.32310885199999995,0.31149040149999996,0.359617874,0.477218248,0.39051203425000003,Africa,450.0
+258,Malawi,Sub-Saharan Africa,Developing economies,Low income,all,0.4655813204999999,0.6256175655,0.5259748772499999,0.48258886474999996,0.559212066,Africa,454.0
+259,Malawi,Sub-Saharan Africa,Developing economies,Low income,daughter,0.495784566,0.7094167447499999,0.5720559955,0.4595282005,0.5636199935,Africa,454.0
+260,Malawi,Sub-Saharan Africa,Developing economies,Low income,son,0.31149075174999985,0.6343318632499999,0.512899324,0.505390145,0.5660173745,Africa,454.0
+261,Malaysia,East Asia & Pacific,Developing economies,Upper middle income,all,,,0.594851531,0.68320745975,0.70956658575,Asia,458.0
+262,Malaysia,East Asia & Pacific,Developing economies,Upper middle income,daughter,,,0.7369013465,0.6762881727500001,0.722776629,Asia,458.0
+263,Malaysia,East Asia & Pacific,Developing economies,Upper middle income,son,,,0.5300725995,0.689974062,0.695237644,Asia,458.0
+264,Maldives,South Asia,Developing economies,Upper middle income,all,,,,,0.87369393925,Asia,462.0
+265,Maldives,South Asia,Developing economies,Upper middle income,daughter,,,,,0.87928208725,Asia,462.0
+266,Maldives,South Asia,Developing economies,Upper middle income,son,,,,,0.86293137275,Asia,462.0
+267,Mali,Sub-Saharan Africa,Developing economies,Low income,all,0.292421296,0.43345990049999994,0.31571447875,0.42186403275000006,0.26602175824999996,Africa,466.0
+268,Mali,Sub-Saharan Africa,Developing economies,Low income,daughter,0.578076318,0.5150727855,0.38798217450000005,0.5570519494999999,0.38268612324999995,Africa,466.0
+269,Mali,Sub-Saharan Africa,Developing economies,Low income,son,0.16102871275000008,0.41433883425000007,0.26937624799999993,0.3425006420000001,0.1886725575,Africa,466.0
+270,Mauritania,Sub-Saharan Africa,Developing economies,Lower middle income,all,0.95270169975,0.75687839825,0.579982564,0.45649770624999997,0.4974533245,Africa,478.0
+271,Mauritania,Sub-Saharan Africa,Developing economies,Lower middle income,daughter,0.98262106325,0.93219572225,0.72954987375,0.56082795575,0.410219036,Africa,478.0
+272,Mauritania,Sub-Saharan Africa,Developing economies,Lower middle income,son,0.92563064225,0.5448164492500001,0.38843473799999995,0.34958380474999995,0.59684563425,Africa,478.0
+273,Mauritius,Sub-Saharan Africa,Developing economies,Upper middle income,all,,,,,0.6325168385,Africa,480.0
+274,Mauritius,Sub-Saharan Africa,Developing economies,Upper middle income,daughter,,,,,0.6231526805000001,Africa,480.0
+275,Mauritius,Sub-Saharan Africa,Developing economies,Upper middle income,son,,,,,0.65602321175,Africa,480.0
+276,Mexico,Latin America & Caribbean,Developing economies,Upper middle income,all,0.3485135585,0.35874223725,0.4149222224999999,0.5630533845000001,0.5972532035,North America,484.0
+277,Mexico,Latin America & Caribbean,Developing economies,Upper middle income,daughter,0.4336204377499999,0.47616428125,0.39929501700000003,0.525570713,0.61163765175,North America,484.0
+278,Mexico,Latin America & Caribbean,Developing economies,Upper middle income,son,0.17760749149999988,0.280819222,0.430973336,0.6040689945,0.580749236,North America,484.0
+279,Moldova,Europe & Central Asia,Developing economies,Lower middle income,all,0.66031897075,0.780524831,0.7973908187500001,0.7855655699999999,0.560219675,Europe,498.0
+280,Moldova,Europe & Central Asia,Developing economies,Lower middle income,daughter,0.6249597075,0.759184003,0.81716737925,0.7561512217499999,0.52272841325,Europe,498.0
+281,Moldova,Europe & Central Asia,Developing economies,Lower middle income,son,0.7651029825,0.80873107525,0.77696676575,0.8191036585,0.60864868775,Europe,498.0
+282,Mongolia,East Asia & Pacific,Developing economies,Lower middle income,all,0.8183878735,0.765149798,0.81564197675,0.84334479275,0.7329234965,Asia,496.0
+283,Mongolia,East Asia & Pacific,Developing economies,Lower middle income,daughter,0.8051672169999999,0.7442365102499999,0.8168923035,0.78938235725,0.7516686805,Asia,496.0
+284,Mongolia,East Asia & Pacific,Developing economies,Lower middle income,son,,0.79401400325,0.809668973,0.914943205,0.70244886725,Asia,496.0
+285,Montenegro,Europe & Central Asia,Developing economies,Upper middle income,all,0.51597645125,0.4884863272500001,0.57447645075,0.576345563,0.45869101575000004,Europe,499.0
+286,Montenegro,Europe & Central Asia,Developing economies,Upper middle income,daughter,0.47517313799999994,0.3814689965,0.5139065162500001,0.5699063465,0.5387742445,Europe,499.0
+287,Montenegro,Europe & Central Asia,Developing economies,Upper middle income,son,0.5629455595,0.57858146725,0.6420504675,0.5866610035000001,0.3898274747499999,Europe,499.0
+288,Morocco,Middle East & North Africa,Developing economies,Lower middle income,all,0.35603208099999994,0.2763648780000001,0.31899158650000004,0.36100296675,0.46432746199999997,Africa,504.0
+289,Morocco,Middle East & North Africa,Developing economies,Lower middle income,daughter,0.64104948925,0.28380548949999995,0.2523683010000001,0.26148727524999993,0.3630454839999999,Africa,504.0
+290,Morocco,Middle East & North Africa,Developing economies,Lower middle income,son,0.23243561375,0.3040551469999999,0.4012089295000001,0.49862734200000003,0.5915478765,Africa,504.0
+291,Mozambique,Sub-Saharan Africa,Developing economies,Low income,all,,,,,0.34354740400000006,Africa,508.0
+292,Mozambique,Sub-Saharan Africa,Developing economies,Low income,daughter,,,,,0.20377565900000005,Africa,508.0
+293,Mozambique,Sub-Saharan Africa,Developing economies,Low income,son,,,,,0.41957455899999996,Africa,508.0
+294,Namibia,Sub-Saharan Africa,Developing economies,Upper middle income,all,,,,,0.52301519375,Africa,516.0
+295,Namibia,Sub-Saharan Africa,Developing economies,Upper middle income,daughter,,,,,0.54544512175,Africa,516.0
+296,Namibia,Sub-Saharan Africa,Developing economies,Upper middle income,son,,,,,0.49613080175,Africa,516.0
+297,Nepal,South Asia,Developing economies,Low income,all,0.17616450775000003,0.16104359899999998,0.2011775522499999,0.27831567825000003,0.28448084000000007,Asia,524.0
+298,Nepal,South Asia,Developing economies,Low income,daughter,0.4246967287500001,0.389429778,0.3312927560000001,0.25970105850000014,0.21117956974999996,Asia,524.0
+299,Nepal,South Asia,Developing economies,Low income,son,0.0746485292500001,-0.011635020249999961,0.03686957050000017,0.26539888975000003,0.3935637325,Asia,524.0
+300,Netherlands,High income,High-income economies,High income,all,0.5553613230000001,0.5646000130000001,0.750902895,0.67601180075,0.72264213125,Europe,528.0
+301,Netherlands,High income,High-income economies,High income,daughter,0.5428240595,0.5600548535,0.7340497822500001,0.72505038625,0.7082653495,Europe,528.0
+302,Netherlands,High income,High-income economies,High income,son,0.5665842815,0.582062349,0.76419657125,0.620423101,0.739061501,Europe,528.0
+303,New Zealand,High income,High-income economies,High income,all,0.77344843375,0.8358406815,0.80857437825,0.819577124,,Oceania,554.0
+304,New Zealand,High income,High-income economies,High income,daughter,0.8018456549999999,0.8231120089999999,0.7999976502499999,0.8478144485,,Oceania,554.0
+305,New Zealand,High income,High-income economies,High income,son,0.7507109567500001,0.846054703,0.8271873814999999,0.8080540375,,Oceania,554.0
+306,Nicaragua,Latin America & Caribbean,Developing economies,Lower middle income,all,0.416793764,0.413113356,0.47368949700000007,0.515062839,0.567063957,North America,558.0
+307,Nicaragua,Latin America & Caribbean,Developing economies,Lower middle income,daughter,0.38776278500000005,0.46807444100000006,0.471051574,0.548152626,0.5502657,North America,558.0
+308,Nicaragua,Latin America & Caribbean,Developing economies,Lower middle income,son,0.4385956529999999,0.35315054700000004,0.476475596,0.482997954,0.583647311,North America,558.0
+309,Niger,Sub-Saharan Africa,Developing economies,Low income,all,0.7154199035,0.36554942300000004,0.37307772024999997,0.48837398749999994,0.39214459074999997,Africa,562.0
+310,Niger,Sub-Saharan Africa,Developing economies,Low income,daughter,0.7879878655,0.43317209200000006,0.24715502574999992,0.4316263644999999,0.38220463700000007,Africa,562.0
+311,Niger,Sub-Saharan Africa,Developing economies,Low income,son,0.6876659374999999,0.39248520875000004,0.5835715365,0.5804033055,0.4560203625,Africa,562.0
+312,Nigeria,Sub-Saharan Africa,Developing economies,Lower middle income,all,0.6607553847500001,0.572779536,0.671830207,0.57568860075,0.47650757425,Africa,566.0
+313,Nigeria,Sub-Saharan Africa,Developing economies,Lower middle income,daughter,0.64771395925,0.50729746375,0.60373915,0.5886595845,0.41981089125000004,Africa,566.0
+314,Nigeria,Sub-Saharan Africa,Developing economies,Lower middle income,son,0.74811294475,0.679111697,0.78325777325,0.6118285285,0.61017810575,Africa,566.0
+315,Norway,High income,High-income economies,High income,all,0.632758543,0.67936975525,0.57948429875,0.5853246969999999,0.72456499225,Europe,578.0
+316,Norway,High income,High-income economies,High income,daughter,0.5374059154999999,0.6375748217499999,0.531390555,0.57694879175,0.6880955547500001,Europe,578.0
+317,Norway,High income,High-income economies,High income,son,0.71921501675,0.71476381275,0.6119667365,0.5916020719999999,0.7668091432499999,Europe,578.0
+318,Pakistan,South Asia,Developing economies,Lower middle income,all,0.33689368499999994,0.23233807100000003,0.23544961225000005,0.2682387235,0.391997516,Asia,586.0
+319,Pakistan,South Asia,Developing economies,Lower middle income,daughter,0.43536999825,0.34093734625000005,0.2735811025,0.2512157260000001,0.32205013949999994,Asia,586.0
+320,Pakistan,South Asia,Developing economies,Lower middle income,son,0.1763971447499999,0.14097900675000008,0.20477020724999995,0.2661182432500001,0.43384745724999996,Asia,586.0
+321,Panama,Latin America & Caribbean,Developing economies,Upper middle income,all,0.19419270749999995,0.35172148075,0.40660253150000003,0.451934382,0.5266659337499999,North America,591.0
+322,Panama,Latin America & Caribbean,Developing economies,Upper middle income,daughter,0.13036787500000002,0.35406617800000006,0.3599804937500001,0.44051912425000006,0.5061514975,North America,591.0
+323,Panama,Latin America & Caribbean,Developing economies,Upper middle income,son,0.25571693475,0.34740588075,0.44125947349999994,0.4591572655,0.542427525,North America,591.0
+324,Papua New Guinea,East Asia & Pacific,Developing economies,Lower middle income,all,,,,,0.6039893252499999,Oceania,598.0
+325,Papua New Guinea,East Asia & Pacific,Developing economies,Lower middle income,daughter,,,,,0.512545012,Oceania,598.0
+326,Papua New Guinea,East Asia & Pacific,Developing economies,Lower middle income,son,,,,,0.6555681975000001,Oceania,598.0
+327,Paraguay,Latin America & Caribbean,Developing economies,Upper middle income,all,0.43294876799999993,0.388721168,0.39915835899999996,0.45867508600000007,0.5980336070000001,South America,600.0
+328,Paraguay,Latin America & Caribbean,Developing economies,Upper middle income,daughter,0.3669241670000001,0.379381239,0.39348268500000005,0.48566943399999996,0.572023481,South America,600.0
+329,Paraguay,Latin America & Caribbean,Developing economies,Upper middle income,son,0.48000204599999996,0.395225763,0.41417563,0.436025918,0.622772008,South America,600.0
+330,Peru,Latin America & Caribbean,Developing economies,Upper middle income,all,0.08886669599999997,0.22378548975,0.3747562470000001,0.50835853825,0.5941922515,South America,604.0
+331,Peru,Latin America & Caribbean,Developing economies,Upper middle income,daughter,0.07150220875000013,0.10708738875000012,0.33306221675000003,0.44074429549999994,0.61244441575,South America,604.0
+332,Peru,Latin America & Caribbean,Developing economies,Upper middle income,son,0.10071991375,0.26707540425,0.38654729725000003,0.525599204,0.58925313525,South America,604.0
+333,Philippines,East Asia & Pacific,Developing economies,Lower middle income,all,0.67049779025,0.7087876985,0.77714987075,0.68651685125,0.8441285675,Asia,608.0
+334,Philippines,East Asia & Pacific,Developing economies,Lower middle income,daughter,0.58119241175,0.76246841975,0.77802599975,0.741822276,0.9194636865,Asia,608.0
+335,Philippines,East Asia & Pacific,Developing economies,Lower middle income,son,0.7466941625000001,0.65104084475,0.7751412465,0.62940069275,0.79262327775,Asia,608.0
+336,Poland,High income,High-income economies,High income,all,0.652087584,0.6095721945,0.58755566925,0.5392171665,0.6628877147500001,Europe,616.0
+337,Poland,High income,High-income economies,High income,daughter,0.70827522875,0.6268280225,0.63059858225,0.4819499924999999,0.6778938845,Europe,616.0
+338,Poland,High income,High-income economies,High income,son,0.6024729310000001,0.5903465672499999,0.53048509375,0.59028483175,0.638552137,Europe,616.0
+339,Portugal,High income,High-income economies,High income,all,0.34950755525,0.3309110997500001,0.354672581,0.31562925875000003,0.48593167225,Europe,620.0
+340,Portugal,High income,High-income economies,High income,daughter,0.30600161849999996,0.28452239925,0.38799192025000007,0.34004376824999993,0.51951914275,Europe,620.0
+341,Portugal,High income,High-income economies,High income,son,0.40877319875000007,0.39129002375,0.31005254400000004,0.30173452175000004,0.43769104025000005,Europe,620.0
+342,Romania,Europe & Central Asia,Developing economies,Upper middle income,all,0.3967952429999999,0.42916315775,0.51456964025,0.481089577,0.31359261250000003,Europe,642.0
+343,Romania,Europe & Central Asia,Developing economies,Upper middle income,daughter,0.41778029525000004,0.37294507025,0.48091886950000007,0.474960901,0.2081233859999999,Europe,642.0
+344,Romania,Europe & Central Asia,Developing economies,Upper middle income,son,0.42710100100000004,0.5117999315,0.56137765975,0.48883041725,0.42637372025,Europe,642.0
+345,Russian Federation,Europe & Central Asia,Developing economies,Upper middle income,all,0.7331336365,0.8120764755000001,0.83969983475,0.75894436625,0.630100094,Europe,643.0
+346,Russian Federation,Europe & Central Asia,Developing economies,Upper middle income,all,0.7331336365,0.8120764755000001,0.83969983475,0.75894436625,0.630100094,Asia,643.0
+347,Russian Federation,Europe & Central Asia,Developing economies,Upper middle income,daughter,0.7401472555,0.7905724905,0.8140934295,0.7813249565,0.63751977675,Europe,643.0
+348,Russian Federation,Europe & Central Asia,Developing economies,Upper middle income,daughter,0.7401472555,0.7905724905,0.8140934295,0.7813249565,0.63751977675,Asia,643.0
+349,Russian Federation,Europe & Central Asia,Developing economies,Upper middle income,son,0.716074489,0.85046622175,0.86644347375,0.7471149822500001,0.62805414925,Europe,643.0
+350,Russian Federation,Europe & Central Asia,Developing economies,Upper middle income,son,0.716074489,0.85046622175,0.86644347375,0.7471149822500001,0.62805414925,Asia,643.0
+351,Rwanda,Sub-Saharan Africa,Developing economies,Low income,all,0.3304355219999999,0.4934884905,0.32889056175,0.4260295627499999,0.4517022075,Africa,646.0
+352,Rwanda,Sub-Saharan Africa,Developing economies,Low income,daughter,0.314970717,0.52877760675,0.32812476175000005,0.3734530657499999,0.39316910525000004,Africa,646.0
+353,Rwanda,Sub-Saharan Africa,Developing economies,Low income,son,0.315408036,0.466975704,0.33586300925,0.49689912824999993,0.5099114552499999,Africa,646.0
+354,Sao Tome and Principe,Sub-Saharan Africa,Developing economies,Lower middle income,all,,,,,0.43529956775,Africa,678.0
+355,Sao Tome and Principe,Sub-Saharan Africa,Developing economies,Lower middle income,daughter,,,,,0.7752824575,Africa,678.0
+356,Sao Tome and Principe,Sub-Saharan Africa,Developing economies,Lower middle income,son,,,,,0.37533341350000005,Africa,678.0
+357,Senegal,Sub-Saharan Africa,Developing economies,Low income,all,0.5320707499999999,0.628558575,0.5238362,0.47622405,0.5047464500000001,Africa,686.0
+358,Senegal,Sub-Saharan Africa,Developing economies,Low income,daughter,0.46411372500000003,0.643805125,0.564406325,0.4608595,0.49290855,Africa,686.0
+359,Senegal,Sub-Saharan Africa,Developing economies,Low income,son,0.578129675,0.614485775,0.499027825,0.474932775,0.53004345,Africa,686.0
+360,Serbia,Europe & Central Asia,Developing economies,Upper middle income,all,0.37033708374999996,0.5574785025,0.58755186225,0.545712218,0.5603349135,Europe,688.0
+361,Serbia,Europe & Central Asia,Developing economies,Upper middle income,daughter,0.33462066925,0.47899381825,0.5888776632499999,0.49176409825,0.5276327135000001,Europe,688.0
+362,Serbia,Europe & Central Asia,Developing economies,Upper middle income,son,0.44036004674999996,0.6452953145,0.5867014155,0.60029120775,0.58281596,Europe,688.0
+363,Sierra Leone,Sub-Saharan Africa,Developing economies,Low income,all,,,,,0.4359599205,Africa,694.0
+364,Sierra Leone,Sub-Saharan Africa,Developing economies,Low income,daughter,,,,,0.40379907174999996,Africa,694.0
+365,Sierra Leone,Sub-Saharan Africa,Developing economies,Low income,son,,,,,0.45167492325,Africa,694.0
+366,Slovak Republic,High income,High-income economies,High income,all,0.707419455,0.6457960905,0.7173045575,0.58207198975,0.60020018375,Europe,703.0
+367,Slovak Republic,High income,High-income economies,High income,daughter,0.71339453025,0.6220096055,0.71675295375,0.6152430772499999,0.5583514572499999,Europe,703.0
+368,Slovak Republic,High income,High-income economies,High income,son,0.703319341,0.6746549535,0.71687683475,0.534310587,0.6399487482499999,Europe,703.0
+369,Slovenia,High income,High-income economies,High income,all,0.5791332575000001,0.61649551225,0.55335643875,0.5048855992499999,0.6719891877499999,Europe,705.0
+370,Slovenia,High income,High-income economies,High income,daughter,0.552720897,0.5852321015,0.48663406825,0.46941939,0.578430511,Europe,705.0
+371,Slovenia,High income,High-income economies,High income,son,0.61766932175,0.645017423,0.61187180125,0.5367770117499999,0.7294809037500001,Europe,705.0
+372,South Africa,Sub-Saharan Africa,Developing economies,Upper middle income,all,0.20854625075,0.31358274825,0.4677850454999999,0.66226230575,0.802486349,Africa,710.0
+373,South Africa,Sub-Saharan Africa,Developing economies,Upper middle income,daughter,0.19067010274999996,0.28602211199999994,0.38236324475000005,0.655684352,0.7846653647499999,Africa,710.0
+374,South Africa,Sub-Saharan Africa,Developing economies,Upper middle income,son,0.23827309924999995,0.34628182650000006,0.56512428075,0.6665499807499999,0.8196445514999999,Africa,710.0
+375,South Sudan,Sub-Saharan Africa,Developing economies,Low income,all,,,,,0.58407944425,Africa,728.0
+376,South Sudan,Sub-Saharan Africa,Developing economies,Low income,daughter,,,,,0.599134624,Africa,728.0
+377,South Sudan,Sub-Saharan Africa,Developing economies,Low income,son,,,,,0.54968502375,Africa,728.0
+378,Spain,High income,High-income economies,High income,all,0.33397595574999994,0.4442805272500001,0.55226317025,0.6253853665,0.6953522265000001,Europe,724.0
+379,Spain,High income,High-income economies,High income,daughter,0.40521890674999994,0.5176359340000001,0.5458111315,0.6465211587499999,0.7878424525000001,Europe,724.0
+380,Spain,High income,High-income economies,High income,son,0.2607933135,0.3831107317500001,0.5540969,0.60810989875,0.61342422625,Europe,724.0
+381,Sri Lanka,South Asia,Developing economies,Lower middle income,all,0.56529390075,0.65758045775,0.652457267,0.6927142850000001,0.59729823475,Asia,144.0
+382,Sri Lanka,South Asia,Developing economies,Lower middle income,daughter,0.58520020525,0.58489051475,0.6902329885,0.726706799,0.5370944515,Asia,144.0
+383,Sri Lanka,South Asia,Developing economies,Lower middle income,son,,0.73357370525,0.5885817929999999,0.676546447,0.655088857,Asia,144.0
+384,Sudan,Sub-Saharan Africa,Developing economies,Lower middle income,all,,,,,0.28193747999999996,Africa,736.0
+385,Sudan,Sub-Saharan Africa,Developing economies,Lower middle income,daughter,,,,,0.31549505925,Africa,736.0
+386,Sudan,Sub-Saharan Africa,Developing economies,Lower middle income,son,,,,,0.25760322825000004,Africa,736.0
+387,Swaziland,Sub-Saharan Africa,Developing economies,Lower middle income,all,,,,,0.6186659335,Africa,748.0
+388,Swaziland,Sub-Saharan Africa,Developing economies,Lower middle income,daughter,,,,,0.6593146400000001,Africa,748.0
+389,Swaziland,Sub-Saharan Africa,Developing economies,Lower middle income,son,,,,,0.5748454107500001,Africa,748.0
+390,Sweden,High income,High-income economies,High income,all,0.6840279475,0.7688604782499999,0.746594794,0.7018836214999999,0.77406317,Europe,752.0
+391,Sweden,High income,High-income economies,High income,daughter,0.72020137675,0.77058777175,0.770099815,0.715890508,0.754656609,Europe,752.0
+392,Sweden,High income,High-income economies,High income,son,0.64385481925,0.76482821625,0.7211009785,0.68876354425,0.78699421125,Europe,752.0
+393,Switzerland,High income,High-income economies,High income,all,0.67210274925,0.6143808737500001,0.731308434,0.6035645307499999,0.65362061575,Europe,756.0
+394,Switzerland,High income,High-income economies,High income,daughter,0.70289353275,0.580480337,0.7122081965,0.5624596399999999,0.605830349,Europe,756.0
+395,Switzerland,High income,High-income economies,High income,son,0.619518459,0.65274927025,0.744307261,0.6503678785,0.6954945175,Europe,756.0
+396,"Taiwan, China",High income,High-income economies,High income,all,0.2863124162499999,0.478442237,0.6520071625,0.7068363205,0.67836406825,Asia,158.0
+397,"Taiwan, China",High income,High-income economies,High income,daughter,0.25079125174999994,0.46628081050000003,0.6168521195000001,0.72425219775,0.69258100525,Asia,158.0
+398,"Taiwan, China",High income,High-income economies,High income,son,0.39518707975,0.51169074325,0.6830921545,0.6877441479999999,0.6620272025,Asia,158.0
+399,Tajikistan,Europe & Central Asia,Developing economies,Lower middle income,all,0.7647351287499999,0.781009946,0.8245640585,0.6911250017499999,0.75853814575,Asia,762.0
+400,Tajikistan,Europe & Central Asia,Developing economies,Lower middle income,daughter,,0.75652054325,0.7606394734999999,0.66771492,0.7724032512500001,Asia,762.0
+401,Tajikistan,Europe & Central Asia,Developing economies,Lower middle income,son,,0.8417709045,0.92570124,0.74453463775,0.709813036,Asia,762.0
+402,Tanzania,Sub-Saharan Africa,Developing economies,Low income,all,0.45818004749999997,0.36607880875,0.5891237555,0.66523809725,0.54408594975,Africa,834.0
+403,Tanzania,Sub-Saharan Africa,Developing economies,Low income,daughter,0.4474006665,0.2675825355000001,0.5605419875000001,0.674196258,0.5406966879999999,Africa,834.0
+404,Tanzania,Sub-Saharan Africa,Developing economies,Low income,son,0.5021455885,0.46833086,0.6125214397500001,0.6675239580000001,0.5368812085000001,Africa,834.0
+405,Thailand,East Asia & Pacific,Developing economies,Upper middle income,all,,,,,0.6406517252499999,Asia,764.0
+406,Thailand,East Asia & Pacific,Developing economies,Upper middle income,daughter,,,,,0.6714616342499999,Asia,764.0
+407,Thailand,East Asia & Pacific,Developing economies,Upper middle income,son,,,,,0.62788417925,Asia,764.0
+408,Timor-Leste,East Asia & Pacific,Developing economies,Lower middle income,all,0.5563128070000001,-0.26302504525000003,0.08613769700000007,0.13500531000000005,0.416589126,Asia,626.0
+409,Timor-Leste,East Asia & Pacific,Developing economies,Lower middle income,daughter,0.81842658675,-0.3336553575000001,0.1077729315,0.02277524774999995,0.3682395517500001,Asia,626.0
+410,Timor-Leste,East Asia & Pacific,Developing economies,Lower middle income,son,0.2433835417500001,-0.272961378,0.06331887850000006,0.24195890125000008,0.48058067275000005,Asia,626.0
+411,Togo,Sub-Saharan Africa,Developing economies,Low income,all,0.08335728924999997,-0.017939179999999944,0.26383504275,0.42063178125,0.359569177,Africa,768.0
+412,Togo,Sub-Saharan Africa,Developing economies,Low income,daughter,0.11528182025,0.15665197375000006,0.18598175075000012,0.4349624365,0.37306116525,Africa,768.0
+413,Togo,Sub-Saharan Africa,Developing economies,Low income,son,0.12412423625000002,-0.16644296074999998,0.38106966025,0.3455848845,0.39266344924999996,Africa,768.0
+414,Tonga,East Asia & Pacific,Developing economies,Lower middle income,all,,,,,0.71871838,Oceania,776.0
+415,Tonga,East Asia & Pacific,Developing economies,Lower middle income,daughter,,,,,0.7986434025,Oceania,776.0
+416,Tonga,East Asia & Pacific,Developing economies,Lower middle income,son,,,,,0.56516749425,Oceania,776.0
+417,Tunisia,Middle East & North Africa,Developing economies,Lower middle income,all,0.0276660622499999,0.2711096705,0.2925117312500001,0.45068892125000004,0.543966502,Africa,788.0
+418,Tunisia,Middle East & North Africa,Developing economies,Lower middle income,daughter,0.30370380725,0.16863912324999997,0.21934920549999992,0.42011839900000003,0.48556733875,Africa,788.0
+419,Tunisia,Middle East & North Africa,Developing economies,Lower middle income,son,-0.16315542149999995,0.40122838699999996,0.39009205999999996,0.471136227,0.5983323679999999,Africa,788.0
+420,Turkey,Europe & Central Asia,Developing economies,Upper middle income,all,0.17912516000000012,0.41094161575,0.39607802049999996,0.48104012774999994,0.43836215850000004,Europe,792.0
+421,Turkey,Europe & Central Asia,Developing economies,Upper middle income,all,0.17912516000000012,0.41094161575,0.39607802049999996,0.48104012774999994,0.43836215850000004,Asia,792.0
+422,Turkey,Europe & Central Asia,Developing economies,Upper middle income,daughter,,0.3585778475,0.3994816094999999,0.48992857325000005,0.34953285749999996,Europe,792.0
+423,Turkey,Europe & Central Asia,Developing economies,Upper middle income,daughter,,0.3585778475,0.3994816094999999,0.48992857325000005,0.34953285749999996,Asia,792.0
+424,Turkey,Europe & Central Asia,Developing economies,Upper middle income,son,,0.47416204225,0.41484421475,0.51191343375,0.55706728225,Europe,792.0
+425,Turkey,Europe & Central Asia,Developing economies,Upper middle income,son,,0.47416204225,0.41484421475,0.51191343375,0.55706728225,Asia,792.0
+426,Tuvalu,East Asia & Pacific,Developing economies,Upper middle income,all,,,,,0.61158425375,Oceania,798.0
+427,Uganda,Sub-Saharan Africa,Developing economies,Low income,all,0.18455366799999995,0.39542809874999996,0.513340175,0.54060725125,0.50612123325,Africa,800.0
+428,Uganda,Sub-Saharan Africa,Developing economies,Low income,daughter,-1.81122081,0.31413896350000003,0.43489170825,0.49136397225000006,0.5200266687499999,Africa,800.0
+429,Uganda,Sub-Saharan Africa,Developing economies,Low income,son,0.32288449250000006,0.51340588175,0.610697538,0.57622522875,0.5113044305000001,Africa,800.0
+430,Ukraine,Europe & Central Asia,Developing economies,Lower middle income,all,0.7569171115,0.80007436125,0.82883730525,0.67730978125,0.62341291475,Europe,804.0
+431,Ukraine,Europe & Central Asia,Developing economies,Lower middle income,daughter,0.7543831169999999,0.8294136785,0.85083583725,0.6294664445,0.5885427145,Europe,804.0
+432,Ukraine,Europe & Central Asia,Developing economies,Lower middle income,son,0.75968443225,0.75591831275,0.79705086,0.7150125355,0.660341736,Europe,804.0
+433,United Kingdom,High income,High-income economies,High income,all,0.64003419125,0.67343768475,0.70304790875,0.730437599,0.83145436625,Europe,826.0
+434,United Kingdom,High income,High-income economies,High income,daughter,0.69397789975,0.63827881975,0.6786478605,0.76279942325,0.80319134125,Europe,826.0
+435,United Kingdom,High income,High-income economies,High income,son,0.59131923325,0.713985458,0.727257073,0.6924955545,0.85699332875,Europe,826.0
+436,United States,High income,High-income economies,High income,all,0.6689395607499999,0.566860996,0.591852598,0.62824475775,0.69159970425,North America,840.0
+437,United States,High income,High-income economies,High income,daughter,0.7241593005,0.59683362375,0.59647276225,0.623198487,0.70733425025,North America,840.0
+438,United States,High income,High-income economies,High income,son,0.6016286909999999,0.53388769175,0.58263988775,0.6311385035,0.6666744425,North America,840.0
+439,Uruguay,High income,High-income economies,High income,all,0.422747314,0.5078900749999999,0.569710791,0.510076344,0.544534564,South America,858.0
+440,Uruguay,High income,High-income economies,High income,daughter,0.45385080600000005,0.502195537,0.573053658,0.551146895,0.552955359,South America,858.0
+441,Uruguay,High income,High-income economies,High income,son,0.370298624,0.517198652,0.563804865,0.46458989399999995,0.530468166,South America,858.0
+442,Uzbekistan,Europe & Central Asia,Developing economies,Lower middle income,all,0.86754263575,0.8879395704999999,0.89140103575,0.89400323275,0.76149349275,Asia,860.0
+443,Uzbekistan,Europe & Central Asia,Developing economies,Lower middle income,daughter,0.817305226,0.8644647935,0.89051068575,0.9006442425,0.8127296230000001,Asia,860.0
+444,Uzbekistan,Europe & Central Asia,Developing economies,Lower middle income,son,0.886486633,0.90032354175,0.892498155,0.87977106125,0.7015348260000001,Asia,860.0
+445,Vanuatu,East Asia & Pacific,Developing economies,Lower middle income,all,,,,,0.58953540025,Oceania,548.0
+446,Vanuatu,East Asia & Pacific,Developing economies,Lower middle income,daughter,,,,,0.657909952,Oceania,548.0
+447,Vanuatu,East Asia & Pacific,Developing economies,Lower middle income,son,,,,,0.5289058535,Oceania,548.0
+448,"Venezuela, RB",Latin America & Caribbean,Developing economies,Upper middle income,all,0.5716628429999999,0.5834676620000001,0.6287246049999999,0.602451265,0.665174216,South America,862.0
+449,"Venezuela, RB",Latin America & Caribbean,Developing economies,Upper middle income,daughter,0.651989996,0.537234604,0.635485649,0.619109601,0.6770999129999999,South America,862.0
+450,"Venezuela, RB",Latin America & Caribbean,Developing economies,Upper middle income,son,0.49937474700000006,0.633370757,0.624562234,0.590536594,0.651246965,South America,862.0
+451,Vietnam,East Asia & Pacific,Developing economies,Lower middle income,all,0.564638771,0.6024657935,0.57583715775,0.41649003325,0.511347763,Asia,704.0
+452,Vietnam,East Asia & Pacific,Developing economies,Lower middle income,daughter,0.48791742299999996,0.5764954090000001,0.6384710520000001,0.41455560925,0.49177633975,Asia,704.0
+453,Vietnam,East Asia & Pacific,Developing economies,Lower middle income,son,,0.66042684025,0.5345045104999999,0.44807997349999995,0.55171036725,Asia,704.0
+454,West Bank and Gaza,Middle East & North Africa,Developing economies,Lower middle income,all,,,,,0.659729928,Asia,275.0
+455,West Bank and Gaza,Middle East & North Africa,Developing economies,Lower middle income,daughter,,,,,0.6022262872499999,Asia,275.0
+456,West Bank and Gaza,Middle East & North Africa,Developing economies,Lower middle income,son,,,,,0.6837306542499999,Asia,275.0
+457,"Yemen, Rep.",Middle East & North Africa,Developing economies,Lower middle income,all,,,,,0.640253797,Asia,887.0
+458,"Yemen, Rep.",Middle East & North Africa,Developing economies,Lower middle income,daughter,,,,,0.41516063375,Asia,887.0
+459,"Yemen, Rep.",Middle East & North Africa,Developing economies,Lower middle income,son,,,,,0.749140881,Asia,887.0
+460,Zambia,Sub-Saharan Africa,Developing economies,Lower middle income,all,,,,,0.5919958427500001,Africa,894.0
+461,Zambia,Sub-Saharan Africa,Developing economies,Lower middle income,daughter,,,,,0.58060719075,Africa,894.0
+462,Zambia,Sub-Saharan Africa,Developing economies,Lower middle income,son,,,,,0.598372571,Africa,894.0
