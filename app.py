@@ -4,7 +4,7 @@ import dash_html_components as html
 from dash.dependencies import Input, Output
 import altair as alt
 import pandas as pd
-import vega_datasets
+from vega_datasets import data
 
 app = dash.Dash(__name__, assets_folder='assets')
 server = app.server
@@ -12,7 +12,7 @@ server = app.server
 app.title = 'Dash app with pure Altair HTML'
 
 
-## Magic happens here
+## PLOT 1
 def make_line_chart(country_list = ['Africa', 'Canada', 'Developing economies']):
     compare_chart_df = pd.read_csv('data/clean_comparison_chart_data.csv', index_col=0)
     if country_list == []:
@@ -125,6 +125,135 @@ def make_line_chart(country_list = ['Africa', 'Canada', 'Developing economies'])
     ).interactive()
     
     return interactive_line_chart
+
+
+def make_map(year = 1940):
+    map_and_bar_df = pd.read_csv('data/clean_map_and_bar_data.csv', index_col=0)
+
+    def mds_special():
+        font = "Arial"
+        axisColor = "#000000"
+        gridColor = "#DEDDDD"
+        return {
+            "config": {
+                "title": {
+                    "fontSize": 24,
+                    "font": font,
+                    "anchor": "start", # equivalent of left-aligned.
+                    "fontColor": "#000000"
+                },
+                'view': {
+                    "height": 300, 
+                    "width": 400
+                },
+                "axisX": {
+                    "domain": True,
+                    #"domainColor": axisColor,
+                    "gridColor": gridColor,
+                    "domainWidth": 1,
+                    "grid": False,
+                    "labelFont": font,
+                    "labelFontSize": 12,
+                    "labelAngle": 0, 
+                    "tickColor": axisColor,
+                    "tickSize": 5, # default, including it just to show you can change it
+                    "titleFont": font,
+                    "titleFontSize": 16,
+                    "titlePadding": 10, # guessing, not specified in styleguide
+                    "title": "X Axis Title (units)", 
+                },
+                "axisY": {
+                    "domain": False,
+                    "grid": True,
+                    "gridColor": gridColor,
+                    "gridWidth": 1,
+                    "labelFont": font,
+                    "labelFontSize": 14,
+                    "labelAngle": 0, 
+                    #"ticks": False, # even if you don't have a "domain" you need to turn these off.
+                    "titleFont": font,
+                    "titleFontSize": 16,
+                    "titlePadding": 10, # guessing, not specified in styleguide
+                    "title": "Y Axis Title (units)", 
+                    # titles are by default vertical left of axis so we need to hack this 
+                    #"titleAngle": 0, # horizontal
+                    #"titleY": -10, # move it up
+                    #"titleX": 18, # move it to the right so it aligns with the labels 
+                },
+            }
+                }
+
+    # register the custom theme under a chosen name
+    alt.themes.register('mds_special', mds_special)
+
+    # enable the newly registered theme
+    alt.themes.enable('mds_special')
+    #alt.themes.enable('none') # to return to default
+
+    # json base country map data 
+    country_map = alt.topo_feature(data.world_110m.url, 'countries')
+      
+    
+    quote_yr = str(year)
+    
+    #add rank column
+    plot_df = map_and_bar_df
+    plot_df = plot_df.loc[plot_df['child']=='all']
+    plot_df = plot_df.dropna(subset=[quote_yr])
+    plot_df['Rank'] = plot_df[quote_yr].rank(ascending = 0)
+    plot_df.drop_duplicates(subset='countryname', keep='first', inplace=True)
+    
+    selection = alt.selection_multi(fields = ['countryname'], resolve='global')
+    map_chart = alt.Chart(country_map).mark_geoshape(
+        stroke='white',
+        fill='lightgray'
+    ).encode(
+        color=alt.condition(selection,
+                           alt.Color(quote_yr, type='quantitative',
+                                    scale=alt.Scale(domain=[0, 1])),
+                           alt.value('lightgray'),
+                           legend=alt.Legend(title="EMI")),
+        tooltip = [
+            alt.Tooltip('countryname:N', title="country"),
+            alt.Tooltip(f'{year}:Q', title="EMI"),
+            alt.Tooltip('Rank:N', title="Global Rank")
+        ]
+    ).transform_lookup(
+        lookup='id',
+        from_=alt.LookupData(plot_df,'country_num', [quote_yr, 'countryname', 'Rank'])
+    ).properties(
+        width=600
+    ).project(
+        'equirectangular'
+    ).properties(title=f'Global Education Mobility Index: {year}',
+                height=250,
+                width=400).add_selection(selection)#.interactive()
+
+    
+    bar_chart_data = plot_df
+    
+    bar_chart = alt.Chart(bar_chart_data.loc[bar_chart_data['child'] == 'all']).mark_bar().encode(
+        alt.X(f'{quote_yr}:Q', title="Education Mobility Index"),
+        alt.Y('countryname', axis=None, title='',
+        sort=alt.EncodingSortField(field='Rank',
+                                   order="ascending")),
+        #color=alt.Color('incgroup2'),
+        color=alt.condition(selection,
+                            'incgroup2',
+                            alt.value('lightgray'),
+                            legend=alt.Legend(title="")
+        ),
+        tooltip = [
+            alt.Tooltip('countryname:N', title="country"),
+            alt.Tooltip(f'{quote_yr}:Q', title="EMI"),
+            alt.Tooltip('Rank:N', title="Global Rank")
+        ]
+    ).properties(title=f'{year} Global Rankings', height = 225, width = 100).add_selection(selection)
+      
+    
+    map_and_bar = (map_chart | bar_chart)
+    
+    return map_and_bar
     
 ## Magic happens here
 
@@ -133,6 +262,31 @@ app.layout = html.Div([
     ### ADD CONTENT HERE like: html.H1('text'),
     html.H1('DSCI 532 L02 Group212 Social Mobility Project'),
     html.H3('Map'),
+    html.Iframe(
+        sandbox='allow-scripts',
+        id='plot_map',
+        height='450',
+        width='1200',
+        style={'border-width': '0'},
+        ################ The magic happens here
+        srcDoc = make_map().to_html()
+        ################ The magic happens here
+        ),
+    dcc.RadioItems(
+    id='rb-chart-year',
+    options=[
+        {'label': '1940', 'value': '1940'},
+        {'label': '1950', 'value': '1950'},
+        {'label': '1960', 'value': '1960'},
+        {'label': '1970', 'value': '1970'},
+        {'label': '1980', 'value': '1980'},
+
+    ],
+    value='1940'
+    ),
+
+
+    html.H3("Comparison Line Chart"),
     html.Iframe(
         sandbox='allow-scripts',
         id='plot',
@@ -316,6 +470,22 @@ def update_plot(area):
     '''
     updated_plot = make_line_chart(area).to_html()
     return updated_plot
+
+@app.callback(
+    dash.dependencies.Output('plot_map', 'srcDoc'),
+    [dash.dependencies.Input('rb-chart-year', 'value')])
+def update_plot_map(year):
+    '''
+    Takes in an area and calls make_map to update our Altair figure
+    '''
+    updated_plot_map = make_map(year).to_html()
+    return updated_plot_map
+
+
+
+
+
+
 
 
 if __name__ == '__main__':
