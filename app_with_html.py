@@ -24,7 +24,7 @@ def make_map(year = 1940):
         return {
             "config": {
                 "title": {
-                    "fontSize": 4,
+                    "fontSize": 24,
                     "font": font,
                     "anchor": "start", # equivalent of left-aligned.
                     "fontColor": "#000000"
@@ -40,7 +40,7 @@ def make_map(year = 1940):
                     "domainWidth": 1,
                     "grid": False,
                     "labelFont": font,
-                    "labelFontSize": 12,
+                    "labelFontSize": 10,
                     "labelAngle": 0, 
                     "tickColor": axisColor,
                     "tickSize": 5, # default, including it just to show you can change it
@@ -59,7 +59,7 @@ def make_map(year = 1940):
                     "labelAngle": 0, 
                     #"ticks": False, # even if you don't have a "domain" you need to turn these off.
                     "titleFont": font,
-                    "titleFontSize": 16,
+                    "titleFontSize": 32,
                     "titlePadding": 10, # guessing, not specified in styleguide
                     "title": "Y Axis Title (units)", 
                     # titles are by default vertical left of axis so we need to hack this 
