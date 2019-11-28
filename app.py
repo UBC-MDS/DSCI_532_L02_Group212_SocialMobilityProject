@@ -226,8 +226,8 @@ def make_map(year = 1940):
     ).project(
         'equirectangular'
     ).properties(title=f'Global Education Mobility Index: {year}',
-                height=250,
-                width=400).add_selection(selection)#.interactive()
+                height=400,
+                width=800).add_selection(selection)#.interactive()
 
     
     bar_chart_data = plot_df
