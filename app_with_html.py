@@ -161,6 +161,9 @@ def make_line_chart(country_list = ['Africa', 'Canada', 'Developing economies'])
                     "anchor": "start", # equivalent of left-aligned.
                     "fontColor": "#000000"
                 },
+                "headerFacet":{
+                    "header": {"titleFontSize": 30, "FontSize": 30}
+                },
                 'view': {
                     "height": 300, 
                     "width": 400
@@ -253,7 +256,7 @@ def make_line_chart(country_list = ['Africa', 'Canada', 'Developing economies'])
     ).properties(
         width=320, height=250
     ).facet(
-        column='child:N'
+        column= alt.Column('child:N', title=None)
     ).interactive()
     
     return interactive_line_chart
@@ -332,7 +335,7 @@ dbc.Container
         dbc.Col(
                 html.Div([
                  html.Br(),
-                 dcc.Markdown("**Pick geography",style={"textAlign":"left",'font-size': '16px'}),   
+                 dcc.Markdown("**Pick: Countries, Continents, and  Economic Status",style={"textAlign":"left",'font-size': '16px'}),   
                  dcc.Dropdown(
                             id='dd-chart-area',
                             options=[
