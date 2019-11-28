@@ -114,7 +114,7 @@ def make_map(year = 1940):
         'equirectangular'
     ).properties(title=f'Global Education Mobility Index: {year}',
                 height=350,
-                width=450).add_selection(selection)#.interactive()
+                width=650).add_selection(selection)#.interactive()
 
     
     bar_chart_data = plot_df
@@ -253,7 +253,7 @@ def make_line_chart(country_list = ['Africa', 'Canada', 'Developing economies'])
     ).properties(
         width=320, height=250
     ).facet(
-        column='child:N'
+        column='child:N', title=""
     ).interactive()
     
     return interactive_line_chart
@@ -267,9 +267,9 @@ dbc.Container
         ####### Framework for upper half begins ###########
 
         dbc.Row([
-                html.H1("Social Mobility Project", style = {"textAlign":"center", "margin-left":"10px", "margin-top":"10px"}, className="display-4"),
+                html.H1("Visualizing Global Education Opportunity", style = {"textAlign":"center", "margin-left":"10px", "margin-top":"10px"}, className="display-5"),
                 html.P(
-                    "Add description of the dashboard here (2/3 lines) asbhjdbahsjbdfsa kjabdiab ckhaebfhka ckiawbdihk asdhiba skciasvdiwaosvfahs fciqebfouebfoe boudboasubcas oausfboa fa nisvbaks naodvadkvndsouvbadsv naodcnpds;nv[sdvns noasnc[odsnvwdous]]", 
+                    "In an ideal world, every child would have the opportunity to achieve success regardless of what social class they happened to be born into.  This visualization shows how education mobility (the potential for offspring to achieve an equal or higher education level than their parents) has changed globally over five generations.  Use the map and bar chart to get a big-picture view for each generation then use the line plots below to explore comparisons of your choosing.  For example, see for yourself whether the US truly is 'the land of equal opportunity'!", 
                 style = {"textAlign":"left", "margin-left":"10px", "margin-bottom":"30px"},
                 className="lead"),
             ]),
@@ -281,7 +281,7 @@ dbc.Container
 
             dbc.Col([
                     html.Div([
-                        dcc.Markdown("**Pick generation",style={"textAlign":"left",'font-size': '18px','margin-left':'25px'}),
+                        dcc.Markdown("Select generation\n(decade of birth)",style={"textAlign":"left",'font-size': '18px','margin-left':'25px'}),
                         dcc.RadioItems(
                             id='rb-chart-year',
                             options=[
@@ -324,7 +324,7 @@ dbc.Container
 
         ######## Add header for lineplots ###########
         html.Div([
-                html.H4('Header for Line Plot(s)', style={"textAlign":"center", "margin-left":"0px"}),
+                html.H4('Region / Country / Economy Comparisons', style={"textAlign":"center", "margin-left":"0px"}),
             ]),
 
         ####### Add dropdown for line charts ########
@@ -332,7 +332,7 @@ dbc.Container
         dbc.Col(
                 html.Div([
                  html.Br(),
-                 dcc.Markdown("**Pick geography",style={"textAlign":"left",'font-size': '16px'}),   
+                 dcc.Markdown("Use the drop down below to select specific countries, continents, or economies to compare",style={"textAlign":"left",'font-size': '16px'}),   
                  dcc.Dropdown(
                             id='dd-chart-area',
                             options=[
