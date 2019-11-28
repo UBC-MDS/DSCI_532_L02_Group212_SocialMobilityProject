@@ -24,14 +24,14 @@ def make_map(year = 1940):
         return {
             "config": {
                 "title": {
-                    "fontSize": 24,
+                    "fontSize": 4,
                     "font": font,
                     "anchor": "start", # equivalent of left-aligned.
                     "fontColor": "#000000"
                 },
                 'view': {
                     "height": 300, 
-                    "width": 400
+                    "width": 500
                 },
                 "axisX": {
                     "domain": True,
@@ -55,7 +55,7 @@ def make_map(year = 1940):
                     "gridColor": gridColor,
                     "gridWidth": 1,
                     "labelFont": font,
-                    "labelFontSize": 14,
+                    "labelFontSize": 18,
                     "labelAngle": 0, 
                     #"ticks": False, # even if you don't have a "domain" you need to turn these off.
                     "titleFont": font,
@@ -109,12 +109,12 @@ def make_map(year = 1940):
         lookup='id',
         from_=alt.LookupData(plot_df,'country_num', [quote_yr, 'countryname', 'Rank'])
     ).properties(
-        width=600
+        width=00
     ).project(
         'equirectangular'
     ).properties(title=f'Global Education Mobility Index: {year}',
-                height=250,
-                width=400).add_selection(selection)#.interactive()
+                height=350,
+                width=450).add_selection(selection)#.interactive()
 
     
     bar_chart_data = plot_df
@@ -135,7 +135,7 @@ def make_map(year = 1940):
             alt.Tooltip(f'{quote_yr}:Q', title="EMI"),
             alt.Tooltip('Rank:N', title="Global Rank")
         ]
-    ).properties(title=f'{year} Global Rankings', height = 225, width = 100).add_selection(selection)
+    ).properties(title=f'{year} Global Ranking', height = 340, width = 200).add_selection(selection)
       
     
     map_and_bar = (map_chart | bar_chart)
@@ -251,7 +251,7 @@ def make_line_chart(country_list = ['Africa', 'Canada', 'Developing economies'])
     interactive_line_chart = alt.layer(
         line_chart, selectors, points, rules, text
     ).properties(
-        width=250, height=150
+        width=320, height=250
     ).facet(
         column='child:N'
     ).interactive()
@@ -267,52 +267,56 @@ dbc.Container
         ####### Framework for upper half begins ###########
 
         dbc.Row([
-                html.H1("Social Mobility Project", style = {"textAlign":"center"}),
-                html.Br(),
+                html.H1("Social Mobility Project", style = {"textAlign":"center", "margin-left":"10px", "margin-top":"10px"}, className="display-4"),
                 html.P(
-                    "Add description of the dashboard here (2/3 lines)",
-                    className="lead",
-                ),
+                    "Add description of the dashboard here (2/3 lines) asbhjdbahsjbdfsa kjabdiab ckhaebfhka ckiawbdihk asdhiba skciasvdiwaosvfahs fciqebfouebfoe boudboasubcas oausfboa fa nisvbaks naodvadkvndsouvbadsv naodcnpds;nv[sdvns noasnc[odsnvwdous]]", 
+                style = {"textAlign":"left", "margin-left":"10px", "margin-bottom":"30px"},
+                className="lead"),
             ]),
+            
     
 
         ######## Add Radio button as a Row ########
         dbc.Row([
-                        html.Div([
-                            dcc.Markdown("Pick a generation"),
-                            dcc.RadioItems(
-                                id='rb-chart-year',
-                                options=[
-                                            {'label': '1940', 'value': '1940'},
-                                            {'label': '1950', 'value': '1950'},
-                                            {'label': '1960', 'value': '1960'},
-                                            {'label': '1970', 'value': '1970'},
-                                            {'label': '1980', 'value': '1980'},
-                                        ], value='1940',
-                                style={"display":"table"}
-                                        )
-                            ]),                   
-                        html.Div([], style={"color":"black","width":"80%", "display":"inline-block"})
+
+            dbc.Col([
+                    html.Div([
+                        dcc.Markdown("**Pick generation",style={"textAlign":"left",'font-size': '18px','margin-left':'25px'}),
+                        dcc.RadioItems(
+                            id='rb-chart-year',
+                            options=[
+                                        {'label': '1940', 'value': '1940'},
+                                        {'label': '1950', 'value': '1950'},
+                                        {'label': '1960', 'value': '1960'},
+                                        {'label': '1970', 'value': '1970'},
+                                        {'label': '1980', 'value': '1980'},
+                                    ], value='1940',
+                            labelStyle={'display': 'inline-block', 'font-size':'14px','width':'40%', 'margin-left':'25px'},
+                            style={"display":"table-row"},
+                            labelClassName="lead"
+                                    )
+                        ])
+                        ]
+                        ),
+
+
+            ###### dbc.Col for World and Bar plot ###### 
+                       
+            dbc.Col([
+                html.Iframe(
+                sandbox='allow-scripts',
+                id='plot_map',
+                height='450',
+                width='1200',
+                style={'border-width': '0'},
+                ####### The magic happens here ######### 
+                srcDoc = make_map().to_html()
+                ######### The magic happens here ######### 
+                )]
+            ),
+
                 ]),
 
-        ####### Plot for World Map and Histogram here ###############    
-
-        dbc.Row([
-
-            ######## dbc.Col for World and Bar plot ######
-            dbc.Col([
-                        html.Iframe(
-                        sandbox='allow-scripts',
-                        id='plot_map',
-                        height='450',
-                        width='1200',
-                        style={'border-width': '0'},
-                        ################ The magic happens here
-                        srcDoc = make_map().to_html()
-                        ################ The magic happens here
-                        ),
-            ])
-        ]),
 
         ####### Framework for upper half ends ###########
         
@@ -320,12 +324,15 @@ dbc.Container
 
         ######## Add header for lineplots ###########
         html.Div([
-                html.H4('Header for Line Plot(s)', style={"textAlign":"left"}),
+                html.H4('Header for Line Plot(s)', style={"textAlign":"center", "margin-left":"0px"}),
             ]),
 
         ####### Add dropdown for line charts ########
 
         dbc.Col(
+                html.Div([
+                 html.Br(),
+                 dcc.Markdown("**Pick geography",style={"textAlign":"left",'font-size': '16px'}),   
                  dcc.Dropdown(
                             id='dd-chart-area',
                             options=[
@@ -486,9 +493,12 @@ dbc.Container
                                     {'label': 'Zambia', 'value': 'Zambia'},
                                 ],
                             value = ['Africa', 'Canada', 'Developing economies'],
-                            multi = True)
-
-                ),      
+                            multi = True,
+                            style = {"width":'60%', "margin-left":"0px"}
+                            ),
+                ], style={'font-size': '17px',"margin-top":"2px","margin-right":"0px",
+                         "padding": "0px"})),
+       
 
         ######## Add Line Plot(s) ############
         
@@ -516,7 +526,7 @@ dbc.Container
                 html.P('This Dash app was made collaboratively by the DSCI 532 L02 Group 212 from MDS 2019-20 batch')])
                 ]),
     
-    ])
+    ], fluid = True,)
  
 ])
 
@@ -533,13 +543,13 @@ def update_plot(area):
 @app.callback(
     dash.dependencies.Output('plot_map', 'srcDoc'),
     [dash.dependencies.Input('rb-chart-year', 'value')])
+
 def update_plot_map(year):
     '''
     Takes in an area and calls make_map to update our Altair figure
     '''
     updated_plot_map = make_map(year).to_html()
     return updated_plot_map
-
 
 if __name__ == '__main__':
     app.run_server(debug=True)
