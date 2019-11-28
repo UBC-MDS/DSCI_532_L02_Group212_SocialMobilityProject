@@ -24,7 +24,7 @@ def make_map(year = 1940):
         return {
             "config": {
                 "title": {
-                    "fontSize": 4,
+                    "fontSize": 24,
                     "font": font,
                     "anchor": "start", # equivalent of left-aligned.
                     "fontColor": "#000000"
@@ -40,7 +40,7 @@ def make_map(year = 1940):
                     "domainWidth": 1,
                     "grid": False,
                     "labelFont": font,
-                    "labelFontSize": 12,
+                    "labelFontSize": 10,
                     "labelAngle": 0, 
                     "tickColor": axisColor,
                     "tickSize": 5, # default, including it just to show you can change it
@@ -59,7 +59,7 @@ def make_map(year = 1940):
                     "labelAngle": 0, 
                     #"ticks": False, # even if you don't have a "domain" you need to turn these off.
                     "titleFont": font,
-                    "titleFontSize": 16,
+                    "titleFontSize": 32,
                     "titlePadding": 10, # guessing, not specified in styleguide
                     "title": "Y Axis Title (units)", 
                     # titles are by default vertical left of axis so we need to hack this 
@@ -161,6 +161,9 @@ def make_line_chart(country_list = ['Africa', 'Canada', 'Developing economies'])
                     "anchor": "start", # equivalent of left-aligned.
                     "fontColor": "#000000"
                 },
+                "headerFacet":{
+                    "header": {"titleFontSize": 30, "FontSize": 30}
+                },
                 'view': {
                     "height": 300, 
                     "width": 400
@@ -253,7 +256,7 @@ def make_line_chart(country_list = ['Africa', 'Canada', 'Developing economies'])
     ).properties(
         width=320, height=250
     ).facet(
-        column='child:N'
+        column= alt.Column('child:N', title=None)
     ).interactive()
     
     return interactive_line_chart
@@ -332,7 +335,7 @@ dbc.Container
         dbc.Col(
                 html.Div([
                  html.Br(),
-                 dcc.Markdown("**Pick geography",style={"textAlign":"left",'font-size': '16px'}),   
+                 dcc.Markdown("**Pick: Countries, Continents, and  Economic Status",style={"textAlign":"left",'font-size': '16px'}),   
                  dcc.Dropdown(
                             id='dd-chart-area',
                             options=[
