@@ -113,8 +113,11 @@ def make_map(year = 1940):
     ).project(
         'equirectangular'
     ).properties(title=f'Global Education Mobility Index: {year}',
-                height=350,
-                width=450).add_selection(selection)#.interactive()
+                height=325,
+                width=650
+    ).add_selection(
+                    selection
+    )#.interactive()
 
     
     bar_chart_data = plot_df
@@ -135,10 +138,12 @@ def make_map(year = 1940):
             alt.Tooltip(f'{quote_yr}:Q', title="EMI"),
             alt.Tooltip('Rank:N', title="Global Rank")
         ]
-    ).properties(title=f'{year} Global Ranking', height = 340, width = 200).add_selection(selection)
+    ).properties(title=f'{year} Global Ranking', height = 315, width = 175).add_selection(selection)
       
     
-    map_and_bar = (map_chart | bar_chart)
+    map_and_bar = (map_chart | bar_chart).configure_legend(
+        orient="right",
+        labelFontSize=14)
     
     return map_and_bar
 
@@ -221,7 +226,7 @@ def make_line_chart(country_list = ['Africa', 'Canada', 'Developing economies'])
     
     line_chart = alt.Chart(data_to_plot).mark_line(clip=True).encode(
         alt.X('year:N', axis=alt.Axis(labelAngle=0), title="Generation"),
-        alt.Y('EMI:Q', scale=alt.Scale(domain=(0,1))),
+        alt.Y('EMI:Q', title="EMI", scale=alt.Scale(domain=(0,1))),
         alt.Color('countryname:N', title="")
     )
     
@@ -254,10 +259,13 @@ def make_line_chart(country_list = ['Africa', 'Canada', 'Developing economies'])
     interactive_line_chart = alt.layer(
         line_chart, selectors, points, rules, text
     ).properties(
-        width=320, height=250
+        width=275, height=250
     ).facet(
-        column= alt.Column('child:N', title=None)
-    ).interactive()
+        column= alt.Column('child:N', title=None,
+        header=alt.Header(labelFontSize=18))
+    ).interactive().configure_legend(
+        orient="right",
+        labelFontSize=16)
     
     return interactive_line_chart
 
@@ -270,9 +278,9 @@ dbc.Container
         ####### Framework for upper half begins ###########
 
         dbc.Row([
-                html.H1("Social Mobility Project", style = {"textAlign":"center", "margin-left":"10px", "margin-top":"10px"}, className="display-4"),
+                html.H1("Visualizing Global Education Opportunity", style = {"textAlign":"center", "margin-left":"10px", "margin-top":"10px"}, className="display-5"),
                 html.P(
-                    "Add description of the dashboard here (2/3 lines) asbhjdbahsjbdfsa kjabdiab ckhaebfhka ckiawbdihk asdhiba skciasvdiwaosvfahs fciqebfouebfoe boudboasubcas oausfboa fa nisvbaks naodvadkvndsouvbadsv naodcnpds;nv[sdvns noasnc[odsnvwdous]]", 
+                    "In an ideal world, every child would have the opportunity to achieve success regardless of what social class they happened to be born into.  This visualization shows how education mobility (the potential for offspring to achieve an equal or higher education level than their parents) has changed globally over five generations.  Use the map and bar chart to get a big-picture view for each generation then use the line plots below to explore comparisons of your choosing.  For example, see for yourself whether the US truly is 'the land of equal opportunity'!", 
                 style = {"textAlign":"left", "margin-left":"10px", "margin-bottom":"30px"},
                 className="lead"),
             ]),
@@ -284,7 +292,7 @@ dbc.Container
 
             dbc.Col([
                     html.Div([
-                        dcc.Markdown("**Pick generation",style={"textAlign":"left",'font-size': '18px','margin-left':'25px'}),
+                        dcc.Markdown("Select generation\n(decade of birth)",style={"textAlign":"left",'font-size': '18px','margin-left':'25px'}),
                         dcc.RadioItems(
                             id='rb-chart-year',
                             options=[
@@ -327,7 +335,7 @@ dbc.Container
 
         ######## Add header for lineplots ###########
         html.Div([
-                html.H4('Header for Line Plot(s)', style={"textAlign":"center", "margin-left":"0px"}),
+                html.H4('Region / Country / Economy Comparisons', style={"textAlign":"center", "margin-left":"0px"}),
             ]),
 
         ####### Add dropdown for line charts ########
@@ -335,7 +343,7 @@ dbc.Container
         dbc.Col(
                 html.Div([
                  html.Br(),
-                 dcc.Markdown("**Pick: Countries, Continents, and  Economic Status",style={"textAlign":"left",'font-size': '16px'}),   
+                 dcc.Markdown("Use the drop down below to select specific countries, continents, or economies to compare and see how education opportunity has changed overall, and whether it is different for boys (sons) and girls (daughters)",style={"textAlign":"left",'font-size': '16px'}),   
                  dcc.Dropdown(
                             id='dd-chart-area',
                             options=[
@@ -513,7 +521,7 @@ dbc.Container
                         sandbox='allow-scripts',
                         id='plot',
                         height='450',
-                        width='1200',
+                        width='1225',
                         style={'border-width': '0'},
                     ################ The magic happens here
                         srcDoc = make_line_chart().to_html()
