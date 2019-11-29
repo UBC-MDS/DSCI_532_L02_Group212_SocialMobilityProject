@@ -280,7 +280,7 @@ dbc.Container
         dbc.Row([
                 html.H1("Visualizing Global Education Opportunity", style = {"margin-left":"10px", "margin-top":"10px", 'text-align':'center'}, className="display-5"),
                 html.P(
-                    "In an ideal world, every child would have the opportunity to achieve success regardless of what social class they happened to be born into.  This visualization shows how education mobility (the potential for offspring to achieve an equal or higher education level than their parents) has changed globally over five generations.  Use the map and bar chart to get a big-picture view for each generation then use the line plots below to explore comparisons of your choosing.  For example, see for yourself whether the US truly is 'the land of equal opportunity'!", 
+                    "In an ideal world, every child would have the opportunity to achieve success regardless of what social class they happened to be born into.  This visualization shows how education mobility (the potential for offspring to achieve an equal or higher education level than their parents) has changed globally over five generations.  Use the map and bar chart to get a big-picture view for each generation then use the line plots below to explore comparisons of your choosing (Shift click either the bar chart or map to select multiple countries).  For example, see for yourself whether the US truly is 'the land of equal opportunity'!", 
                 style = {"textAlign":"left", "margin-left":"10px", "margin-bottom":"30px"},
                 className="lead"),
             ]),
