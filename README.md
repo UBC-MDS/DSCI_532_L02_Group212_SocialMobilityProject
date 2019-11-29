@@ -29,6 +29,7 @@ Some limitations of our app include:
  - it only includes information on education mobility (later on, we could consider adding more data on overall income mobility and indicators of mobility to be able to dig into deeper research questions)
  - countries with `NaN` values do not show up on the plot (spent a ridiculous amount of hours trying to troubleshoot this to no avail)
  - small countries are hard to see on the map (in the future, we may try to facet by continent or see if there are ways to make it zoomable)
+ - interactivity between the world map and the bar chart does not extend to the line chart(s) (due to time limitation(s) we could not explore how to achieve this functionality)
 
 
 ## Links
