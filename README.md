@@ -3,6 +3,10 @@
 
 Holly Williams, Aakanksha Dimri, and Thomas Pin's DSCI 532 dashboard project on international social mobility. 
 
+## Link to app
+
+[LINK](https://dsci532-l02-group212-hlwilli.herokuapp.com/)
+
 ## Description of our app & sketch 
 
 In an ideal world, every child would have the opportunity to achieve success regardless of what social class they happened to be born into. In other words, everyone would have unlimited potential for upward socio-economic mobility and their fate would not be pre-determined by their parent's income, education, or class.  
@@ -35,7 +39,7 @@ Some limitations of our app include:
 ## Links
 
 Links to important files:
- - [Heroku App]
+ - [Heroku App](https://dsci532-l02-group212-hlwilli.herokuapp.com/)
  - [App proposal](https://github.com/UBC-MDS/DSCI_532_L02_Group212_SocialMobilityProject/blob/master/proposal.md)
  - [Code of Conduct](https://github.com/UBC-MDS/DSCI_532_L02_Group212_SocialMobilityProject/blob/master/CODE_OF_CONDUCT.md)
  - [Contributing](https://github.com/UBC-MDS/DSCI_532_L02_Group212_SocialMobilityProject/blob/master/CONTRIBUTING.md)
