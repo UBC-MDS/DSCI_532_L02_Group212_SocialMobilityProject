@@ -15,7 +15,7 @@ This visualization app uses educational mobility as a proxy for overall socio-ec
 
 The app will feature a global map that will allow users to get a big-picture view for a selected generation along with the ability to get specific information for any country. There is a bar chart next to the plot showing the overall ranking of all countries for the selected generation.  Below the map, the app will include three interactive plots where the user can select two countries or regions to compare against each other more closely in terms of overall education index, and education index by child gender (sons and daughters).  
 
-*Note: we have not updated the sketch for Milestone 2 because we didn't know it was required. The sketch below does not fully capture the changes we have made to the app, and we will update it at a later time. *
+*Note: we have not updated the sketch for Milestone 2 because we didn't know it was required. The sketch below does not fully capture the changes we have made to the app, and we will update it at a later time.*
 
 ![](img/Dashboard_Schematic.jpg)
 
