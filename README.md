@@ -5,7 +5,7 @@ Holly Williams, Aakanksha Dimri, and Thomas Pin's DSCI 532 dashboard project on 
 
 ## Link to app
 
-[LINK](https://dsci532-l02-group212-hlwilli.herokuapp.com/)
+[LINK](https://dsci-532-l02-gr212-milestone2.herokuapp.com/)
 
 ## Description of our app & sketch 
 
@@ -39,7 +39,7 @@ Some limitations of our app include:
 ## Links
 
 Links to important files:
- - [Heroku App](https://dsci532-l02-group212-hlwilli.herokuapp.com/)
+ - [Heroku App](https://dsci-532-l02-gr212-milestone2.herokuapp.com/)
  - [App proposal](https://github.com/UBC-MDS/DSCI_532_L02_Group212_SocialMobilityProject/blob/master/proposal.md)
  - [Code of Conduct](https://github.com/UBC-MDS/DSCI_532_L02_Group212_SocialMobilityProject/blob/master/CODE_OF_CONDUCT.md)
  - [Contributing](https://github.com/UBC-MDS/DSCI_532_L02_Group212_SocialMobilityProject/blob/master/CONTRIBUTING.md)
