@@ -534,7 +534,8 @@ dbc.Container
         ######### Add footer ###########
         dbc.Row([
             dbc.Col([
-                html.P('This Dash app was made collaboratively by the DSCI 532 L02 Group 212 from MDS 2019-20 batch')])
+                html.P('This Dash app was made collaboratively by the DSCI 532 L02 Group 212 from MDS 2019-20 batch'),
+                html.P('Data Source: GDIM. 2018. Global Database on Intergenerational Mobility. Development Research Group, World Bank. Washington, D.C.: World Bank Group.')])
                 ]),
     
     ], fluid = True,)
