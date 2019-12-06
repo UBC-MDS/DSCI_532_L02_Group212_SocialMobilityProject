@@ -41,11 +41,11 @@ Some limitations of our app include:
 
 Links to important files:
  - [Heroku App](https://dsci-532-l02-gr212-milestone3.herokuapp.com/)
- - [App proposal](https://github.com/UBC-MDS/DSCI_532_L02_Group212_SocialMobilityProject/blob/master/proposal.md)
- - [Code of Conduct](https://github.com/UBC-MDS/DSCI_532_L02_Group212_SocialMobilityProject/blob/master/CODE_OF_CONDUCT.md)
- - [Contributing](https://github.com/UBC-MDS/DSCI_532_L02_Group212_SocialMobilityProject/blob/master/CONTRIBUTING.md)
- - [License](https://github.com/UBC-MDS/DSCI_532_L02_Group212_SocialMobilityProject/blob/master/LICENSE.md)
- - [Reflection](https://github.com/UBC-MDS/DSCI_532_L02_Group212_SocialMobilityProject/blob/master/reflection.md)
+ - [App proposal](https://github.com/UBC-MDS/DSCI_532_L02_Group212_SocialMobilityProject/blob/milestone3/proposal.md)
+ - [Code of Conduct](https://github.com/UBC-MDS/DSCI_532_L02_Group212_SocialMobilityProject/blob/milestone3/CODE_OF_CONDUCT.md)
+ - [Contributing](https://github.com/UBC-MDS/DSCI_532_L02_Group212_SocialMobilityProject/blob/milestone3/CONTRIBUTING.md)
+ - [License](https://github.com/UBC-MDS/DSCI_532_L02_Group212_SocialMobilityProject/blob/milestone3/LICENSE.md)
+ - [Reflection](https://github.com/UBC-MDS/DSCI_532_L02_Group212_SocialMobilityProject/blob/milestone3/reflection.md)
 
  This repo contains the following subfolders:
  - `data`: contains all raw data for the dashboard
