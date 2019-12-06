@@ -1,461 +1,461 @@
 ,countryname,region,incgroup2,incgroup4,child,1940,1950,1960,1970,1980,continent,country_num
-0,Afghanistan,South Asia,Developing economies,Low income,all,,,,,0.378,Asia,4.0
-1,Afghanistan,South Asia,Developing economies,Low income,daughter,,,,,0.331,Asia,4.0
-2,Afghanistan,South Asia,Developing economies,Low income,son,,,,,0.378,Asia,4.0
-3,Albania,Europe & Central Asia,Developing economies,Upper middle income,all,0.407,0.582,0.622,0.55,0.602,Europe,8.0
-4,Albania,Europe & Central Asia,Developing economies,Upper middle income,daughter,0.444,0.493,0.597,0.521,0.59,Europe,8.0
-5,Albania,Europe & Central Asia,Developing economies,Upper middle income,son,0.351,0.674,0.66,0.559,0.625,Europe,8.0
-6,Angola,Sub-Saharan Africa,Developing economies,Upper middle income,all,,,,,0.28,Africa,24.0
-7,Angola,Sub-Saharan Africa,Developing economies,Upper middle income,daughter,,,,,0.223,Africa,24.0
-8,Angola,Sub-Saharan Africa,Developing economies,Upper middle income,son,,,,,0.352,Africa,24.0
-9,Argentina,Latin America & Caribbean,Developing economies,Upper middle income,all,0.451,0.417,0.541,0.576,0.659,South America,32.0
-10,Argentina,Latin America & Caribbean,Developing economies,Upper middle income,daughter,0.472,0.436,0.543,0.601,0.679,South America,32.0
-11,Argentina,Latin America & Caribbean,Developing economies,Upper middle income,son,0.424,0.393,0.537,0.546,0.624,South America,32.0
-12,Armenia,Europe & Central Asia,Developing economies,Lower middle income,all,0.644,0.702,0.651,0.628,0.507,Europe,51.0
-13,Armenia,Europe & Central Asia,Developing economies,Lower middle income,all,0.644,0.702,0.651,0.628,0.507,Asia,51.0
-14,Armenia,Europe & Central Asia,Developing economies,Lower middle income,daughter,0.579,0.671,0.71,0.62,0.563,Europe,51.0
-15,Armenia,Europe & Central Asia,Developing economies,Lower middle income,daughter,0.579,0.671,0.71,0.62,0.563,Asia,51.0
-16,Armenia,Europe & Central Asia,Developing economies,Lower middle income,son,0.735,0.748,0.539,0.641,0.445,Europe,51.0
-17,Armenia,Europe & Central Asia,Developing economies,Lower middle income,son,0.735,0.748,0.539,0.641,0.445,Asia,51.0
-18,Australia,High income,High-income economies,High income,all,0.685,0.785,0.802,0.819,0.779,Oceania,36.0
-19,Australia,High income,High-income economies,High income,daughter,0.63,0.774,0.828,0.765,0.751,Oceania,36.0
-20,Australia,High income,High-income economies,High income,son,0.738,0.804,0.762,0.87,0.811,Oceania,36.0
-21,Austria,High income,High-income economies,High income,all,0.593,0.592,0.563,0.708,0.599,Europe,40.0
-22,Austria,High income,High-income economies,High income,daughter,0.675,0.611,0.576,0.672,0.674,Europe,40.0
-23,Austria,High income,High-income economies,High income,son,0.571,0.578,0.549,0.752,0.497,Europe,40.0
-24,Azerbaijan,Europe & Central Asia,Developing economies,Upper middle income,all,,0.9,0.868,0.791,0.586,Europe,31.0
-25,Azerbaijan,Europe & Central Asia,Developing economies,Upper middle income,all,,0.9,0.868,0.791,0.586,Asia,31.0
-26,Azerbaijan,Europe & Central Asia,Developing economies,Upper middle income,daughter,,0.913,0.85,0.795,0.595,Europe,31.0
-27,Azerbaijan,Europe & Central Asia,Developing economies,Upper middle income,daughter,,0.913,0.85,0.795,0.595,Asia,31.0
-28,Azerbaijan,Europe & Central Asia,Developing economies,Upper middle income,son,,0.875,0.918,0.797,0.585,Europe,31.0
-29,Azerbaijan,Europe & Central Asia,Developing economies,Upper middle income,son,,0.875,0.918,0.797,0.585,Asia,31.0
-30,Bangladesh,South Asia,Developing economies,Lower middle income,all,,,,,0.342,Asia,50.0
-31,Bangladesh,South Asia,Developing economies,Lower middle income,daughter,,,,,0.316,Asia,50.0
-32,Bangladesh,South Asia,Developing economies,Lower middle income,son,,,,,0.365,Asia,50.0
-33,Belarus,Europe & Central Asia,Developing economies,Upper middle income,all,0.861,0.783,0.807,0.755,0.688,Europe,112.0
-34,Belarus,Europe & Central Asia,Developing economies,Upper middle income,daughter,0.855,0.808,0.836,0.818,0.668,Europe,112.0
-35,Belarus,Europe & Central Asia,Developing economies,Upper middle income,son,0.893,0.722,0.761,0.668,0.706,Europe,112.0
-36,Belgium,High income,High-income economies,High income,all,0.595,0.594,0.678,0.657,0.697,Europe,56.0
-37,Belgium,High income,High-income economies,High income,daughter,0.628,0.631,0.658,0.718,0.642,Europe,56.0
-38,Belgium,High income,High-income economies,High income,son,0.55,0.553,0.697,0.593,0.75,Europe,56.0
-39,Benin,Sub-Saharan Africa,Developing economies,Low income,all,0.098,0.191,0.227,0.277,0.255,Africa,204.0
-40,Benin,Sub-Saharan Africa,Developing economies,Low income,daughter,0.181,0.315,0.273,0.323,0.225,Africa,204.0
-41,Benin,Sub-Saharan Africa,Developing economies,Low income,son,0.048,0.101,0.223,0.288,0.326,Africa,204.0
-42,Bhutan,South Asia,Developing economies,Lower middle income,all,0.121,0.201,0.098,0.117,0.256,Asia,64.0
-43,Bhutan,South Asia,Developing economies,Lower middle income,daughter,0.467,0.244,0.146,0.162,0.12,Asia,64.0
-44,Bhutan,South Asia,Developing economies,Lower middle income,son,-0.064,0.242,0.094,0.08,0.412,Asia,64.0
-45,Bolivia,Latin America & Caribbean,Developing economies,Lower middle income,all,0.144,0.171,0.318,0.372,0.57,South America,68.0
-46,Bolivia,Latin America & Caribbean,Developing economies,Lower middle income,daughter,0.118,0.105,0.251,0.285,0.525,South America,68.0
-47,Bolivia,Latin America & Caribbean,Developing economies,Lower middle income,son,0.191,0.248,0.392,0.473,0.628,South America,68.0
-48,Bosnia and Herzegovina,Europe & Central Asia,Developing economies,Upper middle income,all,0.473,0.477,0.625,0.552,0.563,Europe,70.0
-49,Bosnia and Herzegovina,Europe & Central Asia,Developing economies,Upper middle income,daughter,0.331,0.34,0.534,0.506,0.505,Europe,70.0
-50,Bosnia and Herzegovina,Europe & Central Asia,Developing economies,Upper middle income,son,0.6,0.613,0.734,0.589,0.62,Europe,70.0
-51,Botswana,Sub-Saharan Africa,Developing economies,Upper middle income,all,,,,,0.673,Africa,72.0
-52,Botswana,Sub-Saharan Africa,Developing economies,Upper middle income,daughter,,,,,0.75,Africa,72.0
-53,Botswana,Sub-Saharan Africa,Developing economies,Upper middle income,son,,,,,0.578,Africa,72.0
-54,Brazil,Latin America & Caribbean,Developing economies,Upper middle income,all,0.166,0.277,0.446,0.515,0.633,South America,76.0
-55,Brazil,Latin America & Caribbean,Developing economies,Upper middle income,daughter,0.207,0.291,0.464,0.536,0.658,South America,76.0
-56,Brazil,Latin America & Caribbean,Developing economies,Upper middle income,son,0.11,0.261,0.425,0.49,0.603,South America,76.0
-57,Bulgaria,Europe & Central Asia,Developing economies,Upper middle income,all,0.448,0.498,0.561,0.459,0.404,Europe,100.0
-58,Bulgaria,Europe & Central Asia,Developing economies,Upper middle income,daughter,0.443,0.5,0.485,0.389,0.333,Europe,100.0
-59,Bulgaria,Europe & Central Asia,Developing economies,Upper middle income,son,0.452,0.499,0.632,0.535,0.46,Europe,100.0
-60,Burkina Faso,Sub-Saharan Africa,Developing economies,Low income,all,,,,,0.049,Africa,854.0
-61,Burkina Faso,Sub-Saharan Africa,Developing economies,Low income,daughter,,,,,0.051,Africa,854.0
-62,Burkina Faso,Sub-Saharan Africa,Developing economies,Low income,son,,,,,0.081,Africa,854.0
-63,Cabo Verde,Sub-Saharan Africa,Developing economies,Lower middle income,all,,,,,0.597,Africa,132.0
-64,Cabo Verde,Sub-Saharan Africa,Developing economies,Lower middle income,daughter,,,,,0.439,Africa,132.0
-65,Cabo Verde,Sub-Saharan Africa,Developing economies,Lower middle income,son,,,,,0.863,Africa,132.0
-66,Cambodia,East Asia & Pacific,Developing economies,Lower middle income,all,,,,,0.385,Asia,116.0
-67,Cambodia,East Asia & Pacific,Developing economies,Lower middle income,daughter,,,,,0.394,Asia,116.0
-68,Cambodia,East Asia & Pacific,Developing economies,Lower middle income,son,,,,,0.381,Asia,116.0
-69,Cameroon,Sub-Saharan Africa,Developing economies,Lower middle income,all,,,,,0.366,Africa,120.0
-70,Cameroon,Sub-Saharan Africa,Developing economies,Lower middle income,daughter,,,,,0.423,Africa,120.0
-71,Cameroon,Sub-Saharan Africa,Developing economies,Lower middle income,son,,,,,0.321,Africa,120.0
-72,Canada,High income,High-income economies,High income,all,0.717,0.792,0.809,0.79,0.745,North America,124.0
-73,Canada,High income,High-income economies,High income,daughter,0.706,0.775,0.782,0.78,0.755,North America,124.0
-74,Canada,High income,High-income economies,High income,son,0.734,0.81,0.837,0.795,0.733,North America,124.0
-75,Central African Republic,Sub-Saharan Africa,Developing economies,Low income,all,,,,,0.489,Africa,140.0
-76,Central African Republic,Sub-Saharan Africa,Developing economies,Low income,daughter,,,,,0.524,Africa,140.0
-77,Central African Republic,Sub-Saharan Africa,Developing economies,Low income,son,,,,,0.473,Africa,140.0
-78,Chad,Sub-Saharan Africa,Developing economies,Low income,all,,,,,0.359,Africa,148.0
-79,Chad,Sub-Saharan Africa,Developing economies,Low income,daughter,,,,,0.322,Africa,148.0
-80,Chad,Sub-Saharan Africa,Developing economies,Low income,son,,,,,0.38,Africa,148.0
-81,Chile,High income,High-income economies,High income,all,0.36,0.454,0.55,0.584,0.636,South America,152.0
-82,Chile,High income,High-income economies,High income,daughter,0.378,0.451,0.568,0.599,0.654,South America,152.0
-83,Chile,High income,High-income economies,High income,son,0.335,0.459,0.531,0.569,0.608,South America,152.0
-84,China,East Asia & Pacific,Developing economies,Upper middle income,all,0.647,0.602,0.63,0.515,0.525,Asia,156.0
-85,China,East Asia & Pacific,Developing economies,Upper middle income,daughter,0.544,0.524,0.558,0.463,0.46,Asia,156.0
-86,China,East Asia & Pacific,Developing economies,Upper middle income,son,0.765,0.674,0.71,0.57,0.584,Asia,156.0
-87,Colombia,Latin America & Caribbean,Developing economies,Upper middle income,all,0.085,0.211,0.288,0.398,0.516,South America,170.0
-88,Colombia,Latin America & Caribbean,Developing economies,Upper middle income,daughter,0.109,0.254,0.31,0.413,0.536,South America,170.0
-89,Colombia,Latin America & Caribbean,Developing economies,Upper middle income,son,0.061,0.165,0.264,0.375,0.491,South America,170.0
-90,Comoros,Sub-Saharan Africa,Developing economies,Low income,all,0.997,0.949,0.491,0.65,0.359,Africa,174.0
-91,Comoros,Sub-Saharan Africa,Developing economies,Low income,daughter,1.01,0.831,0.53,0.84,0.371,Africa,174.0
-92,Comoros,Sub-Saharan Africa,Developing economies,Low income,son,,1.017,0.21,0.359,0.349,Africa,174.0
-93,"Congo, Dem. Rep.",Sub-Saharan Africa,Developing economies,Low income,all,0.528,0.461,0.514,0.552,0.518,Africa,180.0
-94,"Congo, Dem. Rep.",Sub-Saharan Africa,Developing economies,Low income,daughter,0.683,0.545,0.541,0.522,0.506,Africa,180.0
-95,"Congo, Dem. Rep.",Sub-Saharan Africa,Developing economies,Low income,son,0.505,0.471,0.578,0.604,0.567,Africa,180.0
-96,"Congo, Rep.",Sub-Saharan Africa,Developing economies,Lower middle income,all,,,,,0.531,Africa,178.0
-97,"Congo, Rep.",Sub-Saharan Africa,Developing economies,Lower middle income,daughter,,,,,0.491,Africa,178.0
-98,"Congo, Rep.",Sub-Saharan Africa,Developing economies,Lower middle income,son,,,,,0.571,Africa,178.0
-99,Costa Rica,Latin America & Caribbean,Developing economies,Upper middle income,all,0.527,0.59,0.651,0.622,0.653,North America,188.0
-100,Costa Rica,Latin America & Caribbean,Developing economies,Upper middle income,daughter,0.507,0.583,0.629,0.638,0.655,North America,188.0
-101,Costa Rica,Latin America & Caribbean,Developing economies,Upper middle income,son,0.562,0.594,0.678,0.612,0.65,North America,188.0
-102,Cote d'Ivoire,Sub-Saharan Africa,Developing economies,Lower middle income,all,,,,,0.348,Africa,384.0
-103,Cote d'Ivoire,Sub-Saharan Africa,Developing economies,Lower middle income,daughter,,,,,0.376,Africa,384.0
-104,Cote d'Ivoire,Sub-Saharan Africa,Developing economies,Lower middle income,son,,,,,0.325,Africa,384.0
-105,Croatia,High income,High-income economies,High income,all,0.332,0.53,0.564,0.482,0.546,Europe,191.0
-106,Croatia,High income,High-income economies,High income,daughter,0.175,0.424,0.572,0.486,0.528,Europe,191.0
-107,Croatia,High income,High-income economies,High income,son,0.557,0.636,0.554,0.48,0.558,Europe,191.0
-108,Cyprus,High income,High-income economies,High income,all,0.485,0.598,0.667,0.654,0.8,Europe,196.0
-109,Cyprus,High income,High-income economies,High income,all,0.485,0.598,0.667,0.654,0.8,Asia,196.0
-110,Cyprus,High income,High-income economies,High income,daughter,0.347,0.602,0.61,0.722,0.791,Europe,196.0
-111,Cyprus,High income,High-income economies,High income,daughter,0.347,0.602,0.61,0.722,0.791,Asia,196.0
-112,Cyprus,High income,High-income economies,High income,son,0.69,0.621,0.735,0.578,0.8,Europe,196.0
-113,Cyprus,High income,High-income economies,High income,son,0.69,0.621,0.735,0.578,0.8,Asia,196.0
-114,Czech Republic,High income,High-income economies,High income,all,0.611,0.564,0.656,0.535,0.625,Europe,203.0
-115,Czech Republic,High income,High-income economies,High income,daughter,0.617,0.597,0.644,0.496,0.69,Europe,203.0
-116,Czech Republic,High income,High-income economies,High income,son,0.639,0.537,0.664,0.576,0.555,Europe,203.0
-117,Denmark,High income,High-income economies,High income,all,0.512,0.645,0.671,0.583,0.807,Europe,208.0
-118,Denmark,High income,High-income economies,High income,daughter,0.515,0.676,0.635,0.566,0.86,Europe,208.0
-119,Denmark,High income,High-income economies,High income,son,0.507,0.613,0.715,0.602,0.748,Europe,208.0
-120,Djibouti,Middle East & North Africa,Developing economies,Lower middle income,all,,,,,0.535,Africa,262.0
-121,Djibouti,Middle East & North Africa,Developing economies,Lower middle income,daughter,,,,,0.518,Africa,262.0
-122,Djibouti,Middle East & North Africa,Developing economies,Lower middle income,son,,,,,0.556,Africa,262.0
-123,Dominican Republic,Latin America & Caribbean,Developing economies,Upper middle income,all,0.218,0.473,0.459,0.607,0.661,North America,214.0
-124,Dominican Republic,Latin America & Caribbean,Developing economies,Upper middle income,daughter,0.149,0.574,0.462,0.566,0.694,North America,214.0
-125,Dominican Republic,Latin America & Caribbean,Developing economies,Upper middle income,son,0.294,0.394,0.458,0.642,0.628,North America,214.0
-126,Ecuador,Latin America & Caribbean,Developing economies,Upper middle income,all,0.151,0.213,0.318,0.424,0.498,South America,218.0
-127,Ecuador,Latin America & Caribbean,Developing economies,Upper middle income,daughter,0.211,0.214,0.305,0.409,0.492,South America,218.0
-128,Ecuador,Latin America & Caribbean,Developing economies,Upper middle income,son,0.102,0.214,0.334,0.438,0.502,South America,218.0
-129,"Egypt, Arab Rep.",Middle East & North Africa,Developing economies,Lower middle income,all,0.095,0.166,0.298,0.502,0.581,Africa,818.0
-130,"Egypt, Arab Rep.",Middle East & North Africa,Developing economies,Lower middle income,daughter,0.097,0.083,0.212,0.413,0.528,Africa,818.0
-131,"Egypt, Arab Rep.",Middle East & North Africa,Developing economies,Lower middle income,son,0.102,0.245,0.399,0.579,0.641,Africa,818.0
-132,El Salvador,Latin America & Caribbean,Developing economies,Lower middle income,all,0.284,0.27,0.424,0.528,0.562,North America,222.0
-133,El Salvador,Latin America & Caribbean,Developing economies,Lower middle income,daughter,0.275,0.254,0.505,0.478,0.594,North America,222.0
-134,El Salvador,Latin America & Caribbean,Developing economies,Lower middle income,son,0.301,0.304,0.368,0.58,0.527,North America,222.0
-135,Estonia,High income,High-income economies,High income,all,0.743,0.762,0.712,0.697,0.667,Europe,233.0
-136,Estonia,High income,High-income economies,High income,daughter,0.769,0.806,0.723,0.775,0.651,Europe,233.0
-137,Estonia,High income,High-income economies,High income,son,0.697,0.702,0.711,0.594,0.675,Europe,233.0
-138,Ethiopia,Sub-Saharan Africa,Developing economies,Low income,all,0.573,0.298,0.227,0.235,0.276,Africa,231.0
-139,Ethiopia,Sub-Saharan Africa,Developing economies,Low income,daughter,0.595,0.555,0.209,0.198,0.212,Africa,231.0
-140,Ethiopia,Sub-Saharan Africa,Developing economies,Low income,son,0.545,0.202,0.257,0.303,0.364,Africa,231.0
-141,Fiji,East Asia & Pacific,Developing economies,Upper middle income,all,,,,,0.648,Oceania,242.0
-142,Fiji,East Asia & Pacific,Developing economies,Upper middle income,daughter,,,,,0.665,Oceania,242.0
-143,Fiji,East Asia & Pacific,Developing economies,Upper middle income,son,,,,,0.667,Oceania,242.0
-144,Finland,High income,High-income economies,High income,all,0.648,0.699,0.759,0.723,0.779,Europe,246.0
-145,Finland,High income,High-income economies,High income,daughter,0.661,0.709,0.788,0.74,0.798,Europe,246.0
-146,Finland,High income,High-income economies,High income,son,0.635,0.683,0.73,0.693,0.754,Europe,246.0
-147,France,High income,High-income economies,High income,all,0.467,0.604,0.688,0.683,0.763,Europe,250.0
-148,France,High income,High-income economies,High income,daughter,0.468,0.586,0.666,0.729,0.777,Europe,250.0
-149,France,High income,High-income economies,High income,son,0.461,0.623,0.724,0.625,0.748,Europe,250.0
-150,Gabon,Sub-Saharan Africa,Developing economies,Upper middle income,all,,,,,0.607,Africa,266.0
-151,Gabon,Sub-Saharan Africa,Developing economies,Upper middle income,daughter,,,,,0.584,Africa,266.0
-152,Gabon,Sub-Saharan Africa,Developing economies,Upper middle income,son,,,,,0.619,Africa,266.0
-153,Georgia,Europe & Central Asia,Developing economies,Upper middle income,all,0.708,0.649,0.634,0.474,0.554,Europe,268.0
-154,Georgia,Europe & Central Asia,Developing economies,Upper middle income,all,0.708,0.649,0.634,0.474,0.554,Asia,268.0
-155,Georgia,Europe & Central Asia,Developing economies,Upper middle income,daughter,0.725,0.738,0.586,0.624,0.554,Europe,268.0
-156,Georgia,Europe & Central Asia,Developing economies,Upper middle income,daughter,0.725,0.738,0.586,0.624,0.554,Asia,268.0
-157,Georgia,Europe & Central Asia,Developing economies,Upper middle income,son,0.686,0.514,0.703,0.364,0.553,Europe,268.0
-158,Georgia,Europe & Central Asia,Developing economies,Upper middle income,son,0.686,0.514,0.703,0.364,0.553,Asia,268.0
-159,Germany,High income,High-income economies,High income,all,0.62,0.685,0.581,0.653,0.718,Europe,276.0
-160,Germany,High income,High-income economies,High income,daughter,0.599,0.699,0.65,0.639,0.656,Europe,276.0
-161,Germany,High income,High-income economies,High income,son,0.674,0.669,0.51,0.664,0.772,Europe,276.0
-162,Ghana,Sub-Saharan Africa,Developing economies,Lower middle income,all,0.338,0.494,0.496,0.504,0.46,Africa,288.0
-163,Ghana,Sub-Saharan Africa,Developing economies,Lower middle income,daughter,0.399,0.435,0.455,0.461,0.448,Africa,288.0
-164,Ghana,Sub-Saharan Africa,Developing economies,Lower middle income,son,0.26,0.514,0.547,0.569,0.492,Africa,288.0
-165,Greece,High income,High-income economies,High income,all,0.4,0.412,0.603,0.583,0.691,Europe,300.0
-166,Greece,High income,High-income economies,High income,daughter,0.435,0.428,0.615,0.637,0.667,Europe,300.0
-167,Greece,High income,High-income economies,High income,son,0.349,0.4,0.593,0.537,0.711,Europe,300.0
-168,Guatemala,Latin America & Caribbean,Developing economies,Lower middle income,all,0.075,-0.031,0.057,0.161,0.244,North America,320.0
-169,Guatemala,Latin America & Caribbean,Developing economies,Lower middle income,daughter,0.138,0.031,0.099,0.078,0.178,North America,320.0
-170,Guatemala,Latin America & Caribbean,Developing economies,Lower middle income,son,-0.055,-0.108,0.011,0.246,0.318,North America,320.0
-171,Guinea,Sub-Saharan Africa,Developing economies,Low income,all,0.577,0.385,0.501,0.482,0.38,Africa,324.0
-172,Guinea,Sub-Saharan Africa,Developing economies,Low income,daughter,0.777,0.42,0.543,0.537,0.415,Africa,324.0
-173,Guinea,Sub-Saharan Africa,Developing economies,Low income,son,0.404,0.376,0.474,0.444,0.357,Africa,324.0
-174,Guinea-Bissau,Sub-Saharan Africa,Developing economies,Low income,all,,,,,0.437,Africa,624.0
-175,Guinea-Bissau,Sub-Saharan Africa,Developing economies,Low income,daughter,,,,,0.363,Africa,624.0
-176,Guinea-Bissau,Sub-Saharan Africa,Developing economies,Low income,son,,,,,0.47,Africa,624.0
-177,Honduras,Latin America & Caribbean,Developing economies,Lower middle income,all,0.378,0.311,0.436,0.391,0.426,North America,340.0
-178,Honduras,Latin America & Caribbean,Developing economies,Lower middle income,daughter,0.269,0.237,0.452,0.488,0.413,North America,340.0
-179,Honduras,Latin America & Caribbean,Developing economies,Lower middle income,son,0.466,0.363,0.423,0.3,0.44,North America,340.0
-180,Hungary,High income,High-income economies,High income,all,0.519,0.595,0.573,0.443,0.424,Europe,348.0
-181,Hungary,High income,High-income economies,High income,daughter,0.543,0.548,0.533,0.412,0.431,Europe,348.0
-182,Hungary,High income,High-income economies,High income,son,0.492,0.661,0.627,0.47,0.408,Europe,348.0
-183,Iceland,High income,High-income economies,High income,all,0.462,0.781,0.613,0.684,0.755,Europe,352.0
-184,Iceland,High income,High-income economies,High income,daughter,,0.458,0.615,0.626,0.756,Europe,352.0
-185,Iceland,High income,High-income economies,High income,son,,0.929,0.59,0.701,0.754,Europe,352.0
-186,India,South Asia,Developing economies,Lower middle income,all,0.021,0.151,0.205,0.296,0.358,Asia,356.0
-187,India,South Asia,Developing economies,Lower middle income,daughter,0.539,0.114,0.189,0.25,0.298,Asia,356.0
-188,India,South Asia,Developing economies,Lower middle income,son,0.005,0.177,0.225,0.358,0.432,Asia,356.0
-189,Indonesia,East Asia & Pacific,Developing economies,Lower middle income,all,0.373,0.412,0.349,0.5,0.579,Asia,360.0
-190,Indonesia,East Asia & Pacific,Developing economies,Lower middle income,daughter,0.353,0.419,0.322,0.464,0.558,Asia,360.0
-191,Indonesia,East Asia & Pacific,Developing economies,Lower middle income,son,0.385,0.396,0.392,0.537,0.603,Asia,360.0
-192,"Iran, Islamic Rep.",Middle East & North Africa,Developing economies,Upper middle income,all,,,,,0.644,Asia,364.0
-193,"Iran, Islamic Rep.",Middle East & North Africa,Developing economies,Upper middle income,daughter,,,,,0.639,Asia,364.0
-194,"Iran, Islamic Rep.",Middle East & North Africa,Developing economies,Upper middle income,son,,,,,0.653,Asia,364.0
-195,Iraq,Middle East & North Africa,Developing economies,Upper middle income,all,0.114,0.125,0.362,0.457,0.436,Asia,368.0
-196,Iraq,Middle East & North Africa,Developing economies,Upper middle income,daughter,-0.133,-0.014,0.224,0.424,0.388,Asia,368.0
-197,Iraq,Middle East & North Africa,Developing economies,Upper middle income,son,0.297,0.294,0.525,0.498,0.494,Asia,368.0
-198,Ireland,High income,High-income economies,High income,all,0.56,0.663,0.689,0.684,0.648,Europe,372.0
-199,Ireland,High income,High-income economies,High income,daughter,0.538,0.639,0.672,0.692,0.658,Europe,372.0
-200,Ireland,High income,High-income economies,High income,son,0.579,0.691,0.703,0.677,0.636,Europe,372.0
-201,Israel,High income,High-income economies,High income,all,0.613,0.691,0.721,0.729,0.818,Asia,376.0
-202,Israel,High income,High-income economies,High income,daughter,0.616,0.682,0.7,0.699,0.814,Asia,376.0
-203,Israel,High income,High-income economies,High income,son,0.604,0.706,0.743,0.763,0.822,Asia,376.0
-204,Italy,High income,High-income economies,High income,all,0.412,0.439,0.529,0.614,0.662,Europe,380.0
-205,Italy,High income,High-income economies,High income,daughter,0.41,0.438,0.519,0.59,0.659,Europe,380.0
-206,Italy,High income,High-income economies,High income,son,0.417,0.438,0.548,0.648,0.665,Europe,380.0
-207,Japan,High income,High-income economies,High income,all,0.663,0.732,0.661,0.666,0.705,Asia,392.0
-208,Japan,High income,High-income economies,High income,daughter,0.689,0.736,0.679,0.705,0.705,Asia,392.0
-209,Japan,High income,High-income economies,High income,son,0.643,0.728,0.639,0.613,0.705,Asia,392.0
-210,Jordan,Middle East & North Africa,Developing economies,Upper middle income,all,0.436,0.469,0.66,0.721,0.759,Asia,400.0
-211,Jordan,Middle East & North Africa,Developing economies,Upper middle income,daughter,0.193,0.33,0.633,0.716,0.741,Asia,400.0
-212,Jordan,Middle East & North Africa,Developing economies,Upper middle income,son,0.588,0.595,0.666,0.725,0.778,Asia,400.0
-213,Kazakhstan,Europe & Central Asia,Developing economies,Upper middle income,all,0.788,0.863,0.805,0.698,0.692,Europe,398.0
-214,Kazakhstan,Europe & Central Asia,Developing economies,Upper middle income,all,0.788,0.863,0.805,0.698,0.692,Asia,398.0
-215,Kazakhstan,Europe & Central Asia,Developing economies,Upper middle income,daughter,0.774,0.881,0.826,0.7,0.654,Europe,398.0
-216,Kazakhstan,Europe & Central Asia,Developing economies,Upper middle income,daughter,0.774,0.881,0.826,0.7,0.654,Asia,398.0
-217,Kazakhstan,Europe & Central Asia,Developing economies,Upper middle income,son,,0.818,0.746,0.68,0.742,Europe,398.0
-218,Kazakhstan,Europe & Central Asia,Developing economies,Upper middle income,son,,0.818,0.746,0.68,0.742,Asia,398.0
-219,Kenya,Sub-Saharan Africa,Developing economies,Lower middle income,all,,1.018,0.802,0.769,0.635,Africa,404.0
-220,Kenya,Sub-Saharan Africa,Developing economies,Lower middle income,daughter,,,0.672,0.737,0.657,Africa,404.0
-221,Kenya,Sub-Saharan Africa,Developing economies,Lower middle income,son,,0.913,0.919,0.784,0.609,Africa,404.0
-222,Kiribati,East Asia & Pacific,Developing economies,Lower middle income,all,,,,,0.787,Oceania,296.0
-223,Kiribati,East Asia & Pacific,Developing economies,Lower middle income,daughter,,,,,0.806,Oceania,296.0
-224,Kiribati,East Asia & Pacific,Developing economies,Lower middle income,son,,,,,0.77,Oceania,296.0
-225,"Korea, Rep.",High income,High-income economies,High income,all,0.491,0.58,0.73,0.794,0.806,Asia,410.0
-226,"Korea, Rep.",High income,High-income economies,High income,daughter,0.489,0.555,0.712,0.784,0.772,Asia,410.0
-227,"Korea, Rep.",High income,High-income economies,High income,son,0.523,0.617,0.745,0.802,0.836,Asia,410.0
-231,Kyrgyz Republic,Europe & Central Asia,Developing economies,Lower middle income,all,0.724,0.818,0.799,0.771,0.658,Asia,417.0
-232,Kyrgyz Republic,Europe & Central Asia,Developing economies,Lower middle income,daughter,0.695,0.826,0.776,0.68,0.664,Asia,417.0
-233,Kyrgyz Republic,Europe & Central Asia,Developing economies,Lower middle income,son,0.806,0.809,0.827,0.861,0.66,Asia,417.0
-234,Lao PDR,East Asia & Pacific,Developing economies,Lower middle income,all,,0.261,0.344,0.478,0.51,Asia,418.0
-235,Lao PDR,East Asia & Pacific,Developing economies,Lower middle income,daughter,,0.814,0.453,0.409,0.503,Asia,418.0
-236,Lao PDR,East Asia & Pacific,Developing economies,Lower middle income,son,,-0.018,0.126,0.58,0.539,Asia,418.0
-237,Latvia,High income,High-income economies,High income,all,0.66,0.871,0.751,0.684,0.622,Europe,428.0
-238,Latvia,High income,High-income economies,High income,daughter,0.623,0.939,0.728,0.583,0.593,Europe,428.0
-239,Latvia,High income,High-income economies,High income,son,0.729,0.762,0.777,0.771,0.629,Europe,428.0
-240,Lebanon,Middle East & North Africa,Developing economies,Upper middle income,all,,,,,0.544,Asia,422.0
-241,Lebanon,Middle East & North Africa,Developing economies,Upper middle income,daughter,,,,,0.769,Asia,422.0
-242,Lebanon,Middle East & North Africa,Developing economies,Upper middle income,son,,,,,0.441,Asia,422.0
-243,Lesotho,Sub-Saharan Africa,Developing economies,Lower middle income,all,,,,,0.712,Africa,426.0
-244,Lesotho,Sub-Saharan Africa,Developing economies,Lower middle income,daughter,,,,,0.625,Africa,426.0
-245,Lesotho,Sub-Saharan Africa,Developing economies,Lower middle income,son,,,,,1.214,Africa,426.0
-246,Liberia,Sub-Saharan Africa,Developing economies,Low income,all,0.374,0.467,0.584,0.504,0.585,Africa,430.0
-247,Liberia,Sub-Saharan Africa,Developing economies,Low income,daughter,0.504,0.474,0.485,0.487,0.5,Africa,430.0
-248,Liberia,Sub-Saharan Africa,Developing economies,Low income,son,0.297,0.518,0.678,0.572,0.734,Africa,430.0
-249,Lithuania,High income,High-income economies,High income,all,0.708,0.838,0.868,0.76,0.698,Europe,440.0
-250,Lithuania,High income,High-income economies,High income,daughter,0.674,0.814,0.833,0.74,0.655,Europe,440.0
-251,Lithuania,High income,High-income economies,High income,son,0.761,0.85,0.906,0.781,0.747,Europe,440.0
-252,"Macedonia, FYR",Europe & Central Asia,Developing economies,Upper middle income,all,0.217,0.411,0.375,0.364,0.466,Europe,807.0
-253,"Macedonia, FYR",Europe & Central Asia,Developing economies,Upper middle income,daughter,0.21,0.342,0.267,0.257,0.35,Europe,807.0
-254,"Macedonia, FYR",Europe & Central Asia,Developing economies,Upper middle income,son,0.19,0.497,0.463,0.489,0.553,Europe,807.0
-255,Madagascar,Sub-Saharan Africa,Developing economies,Low income,all,0.341,0.302,0.35,0.484,0.395,Africa,450.0
-256,Madagascar,Sub-Saharan Africa,Developing economies,Low income,daughter,0.416,0.276,0.328,0.49,0.401,Africa,450.0
-257,Madagascar,Sub-Saharan Africa,Developing economies,Low income,son,0.323,0.311,0.36,0.477,0.391,Africa,450.0
-258,Malawi,Sub-Saharan Africa,Developing economies,Low income,all,0.466,0.626,0.526,0.483,0.559,Africa,454.0
-259,Malawi,Sub-Saharan Africa,Developing economies,Low income,daughter,0.496,0.709,0.572,0.46,0.564,Africa,454.0
-260,Malawi,Sub-Saharan Africa,Developing economies,Low income,son,0.311,0.634,0.513,0.505,0.566,Africa,454.0
-261,Malaysia,East Asia & Pacific,Developing economies,Upper middle income,all,,,0.595,0.683,0.71,Asia,458.0
-262,Malaysia,East Asia & Pacific,Developing economies,Upper middle income,daughter,,,0.737,0.676,0.723,Asia,458.0
-263,Malaysia,East Asia & Pacific,Developing economies,Upper middle income,son,,,0.53,0.69,0.695,Asia,458.0
-264,Maldives,South Asia,Developing economies,Upper middle income,all,,,,,0.874,Asia,462.0
-265,Maldives,South Asia,Developing economies,Upper middle income,daughter,,,,,0.879,Asia,462.0
-266,Maldives,South Asia,Developing economies,Upper middle income,son,,,,,0.863,Asia,462.0
-267,Mali,Sub-Saharan Africa,Developing economies,Low income,all,0.292,0.433,0.316,0.422,0.266,Africa,466.0
-268,Mali,Sub-Saharan Africa,Developing economies,Low income,daughter,0.578,0.515,0.388,0.557,0.383,Africa,466.0
-269,Mali,Sub-Saharan Africa,Developing economies,Low income,son,0.161,0.414,0.269,0.343,0.189,Africa,466.0
-270,Mauritania,Sub-Saharan Africa,Developing economies,Lower middle income,all,0.953,0.757,0.58,0.456,0.497,Africa,478.0
-271,Mauritania,Sub-Saharan Africa,Developing economies,Lower middle income,daughter,0.983,0.932,0.73,0.561,0.41,Africa,478.0
-272,Mauritania,Sub-Saharan Africa,Developing economies,Lower middle income,son,0.926,0.545,0.388,0.35,0.597,Africa,478.0
-273,Mauritius,Sub-Saharan Africa,Developing economies,Upper middle income,all,,,,,0.633,Africa,480.0
-274,Mauritius,Sub-Saharan Africa,Developing economies,Upper middle income,daughter,,,,,0.623,Africa,480.0
-275,Mauritius,Sub-Saharan Africa,Developing economies,Upper middle income,son,,,,,0.656,Africa,480.0
-276,Mexico,Latin America & Caribbean,Developing economies,Upper middle income,all,0.349,0.359,0.415,0.563,0.597,North America,484.0
-277,Mexico,Latin America & Caribbean,Developing economies,Upper middle income,daughter,0.434,0.476,0.399,0.526,0.612,North America,484.0
-278,Mexico,Latin America & Caribbean,Developing economies,Upper middle income,son,0.178,0.281,0.431,0.604,0.581,North America,484.0
-279,Moldova,Europe & Central Asia,Developing economies,Lower middle income,all,0.66,0.781,0.797,0.786,0.56,Europe,498.0
-280,Moldova,Europe & Central Asia,Developing economies,Lower middle income,daughter,0.625,0.759,0.817,0.756,0.523,Europe,498.0
-281,Moldova,Europe & Central Asia,Developing economies,Lower middle income,son,0.765,0.809,0.777,0.819,0.609,Europe,498.0
-282,Mongolia,East Asia & Pacific,Developing economies,Lower middle income,all,0.818,0.765,0.816,0.843,0.733,Asia,496.0
-283,Mongolia,East Asia & Pacific,Developing economies,Lower middle income,daughter,0.805,0.744,0.817,0.789,0.752,Asia,496.0
-284,Mongolia,East Asia & Pacific,Developing economies,Lower middle income,son,,0.794,0.81,0.915,0.702,Asia,496.0
-285,Montenegro,Europe & Central Asia,Developing economies,Upper middle income,all,0.516,0.488,0.574,0.576,0.459,Europe,499.0
-286,Montenegro,Europe & Central Asia,Developing economies,Upper middle income,daughter,0.475,0.381,0.514,0.57,0.539,Europe,499.0
-287,Montenegro,Europe & Central Asia,Developing economies,Upper middle income,son,0.563,0.579,0.642,0.587,0.39,Europe,499.0
-288,Morocco,Middle East & North Africa,Developing economies,Lower middle income,all,0.356,0.276,0.319,0.361,0.464,Africa,504.0
-289,Morocco,Middle East & North Africa,Developing economies,Lower middle income,daughter,0.641,0.284,0.252,0.261,0.363,Africa,504.0
-290,Morocco,Middle East & North Africa,Developing economies,Lower middle income,son,0.232,0.304,0.401,0.499,0.592,Africa,504.0
-291,Mozambique,Sub-Saharan Africa,Developing economies,Low income,all,,,,,0.344,Africa,508.0
-292,Mozambique,Sub-Saharan Africa,Developing economies,Low income,daughter,,,,,0.204,Africa,508.0
-293,Mozambique,Sub-Saharan Africa,Developing economies,Low income,son,,,,,0.42,Africa,508.0
-294,Namibia,Sub-Saharan Africa,Developing economies,Upper middle income,all,,,,,0.523,Africa,516.0
-295,Namibia,Sub-Saharan Africa,Developing economies,Upper middle income,daughter,,,,,0.545,Africa,516.0
-296,Namibia,Sub-Saharan Africa,Developing economies,Upper middle income,son,,,,,0.496,Africa,516.0
-297,Nepal,South Asia,Developing economies,Low income,all,0.176,0.161,0.201,0.278,0.284,Asia,524.0
-298,Nepal,South Asia,Developing economies,Low income,daughter,0.425,0.389,0.331,0.26,0.211,Asia,524.0
-299,Nepal,South Asia,Developing economies,Low income,son,0.075,-0.012,0.037,0.265,0.394,Asia,524.0
-300,Netherlands,High income,High-income economies,High income,all,0.555,0.565,0.751,0.676,0.723,Europe,528.0
-301,Netherlands,High income,High-income economies,High income,daughter,0.543,0.56,0.734,0.725,0.708,Europe,528.0
-302,Netherlands,High income,High-income economies,High income,son,0.567,0.582,0.764,0.62,0.739,Europe,528.0
-303,New Zealand,High income,High-income economies,High income,all,0.773,0.836,0.809,0.82,,Oceania,554.0
-304,New Zealand,High income,High-income economies,High income,daughter,0.802,0.823,0.8,0.848,,Oceania,554.0
-305,New Zealand,High income,High-income economies,High income,son,0.751,0.846,0.827,0.808,,Oceania,554.0
-306,Nicaragua,Latin America & Caribbean,Developing economies,Lower middle income,all,0.417,0.413,0.474,0.515,0.567,North America,558.0
-307,Nicaragua,Latin America & Caribbean,Developing economies,Lower middle income,daughter,0.388,0.468,0.471,0.548,0.55,North America,558.0
-308,Nicaragua,Latin America & Caribbean,Developing economies,Lower middle income,son,0.439,0.353,0.476,0.483,0.584,North America,558.0
-309,Niger,Sub-Saharan Africa,Developing economies,Low income,all,0.715,0.366,0.373,0.488,0.392,Africa,562.0
-310,Niger,Sub-Saharan Africa,Developing economies,Low income,daughter,0.788,0.433,0.247,0.432,0.382,Africa,562.0
-311,Niger,Sub-Saharan Africa,Developing economies,Low income,son,0.688,0.392,0.584,0.58,0.456,Africa,562.0
-312,Nigeria,Sub-Saharan Africa,Developing economies,Lower middle income,all,0.661,0.573,0.672,0.576,0.477,Africa,566.0
-313,Nigeria,Sub-Saharan Africa,Developing economies,Lower middle income,daughter,0.648,0.507,0.604,0.589,0.42,Africa,566.0
-314,Nigeria,Sub-Saharan Africa,Developing economies,Lower middle income,son,0.748,0.679,0.783,0.612,0.61,Africa,566.0
-315,Norway,High income,High-income economies,High income,all,0.633,0.679,0.579,0.585,0.725,Europe,578.0
-316,Norway,High income,High-income economies,High income,daughter,0.537,0.638,0.531,0.577,0.688,Europe,578.0
-317,Norway,High income,High-income economies,High income,son,0.719,0.715,0.612,0.592,0.767,Europe,578.0
-318,Pakistan,South Asia,Developing economies,Lower middle income,all,0.337,0.232,0.235,0.268,0.392,Asia,586.0
-319,Pakistan,South Asia,Developing economies,Lower middle income,daughter,0.435,0.341,0.274,0.251,0.322,Asia,586.0
-320,Pakistan,South Asia,Developing economies,Lower middle income,son,0.176,0.141,0.205,0.266,0.434,Asia,586.0
-321,Panama,Latin America & Caribbean,Developing economies,Upper middle income,all,0.194,0.352,0.407,0.452,0.527,North America,591.0
-322,Panama,Latin America & Caribbean,Developing economies,Upper middle income,daughter,0.13,0.354,0.36,0.441,0.506,North America,591.0
-323,Panama,Latin America & Caribbean,Developing economies,Upper middle income,son,0.256,0.347,0.441,0.459,0.542,North America,591.0
-324,Papua New Guinea,East Asia & Pacific,Developing economies,Lower middle income,all,,,,,0.604,Oceania,598.0
-325,Papua New Guinea,East Asia & Pacific,Developing economies,Lower middle income,daughter,,,,,0.513,Oceania,598.0
-326,Papua New Guinea,East Asia & Pacific,Developing economies,Lower middle income,son,,,,,0.656,Oceania,598.0
-327,Paraguay,Latin America & Caribbean,Developing economies,Upper middle income,all,0.433,0.389,0.399,0.459,0.598,South America,600.0
-328,Paraguay,Latin America & Caribbean,Developing economies,Upper middle income,daughter,0.367,0.379,0.393,0.486,0.572,South America,600.0
-329,Paraguay,Latin America & Caribbean,Developing economies,Upper middle income,son,0.48,0.395,0.414,0.436,0.623,South America,600.0
-330,Peru,Latin America & Caribbean,Developing economies,Upper middle income,all,0.089,0.224,0.375,0.508,0.594,South America,604.0
-331,Peru,Latin America & Caribbean,Developing economies,Upper middle income,daughter,0.072,0.107,0.333,0.441,0.612,South America,604.0
-332,Peru,Latin America & Caribbean,Developing economies,Upper middle income,son,0.101,0.267,0.387,0.526,0.589,South America,604.0
-333,Philippines,East Asia & Pacific,Developing economies,Lower middle income,all,0.67,0.709,0.777,0.687,0.844,Asia,608.0
-334,Philippines,East Asia & Pacific,Developing economies,Lower middle income,daughter,0.581,0.762,0.778,0.742,0.919,Asia,608.0
-335,Philippines,East Asia & Pacific,Developing economies,Lower middle income,son,0.747,0.651,0.775,0.629,0.793,Asia,608.0
-336,Poland,High income,High-income economies,High income,all,0.652,0.61,0.588,0.539,0.663,Europe,616.0
-337,Poland,High income,High-income economies,High income,daughter,0.708,0.627,0.631,0.482,0.678,Europe,616.0
-338,Poland,High income,High-income economies,High income,son,0.602,0.59,0.53,0.59,0.639,Europe,616.0
-339,Portugal,High income,High-income economies,High income,all,0.35,0.331,0.355,0.316,0.486,Europe,620.0
-340,Portugal,High income,High-income economies,High income,daughter,0.306,0.285,0.388,0.34,0.52,Europe,620.0
-341,Portugal,High income,High-income economies,High income,son,0.409,0.391,0.31,0.302,0.438,Europe,620.0
-342,Romania,Europe & Central Asia,Developing economies,Upper middle income,all,0.397,0.429,0.515,0.481,0.314,Europe,642.0
-343,Romania,Europe & Central Asia,Developing economies,Upper middle income,daughter,0.418,0.373,0.481,0.475,0.208,Europe,642.0
-344,Romania,Europe & Central Asia,Developing economies,Upper middle income,son,0.427,0.512,0.561,0.489,0.426,Europe,642.0
-345,Russian Federation,Europe & Central Asia,Developing economies,Upper middle income,all,0.733,0.812,0.84,0.759,0.63,Europe,643.0
-346,Russian Federation,Europe & Central Asia,Developing economies,Upper middle income,all,0.733,0.812,0.84,0.759,0.63,Asia,643.0
-347,Russian Federation,Europe & Central Asia,Developing economies,Upper middle income,daughter,0.74,0.791,0.814,0.781,0.638,Europe,643.0
-348,Russian Federation,Europe & Central Asia,Developing economies,Upper middle income,daughter,0.74,0.791,0.814,0.781,0.638,Asia,643.0
-349,Russian Federation,Europe & Central Asia,Developing economies,Upper middle income,son,0.716,0.85,0.866,0.747,0.628,Europe,643.0
-350,Russian Federation,Europe & Central Asia,Developing economies,Upper middle income,son,0.716,0.85,0.866,0.747,0.628,Asia,643.0
-351,Rwanda,Sub-Saharan Africa,Developing economies,Low income,all,0.33,0.493,0.329,0.426,0.452,Africa,646.0
-352,Rwanda,Sub-Saharan Africa,Developing economies,Low income,daughter,0.315,0.529,0.328,0.373,0.393,Africa,646.0
-353,Rwanda,Sub-Saharan Africa,Developing economies,Low income,son,0.315,0.467,0.336,0.497,0.51,Africa,646.0
-354,Sao Tome and Principe,Sub-Saharan Africa,Developing economies,Lower middle income,all,,,,,0.435,Africa,678.0
-355,Sao Tome and Principe,Sub-Saharan Africa,Developing economies,Lower middle income,daughter,,,,,0.775,Africa,678.0
-356,Sao Tome and Principe,Sub-Saharan Africa,Developing economies,Lower middle income,son,,,,,0.375,Africa,678.0
-357,Senegal,Sub-Saharan Africa,Developing economies,Low income,all,0.532,0.629,0.524,0.476,0.505,Africa,686.0
-358,Senegal,Sub-Saharan Africa,Developing economies,Low income,daughter,0.464,0.644,0.564,0.461,0.493,Africa,686.0
-359,Senegal,Sub-Saharan Africa,Developing economies,Low income,son,0.578,0.614,0.499,0.475,0.53,Africa,686.0
-360,Serbia,Europe & Central Asia,Developing economies,Upper middle income,all,0.37,0.557,0.588,0.546,0.56,Europe,688.0
-361,Serbia,Europe & Central Asia,Developing economies,Upper middle income,daughter,0.335,0.479,0.589,0.492,0.528,Europe,688.0
-362,Serbia,Europe & Central Asia,Developing economies,Upper middle income,son,0.44,0.645,0.587,0.6,0.583,Europe,688.0
-363,Sierra Leone,Sub-Saharan Africa,Developing economies,Low income,all,,,,,0.436,Africa,694.0
-364,Sierra Leone,Sub-Saharan Africa,Developing economies,Low income,daughter,,,,,0.404,Africa,694.0
-365,Sierra Leone,Sub-Saharan Africa,Developing economies,Low income,son,,,,,0.452,Africa,694.0
-366,Slovak Republic,High income,High-income economies,High income,all,0.707,0.646,0.717,0.582,0.6,Europe,703.0
-367,Slovak Republic,High income,High-income economies,High income,daughter,0.713,0.622,0.717,0.615,0.558,Europe,703.0
-368,Slovak Republic,High income,High-income economies,High income,son,0.703,0.675,0.717,0.534,0.64,Europe,703.0
-369,Slovenia,High income,High-income economies,High income,all,0.579,0.616,0.553,0.505,0.672,Europe,705.0
-370,Slovenia,High income,High-income economies,High income,daughter,0.553,0.585,0.487,0.469,0.578,Europe,705.0
-371,Slovenia,High income,High-income economies,High income,son,0.618,0.645,0.612,0.537,0.729,Europe,705.0
-372,South Africa,Sub-Saharan Africa,Developing economies,Upper middle income,all,0.209,0.314,0.468,0.662,0.802,Africa,710.0
-373,South Africa,Sub-Saharan Africa,Developing economies,Upper middle income,daughter,0.191,0.286,0.382,0.656,0.785,Africa,710.0
-374,South Africa,Sub-Saharan Africa,Developing economies,Upper middle income,son,0.238,0.346,0.565,0.667,0.82,Africa,710.0
-375,South Sudan,Sub-Saharan Africa,Developing economies,Low income,all,,,,,0.584,Africa,728.0
-376,South Sudan,Sub-Saharan Africa,Developing economies,Low income,daughter,,,,,0.599,Africa,728.0
-377,South Sudan,Sub-Saharan Africa,Developing economies,Low income,son,,,,,0.55,Africa,728.0
-378,Spain,High income,High-income economies,High income,all,0.334,0.444,0.552,0.625,0.695,Europe,724.0
-379,Spain,High income,High-income economies,High income,daughter,0.405,0.518,0.546,0.647,0.788,Europe,724.0
-380,Spain,High income,High-income economies,High income,son,0.261,0.383,0.554,0.608,0.613,Europe,724.0
-381,Sri Lanka,South Asia,Developing economies,Lower middle income,all,0.565,0.658,0.652,0.693,0.597,Asia,144.0
-382,Sri Lanka,South Asia,Developing economies,Lower middle income,daughter,0.585,0.585,0.69,0.727,0.537,Asia,144.0
-383,Sri Lanka,South Asia,Developing economies,Lower middle income,son,,0.734,0.589,0.677,0.655,Asia,144.0
-384,Sudan,Sub-Saharan Africa,Developing economies,Lower middle income,all,,,,,0.282,Africa,736.0
-385,Sudan,Sub-Saharan Africa,Developing economies,Lower middle income,daughter,,,,,0.315,Africa,736.0
-386,Sudan,Sub-Saharan Africa,Developing economies,Lower middle income,son,,,,,0.258,Africa,736.0
-387,Swaziland,Sub-Saharan Africa,Developing economies,Lower middle income,all,,,,,0.619,Africa,748.0
-388,Swaziland,Sub-Saharan Africa,Developing economies,Lower middle income,daughter,,,,,0.659,Africa,748.0
-389,Swaziland,Sub-Saharan Africa,Developing economies,Lower middle income,son,,,,,0.575,Africa,748.0
-390,Sweden,High income,High-income economies,High income,all,0.684,0.769,0.747,0.702,0.774,Europe,752.0
-391,Sweden,High income,High-income economies,High income,daughter,0.72,0.771,0.77,0.716,0.755,Europe,752.0
-392,Sweden,High income,High-income economies,High income,son,0.644,0.765,0.721,0.689,0.787,Europe,752.0
-393,Switzerland,High income,High-income economies,High income,all,0.672,0.614,0.731,0.604,0.654,Europe,756.0
-394,Switzerland,High income,High-income economies,High income,daughter,0.703,0.58,0.712,0.562,0.606,Europe,756.0
-395,Switzerland,High income,High-income economies,High income,son,0.62,0.653,0.744,0.65,0.695,Europe,756.0
-396,"Taiwan, China",High income,High-income economies,High income,all,0.286,0.478,0.652,0.707,0.678,Asia,158.0
-397,"Taiwan, China",High income,High-income economies,High income,daughter,0.251,0.466,0.617,0.724,0.693,Asia,158.0
-398,"Taiwan, China",High income,High-income economies,High income,son,0.395,0.512,0.683,0.688,0.662,Asia,158.0
-399,Tajikistan,Europe & Central Asia,Developing economies,Lower middle income,all,0.765,0.781,0.825,0.691,0.759,Asia,762.0
-400,Tajikistan,Europe & Central Asia,Developing economies,Lower middle income,daughter,,0.757,0.761,0.668,0.772,Asia,762.0
-401,Tajikistan,Europe & Central Asia,Developing economies,Lower middle income,son,,0.842,0.926,0.745,0.71,Asia,762.0
-402,Tanzania,Sub-Saharan Africa,Developing economies,Low income,all,0.458,0.366,0.589,0.665,0.544,Africa,834.0
-403,Tanzania,Sub-Saharan Africa,Developing economies,Low income,daughter,0.447,0.268,0.561,0.674,0.541,Africa,834.0
-404,Tanzania,Sub-Saharan Africa,Developing economies,Low income,son,0.502,0.468,0.613,0.668,0.537,Africa,834.0
-405,Thailand,East Asia & Pacific,Developing economies,Upper middle income,all,,,,,0.641,Asia,764.0
-406,Thailand,East Asia & Pacific,Developing economies,Upper middle income,daughter,,,,,0.671,Asia,764.0
-407,Thailand,East Asia & Pacific,Developing economies,Upper middle income,son,,,,,0.628,Asia,764.0
-408,Timor-Leste,East Asia & Pacific,Developing economies,Lower middle income,all,0.556,-0.263,0.086,0.135,0.417,Asia,626.0
-409,Timor-Leste,East Asia & Pacific,Developing economies,Lower middle income,daughter,0.818,-0.334,0.108,0.023,0.368,Asia,626.0
-410,Timor-Leste,East Asia & Pacific,Developing economies,Lower middle income,son,0.243,-0.273,0.063,0.242,0.481,Asia,626.0
-411,Togo,Sub-Saharan Africa,Developing economies,Low income,all,0.083,-0.018,0.264,0.421,0.36,Africa,768.0
-412,Togo,Sub-Saharan Africa,Developing economies,Low income,daughter,0.115,0.157,0.186,0.435,0.373,Africa,768.0
-413,Togo,Sub-Saharan Africa,Developing economies,Low income,son,0.124,-0.166,0.381,0.346,0.393,Africa,768.0
-414,Tonga,East Asia & Pacific,Developing economies,Lower middle income,all,,,,,0.719,Oceania,776.0
-415,Tonga,East Asia & Pacific,Developing economies,Lower middle income,daughter,,,,,0.799,Oceania,776.0
-416,Tonga,East Asia & Pacific,Developing economies,Lower middle income,son,,,,,0.565,Oceania,776.0
-417,Tunisia,Middle East & North Africa,Developing economies,Lower middle income,all,0.028,0.271,0.293,0.451,0.544,Africa,788.0
-418,Tunisia,Middle East & North Africa,Developing economies,Lower middle income,daughter,0.304,0.169,0.219,0.42,0.486,Africa,788.0
-419,Tunisia,Middle East & North Africa,Developing economies,Lower middle income,son,-0.163,0.401,0.39,0.471,0.598,Africa,788.0
-420,Turkey,Europe & Central Asia,Developing economies,Upper middle income,all,0.179,0.411,0.396,0.481,0.438,Europe,792.0
-421,Turkey,Europe & Central Asia,Developing economies,Upper middle income,all,0.179,0.411,0.396,0.481,0.438,Asia,792.0
-422,Turkey,Europe & Central Asia,Developing economies,Upper middle income,daughter,,0.359,0.399,0.49,0.35,Europe,792.0
-423,Turkey,Europe & Central Asia,Developing economies,Upper middle income,daughter,,0.359,0.399,0.49,0.35,Asia,792.0
-424,Turkey,Europe & Central Asia,Developing economies,Upper middle income,son,,0.474,0.415,0.512,0.557,Europe,792.0
-425,Turkey,Europe & Central Asia,Developing economies,Upper middle income,son,,0.474,0.415,0.512,0.557,Asia,792.0
-426,Tuvalu,East Asia & Pacific,Developing economies,Upper middle income,all,,,,,0.612,Oceania,798.0
-427,Uganda,Sub-Saharan Africa,Developing economies,Low income,all,0.185,0.395,0.513,0.541,0.506,Africa,800.0
-428,Uganda,Sub-Saharan Africa,Developing economies,Low income,daughter,-1.811,0.314,0.435,0.491,0.52,Africa,800.0
-429,Uganda,Sub-Saharan Africa,Developing economies,Low income,son,0.323,0.513,0.611,0.576,0.511,Africa,800.0
-430,Ukraine,Europe & Central Asia,Developing economies,Lower middle income,all,0.757,0.8,0.829,0.677,0.623,Europe,804.0
-431,Ukraine,Europe & Central Asia,Developing economies,Lower middle income,daughter,0.754,0.829,0.851,0.629,0.589,Europe,804.0
-432,Ukraine,Europe & Central Asia,Developing economies,Lower middle income,son,0.76,0.756,0.797,0.715,0.66,Europe,804.0
-433,United Kingdom,High income,High-income economies,High income,all,0.64,0.673,0.703,0.73,0.831,Europe,826.0
-434,United Kingdom,High income,High-income economies,High income,daughter,0.694,0.638,0.679,0.763,0.803,Europe,826.0
-435,United Kingdom,High income,High-income economies,High income,son,0.591,0.714,0.727,0.692,0.857,Europe,826.0
-436,United States,High income,High-income economies,High income,all,0.669,0.567,0.592,0.628,0.692,North America,840.0
-437,United States,High income,High-income economies,High income,daughter,0.724,0.597,0.596,0.623,0.707,North America,840.0
-438,United States,High income,High-income economies,High income,son,0.602,0.534,0.583,0.631,0.667,North America,840.0
-439,Uruguay,High income,High-income economies,High income,all,0.423,0.508,0.57,0.51,0.545,South America,858.0
-440,Uruguay,High income,High-income economies,High income,daughter,0.454,0.502,0.573,0.551,0.553,South America,858.0
-441,Uruguay,High income,High-income economies,High income,son,0.37,0.517,0.564,0.465,0.53,South America,858.0
-442,Uzbekistan,Europe & Central Asia,Developing economies,Lower middle income,all,0.868,0.888,0.891,0.894,0.761,Asia,860.0
-443,Uzbekistan,Europe & Central Asia,Developing economies,Lower middle income,daughter,0.817,0.864,0.891,0.901,0.813,Asia,860.0
-444,Uzbekistan,Europe & Central Asia,Developing economies,Lower middle income,son,0.886,0.9,0.892,0.88,0.702,Asia,860.0
-445,Vanuatu,East Asia & Pacific,Developing economies,Lower middle income,all,,,,,0.59,Oceania,548.0
-446,Vanuatu,East Asia & Pacific,Developing economies,Lower middle income,daughter,,,,,0.658,Oceania,548.0
-447,Vanuatu,East Asia & Pacific,Developing economies,Lower middle income,son,,,,,0.529,Oceania,548.0
-448,"Venezuela, RB",Latin America & Caribbean,Developing economies,Upper middle income,all,0.572,0.583,0.629,0.602,0.665,South America,862.0
-449,"Venezuela, RB",Latin America & Caribbean,Developing economies,Upper middle income,daughter,0.652,0.537,0.635,0.619,0.677,South America,862.0
-450,"Venezuela, RB",Latin America & Caribbean,Developing economies,Upper middle income,son,0.499,0.633,0.625,0.591,0.651,South America,862.0
-451,Vietnam,East Asia & Pacific,Developing economies,Lower middle income,all,0.565,0.602,0.576,0.416,0.511,Asia,704.0
-452,Vietnam,East Asia & Pacific,Developing economies,Lower middle income,daughter,0.488,0.576,0.638,0.415,0.492,Asia,704.0
-453,Vietnam,East Asia & Pacific,Developing economies,Lower middle income,son,,0.66,0.535,0.448,0.552,Asia,704.0
-454,West Bank and Gaza,Middle East & North Africa,Developing economies,Lower middle income,all,,,,,0.66,Asia,275.0
-455,West Bank and Gaza,Middle East & North Africa,Developing economies,Lower middle income,daughter,,,,,0.602,Asia,275.0
-456,West Bank and Gaza,Middle East & North Africa,Developing economies,Lower middle income,son,,,,,0.684,Asia,275.0
-457,"Yemen, Rep.",Middle East & North Africa,Developing economies,Lower middle income,all,,,,,0.64,Asia,887.0
-458,"Yemen, Rep.",Middle East & North Africa,Developing economies,Lower middle income,daughter,,,,,0.415,Asia,887.0
-459,"Yemen, Rep.",Middle East & North Africa,Developing economies,Lower middle income,son,,,,,0.749,Asia,887.0
-460,Zambia,Sub-Saharan Africa,Developing economies,Lower middle income,all,,,,,0.592,Africa,894.0
-461,Zambia,Sub-Saharan Africa,Developing economies,Lower middle income,daughter,,,,,0.581,Africa,894.0
-462,Zambia,Sub-Saharan Africa,Developing economies,Lower middle income,son,,,,,0.598,Africa,894.0
+0,Afghanistan,South Asia,Developing economies,Low income,Overall (All Offspring),,,,,0.378,Asia,4.0
+1,Afghanistan,South Asia,Developing economies,Low income,Women (Daughters),,,,,0.331,Asia,4.0
+2,Afghanistan,South Asia,Developing economies,Low income,Men (Sons),,,,,0.378,Asia,4.0
+3,Albania,Europe & Central Asia,Developing economies,Upper middle income,Overall (All Offspring),0.407,0.582,0.622,0.55,0.602,Europe,8.0
+4,Albania,Europe & Central Asia,Developing economies,Upper middle income,Women (Daughters),0.444,0.493,0.597,0.521,0.59,Europe,8.0
+5,Albania,Europe & Central Asia,Developing economies,Upper middle income,Men (Sons),0.351,0.674,0.66,0.559,0.625,Europe,8.0
+6,Angola,Sub-Saharan Africa,Developing economies,Upper middle income,Overall (All Offspring),,,,,0.28,Africa,24.0
+7,Angola,Sub-Saharan Africa,Developing economies,Upper middle income,Women (Daughters),,,,,0.223,Africa,24.0
+8,Angola,Sub-Saharan Africa,Developing economies,Upper middle income,Men (Sons),,,,,0.352,Africa,24.0
+9,Argentina,Latin America & Caribbean,Developing economies,Upper middle income,Overall (All Offspring),0.451,0.417,0.541,0.576,0.659,South America,32.0
+10,Argentina,Latin America & Caribbean,Developing economies,Upper middle income,Women (Daughters),0.472,0.436,0.543,0.601,0.679,South America,32.0
+11,Argentina,Latin America & Caribbean,Developing economies,Upper middle income,Men (Sons),0.424,0.393,0.537,0.546,0.624,South America,32.0
+12,Armenia,Europe & Central Asia,Developing economies,Lower middle income,Overall (All Offspring),0.644,0.702,0.651,0.628,0.507,Europe,51.0
+13,Armenia,Europe & Central Asia,Developing economies,Lower middle income,Overall (All Offspring),0.644,0.702,0.651,0.628,0.507,Asia,51.0
+14,Armenia,Europe & Central Asia,Developing economies,Lower middle income,Women (Daughters),0.579,0.671,0.71,0.62,0.563,Europe,51.0
+15,Armenia,Europe & Central Asia,Developing economies,Lower middle income,Women (Daughters),0.579,0.671,0.71,0.62,0.563,Asia,51.0
+16,Armenia,Europe & Central Asia,Developing economies,Lower middle income,Men (Sons),0.735,0.748,0.539,0.641,0.445,Europe,51.0
+17,Armenia,Europe & Central Asia,Developing economies,Lower middle income,Men (Sons),0.735,0.748,0.539,0.641,0.445,Asia,51.0
+18,Australia,High income,High-income economies,High income,Overall (All Offspring),0.685,0.785,0.802,0.819,0.779,Oceania,36.0
+19,Australia,High income,High-income economies,High income,Women (Daughters),0.63,0.774,0.828,0.765,0.751,Oceania,36.0
+20,Australia,High income,High-income economies,High income,Men (Sons),0.738,0.804,0.762,0.87,0.811,Oceania,36.0
+21,Austria,High income,High-income economies,High income,Overall (All Offspring),0.593,0.592,0.563,0.708,0.599,Europe,40.0
+22,Austria,High income,High-income economies,High income,Women (Daughters),0.675,0.611,0.576,0.672,0.674,Europe,40.0
+23,Austria,High income,High-income economies,High income,Men (Sons),0.571,0.578,0.549,0.752,0.497,Europe,40.0
+24,Azerbaijan,Europe & Central Asia,Developing economies,Upper middle income,Overall (All Offspring),,0.9,0.868,0.791,0.586,Europe,31.0
+25,Azerbaijan,Europe & Central Asia,Developing economies,Upper middle income,Overall (All Offspring),,0.9,0.868,0.791,0.586,Asia,31.0
+26,Azerbaijan,Europe & Central Asia,Developing economies,Upper middle income,Women (Daughters),,0.913,0.85,0.795,0.595,Europe,31.0
+27,Azerbaijan,Europe & Central Asia,Developing economies,Upper middle income,Women (Daughters),,0.913,0.85,0.795,0.595,Asia,31.0
+28,Azerbaijan,Europe & Central Asia,Developing economies,Upper middle income,Men (Sons),,0.875,0.918,0.797,0.585,Europe,31.0
+29,Azerbaijan,Europe & Central Asia,Developing economies,Upper middle income,Men (Sons),,0.875,0.918,0.797,0.585,Asia,31.0
+30,Bangladesh,South Asia,Developing economies,Lower middle income,Overall (All Offspring),,,,,0.342,Asia,50.0
+31,Bangladesh,South Asia,Developing economies,Lower middle income,Women (Daughters),,,,,0.316,Asia,50.0
+32,Bangladesh,South Asia,Developing economies,Lower middle income,Men (Sons),,,,,0.365,Asia,50.0
+33,Belarus,Europe & Central Asia,Developing economies,Upper middle income,Overall (All Offspring),0.861,0.783,0.807,0.755,0.688,Europe,112.0
+34,Belarus,Europe & Central Asia,Developing economies,Upper middle income,Women (Daughters),0.855,0.808,0.836,0.818,0.668,Europe,112.0
+35,Belarus,Europe & Central Asia,Developing economies,Upper middle income,Men (Sons),0.893,0.722,0.761,0.668,0.706,Europe,112.0
+36,Belgium,High income,High-income economies,High income,Overall (All Offspring),0.595,0.594,0.678,0.657,0.697,Europe,56.0
+37,Belgium,High income,High-income economies,High income,Women (Daughters),0.628,0.631,0.658,0.718,0.642,Europe,56.0
+38,Belgium,High income,High-income economies,High income,Men (Sons),0.55,0.553,0.697,0.593,0.75,Europe,56.0
+39,Benin,Sub-Saharan Africa,Developing economies,Low income,Overall (All Offspring),0.098,0.191,0.227,0.277,0.255,Africa,204.0
+40,Benin,Sub-Saharan Africa,Developing economies,Low income,Women (Daughters),0.181,0.315,0.273,0.323,0.225,Africa,204.0
+41,Benin,Sub-Saharan Africa,Developing economies,Low income,Men (Sons),0.048,0.101,0.223,0.288,0.326,Africa,204.0
+42,Bhutan,South Asia,Developing economies,Lower middle income,Overall (All Offspring),0.121,0.201,0.098,0.117,0.256,Asia,64.0
+43,Bhutan,South Asia,Developing economies,Lower middle income,Women (Daughters),0.467,0.244,0.146,0.162,0.12,Asia,64.0
+44,Bhutan,South Asia,Developing economies,Lower middle income,Men (Sons),-0.064,0.242,0.094,0.08,0.412,Asia,64.0
+45,Bolivia,Latin America & Caribbean,Developing economies,Lower middle income,Overall (All Offspring),0.144,0.171,0.318,0.372,0.57,South America,68.0
+46,Bolivia,Latin America & Caribbean,Developing economies,Lower middle income,Women (Daughters),0.118,0.105,0.251,0.285,0.525,South America,68.0
+47,Bolivia,Latin America & Caribbean,Developing economies,Lower middle income,Men (Sons),0.191,0.248,0.392,0.473,0.628,South America,68.0
+48,Bosnia and Herzegovina,Europe & Central Asia,Developing economies,Upper middle income,Overall (All Offspring),0.473,0.477,0.625,0.552,0.563,Europe,70.0
+49,Bosnia and Herzegovina,Europe & Central Asia,Developing economies,Upper middle income,Women (Daughters),0.331,0.34,0.534,0.506,0.505,Europe,70.0
+50,Bosnia and Herzegovina,Europe & Central Asia,Developing economies,Upper middle income,Men (Sons),0.6,0.613,0.734,0.589,0.62,Europe,70.0
+51,Botswana,Sub-Saharan Africa,Developing economies,Upper middle income,Overall (All Offspring),,,,,0.673,Africa,72.0
+52,Botswana,Sub-Saharan Africa,Developing economies,Upper middle income,Women (Daughters),,,,,0.75,Africa,72.0
+53,Botswana,Sub-Saharan Africa,Developing economies,Upper middle income,Men (Sons),,,,,0.578,Africa,72.0
+54,Brazil,Latin America & Caribbean,Developing economies,Upper middle income,Overall (All Offspring),0.166,0.277,0.446,0.515,0.633,South America,76.0
+55,Brazil,Latin America & Caribbean,Developing economies,Upper middle income,Women (Daughters),0.207,0.291,0.464,0.536,0.658,South America,76.0
+56,Brazil,Latin America & Caribbean,Developing economies,Upper middle income,Men (Sons),0.11,0.261,0.425,0.49,0.603,South America,76.0
+57,Bulgaria,Europe & Central Asia,Developing economies,Upper middle income,Overall (All Offspring),0.448,0.498,0.561,0.459,0.404,Europe,100.0
+58,Bulgaria,Europe & Central Asia,Developing economies,Upper middle income,Women (Daughters),0.443,0.5,0.485,0.389,0.333,Europe,100.0
+59,Bulgaria,Europe & Central Asia,Developing economies,Upper middle income,Men (Sons),0.452,0.499,0.632,0.535,0.46,Europe,100.0
+60,Burkina Faso,Sub-Saharan Africa,Developing economies,Low income,Overall (All Offspring),,,,,0.049,Africa,854.0
+61,Burkina Faso,Sub-Saharan Africa,Developing economies,Low income,Women (Daughters),,,,,0.051,Africa,854.0
+62,Burkina Faso,Sub-Saharan Africa,Developing economies,Low income,Men (Sons),,,,,0.081,Africa,854.0
+63,Cabo Verde,Sub-Saharan Africa,Developing economies,Lower middle income,Overall (All Offspring),,,,,0.597,Africa,132.0
+64,Cabo Verde,Sub-Saharan Africa,Developing economies,Lower middle income,Women (Daughters),,,,,0.439,Africa,132.0
+65,Cabo Verde,Sub-Saharan Africa,Developing economies,Lower middle income,Men (Sons),,,,,0.863,Africa,132.0
+66,Cambodia,East Asia & Pacific,Developing economies,Lower middle income,Overall (All Offspring),,,,,0.385,Asia,116.0
+67,Cambodia,East Asia & Pacific,Developing economies,Lower middle income,Women (Daughters),,,,,0.394,Asia,116.0
+68,Cambodia,East Asia & Pacific,Developing economies,Lower middle income,Men (Sons),,,,,0.381,Asia,116.0
+69,Cameroon,Sub-Saharan Africa,Developing economies,Lower middle income,Overall (All Offspring),,,,,0.366,Africa,120.0
+70,Cameroon,Sub-Saharan Africa,Developing economies,Lower middle income,Women (Daughters),,,,,0.423,Africa,120.0
+71,Cameroon,Sub-Saharan Africa,Developing economies,Lower middle income,Men (Sons),,,,,0.321,Africa,120.0
+72,Canada,High income,High-income economies,High income,Overall (All Offspring),0.717,0.792,0.809,0.79,0.745,North America,124.0
+73,Canada,High income,High-income economies,High income,Women (Daughters),0.706,0.775,0.782,0.78,0.755,North America,124.0
+74,Canada,High income,High-income economies,High income,Men (Sons),0.734,0.81,0.837,0.795,0.733,North America,124.0
+75,Central African Republic,Sub-Saharan Africa,Developing economies,Low income,Overall (All Offspring),,,,,0.489,Africa,140.0
+76,Central African Republic,Sub-Saharan Africa,Developing economies,Low income,Women (Daughters),,,,,0.524,Africa,140.0
+77,Central African Republic,Sub-Saharan Africa,Developing economies,Low income,Men (Sons),,,,,0.473,Africa,140.0
+78,Chad,Sub-Saharan Africa,Developing economies,Low income,Overall (All Offspring),,,,,0.359,Africa,148.0
+79,Chad,Sub-Saharan Africa,Developing economies,Low income,Women (Daughters),,,,,0.322,Africa,148.0
+80,Chad,Sub-Saharan Africa,Developing economies,Low income,Men (Sons),,,,,0.38,Africa,148.0
+81,Chile,High income,High-income economies,High income,Overall (All Offspring),0.36,0.454,0.55,0.584,0.636,South America,152.0
+82,Chile,High income,High-income economies,High income,Women (Daughters),0.378,0.451,0.568,0.599,0.654,South America,152.0
+83,Chile,High income,High-income economies,High income,Men (Sons),0.335,0.459,0.531,0.569,0.608,South America,152.0
+84,China,East Asia & Pacific,Developing economies,Upper middle income,Overall (All Offspring),0.647,0.602,0.63,0.515,0.525,Asia,156.0
+85,China,East Asia & Pacific,Developing economies,Upper middle income,Women (Daughters),0.544,0.524,0.558,0.463,0.46,Asia,156.0
+86,China,East Asia & Pacific,Developing economies,Upper middle income,Men (Sons),0.765,0.674,0.71,0.57,0.584,Asia,156.0
+87,Colombia,Latin America & Caribbean,Developing economies,Upper middle income,Overall (All Offspring),0.085,0.211,0.288,0.398,0.516,South America,170.0
+88,Colombia,Latin America & Caribbean,Developing economies,Upper middle income,Women (Daughters),0.109,0.254,0.31,0.413,0.536,South America,170.0
+89,Colombia,Latin America & Caribbean,Developing economies,Upper middle income,Men (Sons),0.061,0.165,0.264,0.375,0.491,South America,170.0
+90,Comoros,Sub-Saharan Africa,Developing economies,Low income,Overall (All Offspring),0.997,0.949,0.491,0.65,0.359,Africa,174.0
+91,Comoros,Sub-Saharan Africa,Developing economies,Low income,Women (Daughters),1.01,0.831,0.53,0.84,0.371,Africa,174.0
+92,Comoros,Sub-Saharan Africa,Developing economies,Low income,Men (Sons),,1.017,0.21,0.359,0.349,Africa,174.0
+93,"Congo, Dem. Rep.",Sub-Saharan Africa,Developing economies,Low income,Overall (All Offspring),0.528,0.461,0.514,0.552,0.518,Africa,180.0
+94,"Congo, Dem. Rep.",Sub-Saharan Africa,Developing economies,Low income,Women (Daughters),0.683,0.545,0.541,0.522,0.506,Africa,180.0
+95,"Congo, Dem. Rep.",Sub-Saharan Africa,Developing economies,Low income,Men (Sons),0.505,0.471,0.578,0.604,0.567,Africa,180.0
+96,"Congo, Rep.",Sub-Saharan Africa,Developing economies,Lower middle income,Overall (All Offspring),,,,,0.531,Africa,178.0
+97,"Congo, Rep.",Sub-Saharan Africa,Developing economies,Lower middle income,Women (Daughters),,,,,0.491,Africa,178.0
+98,"Congo, Rep.",Sub-Saharan Africa,Developing economies,Lower middle income,Men (Sons),,,,,0.571,Africa,178.0
+99,Costa Rica,Latin America & Caribbean,Developing economies,Upper middle income,Overall (All Offspring),0.527,0.59,0.651,0.622,0.653,North America,188.0
+100,Costa Rica,Latin America & Caribbean,Developing economies,Upper middle income,Women (Daughters),0.507,0.583,0.629,0.638,0.655,North America,188.0
+101,Costa Rica,Latin America & Caribbean,Developing economies,Upper middle income,Men (Sons),0.562,0.594,0.678,0.612,0.65,North America,188.0
+102,Cote d'Ivoire,Sub-Saharan Africa,Developing economies,Lower middle income,Overall (All Offspring),,,,,0.348,Africa,384.0
+103,Cote d'Ivoire,Sub-Saharan Africa,Developing economies,Lower middle income,Women (Daughters),,,,,0.376,Africa,384.0
+104,Cote d'Ivoire,Sub-Saharan Africa,Developing economies,Lower middle income,Men (Sons),,,,,0.325,Africa,384.0
+105,Croatia,High income,High-income economies,High income,Overall (All Offspring),0.332,0.53,0.564,0.482,0.546,Europe,191.0
+106,Croatia,High income,High-income economies,High income,Women (Daughters),0.175,0.424,0.572,0.486,0.528,Europe,191.0
+107,Croatia,High income,High-income economies,High income,Men (Sons),0.557,0.636,0.554,0.48,0.558,Europe,191.0
+108,Cyprus,High income,High-income economies,High income,Overall (All Offspring),0.485,0.598,0.667,0.654,0.8,Europe,196.0
+109,Cyprus,High income,High-income economies,High income,Overall (All Offspring),0.485,0.598,0.667,0.654,0.8,Asia,196.0
+110,Cyprus,High income,High-income economies,High income,Women (Daughters),0.347,0.602,0.61,0.722,0.791,Europe,196.0
+111,Cyprus,High income,High-income economies,High income,Women (Daughters),0.347,0.602,0.61,0.722,0.791,Asia,196.0
+112,Cyprus,High income,High-income economies,High income,Men (Sons),0.69,0.621,0.735,0.578,0.8,Europe,196.0
+113,Cyprus,High income,High-income economies,High income,Men (Sons),0.69,0.621,0.735,0.578,0.8,Asia,196.0
+114,Czech Republic,High income,High-income economies,High income,Overall (All Offspring),0.611,0.564,0.656,0.535,0.625,Europe,203.0
+115,Czech Republic,High income,High-income economies,High income,Women (Daughters),0.617,0.597,0.644,0.496,0.69,Europe,203.0
+116,Czech Republic,High income,High-income economies,High income,Men (Sons),0.639,0.537,0.664,0.576,0.555,Europe,203.0
+117,Denmark,High income,High-income economies,High income,Overall (All Offspring),0.512,0.645,0.671,0.583,0.807,Europe,208.0
+118,Denmark,High income,High-income economies,High income,Women (Daughters),0.515,0.676,0.635,0.566,0.86,Europe,208.0
+119,Denmark,High income,High-income economies,High income,Men (Sons),0.507,0.613,0.715,0.602,0.748,Europe,208.0
+120,Djibouti,Middle East & North Africa,Developing economies,Lower middle income,Overall (All Offspring),,,,,0.535,Africa,262.0
+121,Djibouti,Middle East & North Africa,Developing economies,Lower middle income,Women (Daughters),,,,,0.518,Africa,262.0
+122,Djibouti,Middle East & North Africa,Developing economies,Lower middle income,Men (Sons),,,,,0.556,Africa,262.0
+123,Dominican Republic,Latin America & Caribbean,Developing economies,Upper middle income,Overall (All Offspring),0.218,0.473,0.459,0.607,0.661,North America,214.0
+124,Dominican Republic,Latin America & Caribbean,Developing economies,Upper middle income,Women (Daughters),0.149,0.574,0.462,0.566,0.694,North America,214.0
+125,Dominican Republic,Latin America & Caribbean,Developing economies,Upper middle income,Men (Sons),0.294,0.394,0.458,0.642,0.628,North America,214.0
+126,Ecuador,Latin America & Caribbean,Developing economies,Upper middle income,Overall (All Offspring),0.151,0.213,0.318,0.424,0.498,South America,218.0
+127,Ecuador,Latin America & Caribbean,Developing economies,Upper middle income,Women (Daughters),0.211,0.214,0.305,0.409,0.492,South America,218.0
+128,Ecuador,Latin America & Caribbean,Developing economies,Upper middle income,Men (Sons),0.102,0.214,0.334,0.438,0.502,South America,218.0
+129,"Egypt, Arab Rep.",Middle East & North Africa,Developing economies,Lower middle income,Overall (All Offspring),0.095,0.166,0.298,0.502,0.581,Africa,818.0
+130,"Egypt, Arab Rep.",Middle East & North Africa,Developing economies,Lower middle income,Women (Daughters),0.097,0.083,0.212,0.413,0.528,Africa,818.0
+131,"Egypt, Arab Rep.",Middle East & North Africa,Developing economies,Lower middle income,Men (Sons),0.102,0.245,0.399,0.579,0.641,Africa,818.0
+132,El Salvador,Latin America & Caribbean,Developing economies,Lower middle income,Overall (All Offspring),0.284,0.27,0.424,0.528,0.562,North America,222.0
+133,El Salvador,Latin America & Caribbean,Developing economies,Lower middle income,Women (Daughters),0.275,0.254,0.505,0.478,0.594,North America,222.0
+134,El Salvador,Latin America & Caribbean,Developing economies,Lower middle income,Men (Sons),0.301,0.304,0.368,0.58,0.527,North America,222.0
+135,Estonia,High income,High-income economies,High income,Overall (All Offspring),0.743,0.762,0.712,0.697,0.667,Europe,233.0
+136,Estonia,High income,High-income economies,High income,Women (Daughters),0.769,0.806,0.723,0.775,0.651,Europe,233.0
+137,Estonia,High income,High-income economies,High income,Men (Sons),0.697,0.702,0.711,0.594,0.675,Europe,233.0
+138,Ethiopia,Sub-Saharan Africa,Developing economies,Low income,Overall (All Offspring),0.573,0.298,0.227,0.235,0.276,Africa,231.0
+139,Ethiopia,Sub-Saharan Africa,Developing economies,Low income,Women (Daughters),0.595,0.555,0.209,0.198,0.212,Africa,231.0
+140,Ethiopia,Sub-Saharan Africa,Developing economies,Low income,Men (Sons),0.545,0.202,0.257,0.303,0.364,Africa,231.0
+141,Fiji,East Asia & Pacific,Developing economies,Upper middle income,Overall (All Offspring),,,,,0.648,Oceania,242.0
+142,Fiji,East Asia & Pacific,Developing economies,Upper middle income,Women (Daughters),,,,,0.665,Oceania,242.0
+143,Fiji,East Asia & Pacific,Developing economies,Upper middle income,Men (Sons),,,,,0.667,Oceania,242.0
+144,Finland,High income,High-income economies,High income,Overall (All Offspring),0.648,0.699,0.759,0.723,0.779,Europe,246.0
+145,Finland,High income,High-income economies,High income,Women (Daughters),0.661,0.709,0.788,0.74,0.798,Europe,246.0
+146,Finland,High income,High-income economies,High income,Men (Sons),0.635,0.683,0.73,0.693,0.754,Europe,246.0
+147,France,High income,High-income economies,High income,Overall (All Offspring),0.467,0.604,0.688,0.683,0.763,Europe,250.0
+148,France,High income,High-income economies,High income,Women (Daughters),0.468,0.586,0.666,0.729,0.777,Europe,250.0
+149,France,High income,High-income economies,High income,Men (Sons),0.461,0.623,0.724,0.625,0.748,Europe,250.0
+150,Gabon,Sub-Saharan Africa,Developing economies,Upper middle income,Overall (All Offspring),,,,,0.607,Africa,266.0
+151,Gabon,Sub-Saharan Africa,Developing economies,Upper middle income,Women (Daughters),,,,,0.584,Africa,266.0
+152,Gabon,Sub-Saharan Africa,Developing economies,Upper middle income,Men (Sons),,,,,0.619,Africa,266.0
+153,Georgia,Europe & Central Asia,Developing economies,Upper middle income,Overall (All Offspring),0.708,0.649,0.634,0.474,0.554,Europe,268.0
+154,Georgia,Europe & Central Asia,Developing economies,Upper middle income,Overall (All Offspring),0.708,0.649,0.634,0.474,0.554,Asia,268.0
+155,Georgia,Europe & Central Asia,Developing economies,Upper middle income,Women (Daughters),0.725,0.738,0.586,0.624,0.554,Europe,268.0
+156,Georgia,Europe & Central Asia,Developing economies,Upper middle income,Women (Daughters),0.725,0.738,0.586,0.624,0.554,Asia,268.0
+157,Georgia,Europe & Central Asia,Developing economies,Upper middle income,Men (Sons),0.686,0.514,0.703,0.364,0.553,Europe,268.0
+158,Georgia,Europe & Central Asia,Developing economies,Upper middle income,Men (Sons),0.686,0.514,0.703,0.364,0.553,Asia,268.0
+159,Germany,High income,High-income economies,High income,Overall (All Offspring),0.62,0.685,0.581,0.653,0.718,Europe,276.0
+160,Germany,High income,High-income economies,High income,Women (Daughters),0.599,0.699,0.65,0.639,0.656,Europe,276.0
+161,Germany,High income,High-income economies,High income,Men (Sons),0.674,0.669,0.51,0.664,0.772,Europe,276.0
+162,Ghana,Sub-Saharan Africa,Developing economies,Lower middle income,Overall (All Offspring),0.338,0.494,0.496,0.504,0.46,Africa,288.0
+163,Ghana,Sub-Saharan Africa,Developing economies,Lower middle income,Women (Daughters),0.399,0.435,0.455,0.461,0.448,Africa,288.0
+164,Ghana,Sub-Saharan Africa,Developing economies,Lower middle income,Men (Sons),0.26,0.514,0.547,0.569,0.492,Africa,288.0
+165,Greece,High income,High-income economies,High income,Overall (All Offspring),0.4,0.412,0.603,0.583,0.691,Europe,300.0
+166,Greece,High income,High-income economies,High income,Women (Daughters),0.435,0.428,0.615,0.637,0.667,Europe,300.0
+167,Greece,High income,High-income economies,High income,Men (Sons),0.349,0.4,0.593,0.537,0.711,Europe,300.0
+168,Guatemala,Latin America & Caribbean,Developing economies,Lower middle income,Overall (All Offspring),0.075,-0.031,0.057,0.161,0.244,North America,320.0
+169,Guatemala,Latin America & Caribbean,Developing economies,Lower middle income,Women (Daughters),0.138,0.031,0.099,0.078,0.178,North America,320.0
+170,Guatemala,Latin America & Caribbean,Developing economies,Lower middle income,Men (Sons),-0.055,-0.108,0.011,0.246,0.318,North America,320.0
+171,Guinea,Sub-Saharan Africa,Developing economies,Low income,Overall (All Offspring),0.577,0.385,0.501,0.482,0.38,Africa,324.0
+172,Guinea,Sub-Saharan Africa,Developing economies,Low income,Women (Daughters),0.777,0.42,0.543,0.537,0.415,Africa,324.0
+173,Guinea,Sub-Saharan Africa,Developing economies,Low income,Men (Sons),0.404,0.376,0.474,0.444,0.357,Africa,324.0
+174,Guinea-Bissau,Sub-Saharan Africa,Developing economies,Low income,Overall (All Offspring),,,,,0.437,Africa,624.0
+175,Guinea-Bissau,Sub-Saharan Africa,Developing economies,Low income,Women (Daughters),,,,,0.363,Africa,624.0
+176,Guinea-Bissau,Sub-Saharan Africa,Developing economies,Low income,Men (Sons),,,,,0.47,Africa,624.0
+177,Honduras,Latin America & Caribbean,Developing economies,Lower middle income,Overall (All Offspring),0.378,0.311,0.436,0.391,0.426,North America,340.0
+178,Honduras,Latin America & Caribbean,Developing economies,Lower middle income,Women (Daughters),0.269,0.237,0.452,0.488,0.413,North America,340.0
+179,Honduras,Latin America & Caribbean,Developing economies,Lower middle income,Men (Sons),0.466,0.363,0.423,0.3,0.44,North America,340.0
+180,Hungary,High income,High-income economies,High income,Overall (All Offspring),0.519,0.595,0.573,0.443,0.424,Europe,348.0
+181,Hungary,High income,High-income economies,High income,Women (Daughters),0.543,0.548,0.533,0.412,0.431,Europe,348.0
+182,Hungary,High income,High-income economies,High income,Men (Sons),0.492,0.661,0.627,0.47,0.408,Europe,348.0
+183,Iceland,High income,High-income economies,High income,Overall (All Offspring),0.462,0.781,0.613,0.684,0.755,Europe,352.0
+184,Iceland,High income,High-income economies,High income,Women (Daughters),,0.458,0.615,0.626,0.756,Europe,352.0
+185,Iceland,High income,High-income economies,High income,Men (Sons),,0.929,0.59,0.701,0.754,Europe,352.0
+186,India,South Asia,Developing economies,Lower middle income,Overall (All Offspring),0.021,0.151,0.205,0.296,0.358,Asia,356.0
+187,India,South Asia,Developing economies,Lower middle income,Women (Daughters),0.539,0.114,0.189,0.25,0.298,Asia,356.0
+188,India,South Asia,Developing economies,Lower middle income,Men (Sons),0.005,0.177,0.225,0.358,0.432,Asia,356.0
+189,Indonesia,East Asia & Pacific,Developing economies,Lower middle income,Overall (All Offspring),0.373,0.412,0.349,0.5,0.579,Asia,360.0
+190,Indonesia,East Asia & Pacific,Developing economies,Lower middle income,Women (Daughters),0.353,0.419,0.322,0.464,0.558,Asia,360.0
+191,Indonesia,East Asia & Pacific,Developing economies,Lower middle income,Men (Sons),0.385,0.396,0.392,0.537,0.603,Asia,360.0
+192,"Iran, Islamic Rep.",Middle East & North Africa,Developing economies,Upper middle income,Overall (All Offspring),,,,,0.644,Asia,364.0
+193,"Iran, Islamic Rep.",Middle East & North Africa,Developing economies,Upper middle income,Women (Daughters),,,,,0.639,Asia,364.0
+194,"Iran, Islamic Rep.",Middle East & North Africa,Developing economies,Upper middle income,Men (Sons),,,,,0.653,Asia,364.0
+195,Iraq,Middle East & North Africa,Developing economies,Upper middle income,Overall (All Offspring),0.114,0.125,0.362,0.457,0.436,Asia,368.0
+196,Iraq,Middle East & North Africa,Developing economies,Upper middle income,Women (Daughters),-0.133,-0.014,0.224,0.424,0.388,Asia,368.0
+197,Iraq,Middle East & North Africa,Developing economies,Upper middle income,Men (Sons),0.297,0.294,0.525,0.498,0.494,Asia,368.0
+198,Ireland,High income,High-income economies,High income,Overall (All Offspring),0.56,0.663,0.689,0.684,0.648,Europe,372.0
+199,Ireland,High income,High-income economies,High income,Women (Daughters),0.538,0.639,0.672,0.692,0.658,Europe,372.0
+200,Ireland,High income,High-income economies,High income,Men (Sons),0.579,0.691,0.703,0.677,0.636,Europe,372.0
+201,Israel,High income,High-income economies,High income,Overall (All Offspring),0.613,0.691,0.721,0.729,0.818,Asia,376.0
+202,Israel,High income,High-income economies,High income,Women (Daughters),0.616,0.682,0.7,0.699,0.814,Asia,376.0
+203,Israel,High income,High-income economies,High income,Men (Sons),0.604,0.706,0.743,0.763,0.822,Asia,376.0
+204,Italy,High income,High-income economies,High income,Overall (All Offspring),0.412,0.439,0.529,0.614,0.662,Europe,380.0
+205,Italy,High income,High-income economies,High income,Women (Daughters),0.41,0.438,0.519,0.59,0.659,Europe,380.0
+206,Italy,High income,High-income economies,High income,Men (Sons),0.417,0.438,0.548,0.648,0.665,Europe,380.0
+207,Japan,High income,High-income economies,High income,Overall (All Offspring),0.663,0.732,0.661,0.666,0.705,Asia,392.0
+208,Japan,High income,High-income economies,High income,Women (Daughters),0.689,0.736,0.679,0.705,0.705,Asia,392.0
+209,Japan,High income,High-income economies,High income,Men (Sons),0.643,0.728,0.639,0.613,0.705,Asia,392.0
+210,Jordan,Middle East & North Africa,Developing economies,Upper middle income,Overall (All Offspring),0.436,0.469,0.66,0.721,0.759,Asia,400.0
+211,Jordan,Middle East & North Africa,Developing economies,Upper middle income,Women (Daughters),0.193,0.33,0.633,0.716,0.741,Asia,400.0
+212,Jordan,Middle East & North Africa,Developing economies,Upper middle income,Men (Sons),0.588,0.595,0.666,0.725,0.778,Asia,400.0
+213,Kazakhstan,Europe & Central Asia,Developing economies,Upper middle income,Overall (All Offspring),0.788,0.863,0.805,0.698,0.692,Europe,398.0
+214,Kazakhstan,Europe & Central Asia,Developing economies,Upper middle income,Overall (All Offspring),0.788,0.863,0.805,0.698,0.692,Asia,398.0
+215,Kazakhstan,Europe & Central Asia,Developing economies,Upper middle income,Women (Daughters),0.774,0.881,0.826,0.7,0.654,Europe,398.0
+216,Kazakhstan,Europe & Central Asia,Developing economies,Upper middle income,Women (Daughters),0.774,0.881,0.826,0.7,0.654,Asia,398.0
+217,Kazakhstan,Europe & Central Asia,Developing economies,Upper middle income,Men (Sons),,0.818,0.746,0.68,0.742,Europe,398.0
+218,Kazakhstan,Europe & Central Asia,Developing economies,Upper middle income,Men (Sons),,0.818,0.746,0.68,0.742,Asia,398.0
+219,Kenya,Sub-Saharan Africa,Developing economies,Lower middle income,Overall (All Offspring),,1.018,0.802,0.769,0.635,Africa,404.0
+220,Kenya,Sub-Saharan Africa,Developing economies,Lower middle income,Women (Daughters),,,0.672,0.737,0.657,Africa,404.0
+221,Kenya,Sub-Saharan Africa,Developing economies,Lower middle income,Men (Sons),,0.913,0.919,0.784,0.609,Africa,404.0
+222,Kiribati,East Asia & Pacific,Developing economies,Lower middle income,Overall (All Offspring),,,,,0.787,Oceania,296.0
+223,Kiribati,East Asia & Pacific,Developing economies,Lower middle income,Women (Daughters),,,,,0.806,Oceania,296.0
+224,Kiribati,East Asia & Pacific,Developing economies,Lower middle income,Men (Sons),,,,,0.77,Oceania,296.0
+225,"Korea, Rep.",High income,High-income economies,High income,Overall (All Offspring),0.491,0.58,0.73,0.794,0.806,Asia,410.0
+226,"Korea, Rep.",High income,High-income economies,High income,Women (Daughters),0.489,0.555,0.712,0.784,0.772,Asia,410.0
+227,"Korea, Rep.",High income,High-income economies,High income,Men (Sons),0.523,0.617,0.745,0.802,0.836,Asia,410.0
+231,Kyrgyz Republic,Europe & Central Asia,Developing economies,Lower middle income,Overall (All Offspring),0.724,0.818,0.799,0.771,0.658,Asia,417.0
+232,Kyrgyz Republic,Europe & Central Asia,Developing economies,Lower middle income,Women (Daughters),0.695,0.826,0.776,0.68,0.664,Asia,417.0
+233,Kyrgyz Republic,Europe & Central Asia,Developing economies,Lower middle income,Men (Sons),0.806,0.809,0.827,0.861,0.66,Asia,417.0
+234,Lao PDR,East Asia & Pacific,Developing economies,Lower middle income,Overall (All Offspring),,0.261,0.344,0.478,0.51,Asia,418.0
+235,Lao PDR,East Asia & Pacific,Developing economies,Lower middle income,Women (Daughters),,0.814,0.453,0.409,0.503,Asia,418.0
+236,Lao PDR,East Asia & Pacific,Developing economies,Lower middle income,Men (Sons),,-0.018,0.126,0.58,0.539,Asia,418.0
+237,Latvia,High income,High-income economies,High income,Overall (All Offspring),0.66,0.871,0.751,0.684,0.622,Europe,428.0
+238,Latvia,High income,High-income economies,High income,Women (Daughters),0.623,0.939,0.728,0.583,0.593,Europe,428.0
+239,Latvia,High income,High-income economies,High income,Men (Sons),0.729,0.762,0.777,0.771,0.629,Europe,428.0
+240,Lebanon,Middle East & North Africa,Developing economies,Upper middle income,Overall (All Offspring),,,,,0.544,Asia,422.0
+241,Lebanon,Middle East & North Africa,Developing economies,Upper middle income,Women (Daughters),,,,,0.769,Asia,422.0
+242,Lebanon,Middle East & North Africa,Developing economies,Upper middle income,Men (Sons),,,,,0.441,Asia,422.0
+243,Lesotho,Sub-Saharan Africa,Developing economies,Lower middle income,Overall (All Offspring),,,,,0.712,Africa,426.0
+244,Lesotho,Sub-Saharan Africa,Developing economies,Lower middle income,Women (Daughters),,,,,0.625,Africa,426.0
+245,Lesotho,Sub-Saharan Africa,Developing economies,Lower middle income,Men (Sons),,,,,1.214,Africa,426.0
+246,Liberia,Sub-Saharan Africa,Developing economies,Low income,Overall (All Offspring),0.374,0.467,0.584,0.504,0.585,Africa,430.0
+247,Liberia,Sub-Saharan Africa,Developing economies,Low income,Women (Daughters),0.504,0.474,0.485,0.487,0.5,Africa,430.0
+248,Liberia,Sub-Saharan Africa,Developing economies,Low income,Men (Sons),0.297,0.518,0.678,0.572,0.734,Africa,430.0
+249,Lithuania,High income,High-income economies,High income,Overall (All Offspring),0.708,0.838,0.868,0.76,0.698,Europe,440.0
+250,Lithuania,High income,High-income economies,High income,Women (Daughters),0.674,0.814,0.833,0.74,0.655,Europe,440.0
+251,Lithuania,High income,High-income economies,High income,Men (Sons),0.761,0.85,0.906,0.781,0.747,Europe,440.0
+252,"Macedonia, FYR",Europe & Central Asia,Developing economies,Upper middle income,Overall (All Offspring),0.217,0.411,0.375,0.364,0.466,Europe,807.0
+253,"Macedonia, FYR",Europe & Central Asia,Developing economies,Upper middle income,Women (Daughters),0.21,0.342,0.267,0.257,0.35,Europe,807.0
+254,"Macedonia, FYR",Europe & Central Asia,Developing economies,Upper middle income,Men (Sons),0.19,0.497,0.463,0.489,0.553,Europe,807.0
+255,Madagascar,Sub-Saharan Africa,Developing economies,Low income,Overall (All Offspring),0.341,0.302,0.35,0.484,0.395,Africa,450.0
+256,Madagascar,Sub-Saharan Africa,Developing economies,Low income,Women (Daughters),0.416,0.276,0.328,0.49,0.401,Africa,450.0
+257,Madagascar,Sub-Saharan Africa,Developing economies,Low income,Men (Sons),0.323,0.311,0.36,0.477,0.391,Africa,450.0
+258,Malawi,Sub-Saharan Africa,Developing economies,Low income,Overall (All Offspring),0.466,0.626,0.526,0.483,0.559,Africa,454.0
+259,Malawi,Sub-Saharan Africa,Developing economies,Low income,Women (Daughters),0.496,0.709,0.572,0.46,0.564,Africa,454.0
+260,Malawi,Sub-Saharan Africa,Developing economies,Low income,Men (Sons),0.311,0.634,0.513,0.505,0.566,Africa,454.0
+261,Malaysia,East Asia & Pacific,Developing economies,Upper middle income,Overall (All Offspring),,,0.595,0.683,0.71,Asia,458.0
+262,Malaysia,East Asia & Pacific,Developing economies,Upper middle income,Women (Daughters),,,0.737,0.676,0.723,Asia,458.0
+263,Malaysia,East Asia & Pacific,Developing economies,Upper middle income,Men (Sons),,,0.53,0.69,0.695,Asia,458.0
+264,Maldives,South Asia,Developing economies,Upper middle income,Overall (All Offspring),,,,,0.874,Asia,462.0
+265,Maldives,South Asia,Developing economies,Upper middle income,Women (Daughters),,,,,0.879,Asia,462.0
+266,Maldives,South Asia,Developing economies,Upper middle income,Men (Sons),,,,,0.863,Asia,462.0
+267,Mali,Sub-Saharan Africa,Developing economies,Low income,Overall (All Offspring),0.292,0.433,0.316,0.422,0.266,Africa,466.0
+268,Mali,Sub-Saharan Africa,Developing economies,Low income,Women (Daughters),0.578,0.515,0.388,0.557,0.383,Africa,466.0
+269,Mali,Sub-Saharan Africa,Developing economies,Low income,Men (Sons),0.161,0.414,0.269,0.343,0.189,Africa,466.0
+270,Mauritania,Sub-Saharan Africa,Developing economies,Lower middle income,Overall (All Offspring),0.953,0.757,0.58,0.456,0.497,Africa,478.0
+271,Mauritania,Sub-Saharan Africa,Developing economies,Lower middle income,Women (Daughters),0.983,0.932,0.73,0.561,0.41,Africa,478.0
+272,Mauritania,Sub-Saharan Africa,Developing economies,Lower middle income,Men (Sons),0.926,0.545,0.388,0.35,0.597,Africa,478.0
+273,Mauritius,Sub-Saharan Africa,Developing economies,Upper middle income,Overall (All Offspring),,,,,0.633,Africa,480.0
+274,Mauritius,Sub-Saharan Africa,Developing economies,Upper middle income,Women (Daughters),,,,,0.623,Africa,480.0
+275,Mauritius,Sub-Saharan Africa,Developing economies,Upper middle income,Men (Sons),,,,,0.656,Africa,480.0
+276,Mexico,Latin America & Caribbean,Developing economies,Upper middle income,Overall (All Offspring),0.349,0.359,0.415,0.563,0.597,North America,484.0
+277,Mexico,Latin America & Caribbean,Developing economies,Upper middle income,Women (Daughters),0.434,0.476,0.399,0.526,0.612,North America,484.0
+278,Mexico,Latin America & Caribbean,Developing economies,Upper middle income,Men (Sons),0.178,0.281,0.431,0.604,0.581,North America,484.0
+279,Moldova,Europe & Central Asia,Developing economies,Lower middle income,Overall (All Offspring),0.66,0.781,0.797,0.786,0.56,Europe,498.0
+280,Moldova,Europe & Central Asia,Developing economies,Lower middle income,Women (Daughters),0.625,0.759,0.817,0.756,0.523,Europe,498.0
+281,Moldova,Europe & Central Asia,Developing economies,Lower middle income,Men (Sons),0.765,0.809,0.777,0.819,0.609,Europe,498.0
+282,Mongolia,East Asia & Pacific,Developing economies,Lower middle income,Overall (All Offspring),0.818,0.765,0.816,0.843,0.733,Asia,496.0
+283,Mongolia,East Asia & Pacific,Developing economies,Lower middle income,Women (Daughters),0.805,0.744,0.817,0.789,0.752,Asia,496.0
+284,Mongolia,East Asia & Pacific,Developing economies,Lower middle income,Men (Sons),,0.794,0.81,0.915,0.702,Asia,496.0
+285,Montenegro,Europe & Central Asia,Developing economies,Upper middle income,Overall (All Offspring),0.516,0.488,0.574,0.576,0.459,Europe,499.0
+286,Montenegro,Europe & Central Asia,Developing economies,Upper middle income,Women (Daughters),0.475,0.381,0.514,0.57,0.539,Europe,499.0
+287,Montenegro,Europe & Central Asia,Developing economies,Upper middle income,Men (Sons),0.563,0.579,0.642,0.587,0.39,Europe,499.0
+288,Morocco,Middle East & North Africa,Developing economies,Lower middle income,Overall (All Offspring),0.356,0.276,0.319,0.361,0.464,Africa,504.0
+289,Morocco,Middle East & North Africa,Developing economies,Lower middle income,Women (Daughters),0.641,0.284,0.252,0.261,0.363,Africa,504.0
+290,Morocco,Middle East & North Africa,Developing economies,Lower middle income,Men (Sons),0.232,0.304,0.401,0.499,0.592,Africa,504.0
+291,Mozambique,Sub-Saharan Africa,Developing economies,Low income,Overall (All Offspring),,,,,0.344,Africa,508.0
+292,Mozambique,Sub-Saharan Africa,Developing economies,Low income,Women (Daughters),,,,,0.204,Africa,508.0
+293,Mozambique,Sub-Saharan Africa,Developing economies,Low income,Men (Sons),,,,,0.42,Africa,508.0
+294,Namibia,Sub-Saharan Africa,Developing economies,Upper middle income,Overall (All Offspring),,,,,0.523,Africa,516.0
+295,Namibia,Sub-Saharan Africa,Developing economies,Upper middle income,Women (Daughters),,,,,0.545,Africa,516.0
+296,Namibia,Sub-Saharan Africa,Developing economies,Upper middle income,Men (Sons),,,,,0.496,Africa,516.0
+297,Nepal,South Asia,Developing economies,Low income,Overall (All Offspring),0.176,0.161,0.201,0.278,0.284,Asia,524.0
+298,Nepal,South Asia,Developing economies,Low income,Women (Daughters),0.425,0.389,0.331,0.26,0.211,Asia,524.0
+299,Nepal,South Asia,Developing economies,Low income,Men (Sons),0.075,-0.012,0.037,0.265,0.394,Asia,524.0
+300,Netherlands,High income,High-income economies,High income,Overall (All Offspring),0.555,0.565,0.751,0.676,0.723,Europe,528.0
+301,Netherlands,High income,High-income economies,High income,Women (Daughters),0.543,0.56,0.734,0.725,0.708,Europe,528.0
+302,Netherlands,High income,High-income economies,High income,Men (Sons),0.567,0.582,0.764,0.62,0.739,Europe,528.0
+303,New Zealand,High income,High-income economies,High income,Overall (All Offspring),0.773,0.836,0.809,0.82,,Oceania,554.0
+304,New Zealand,High income,High-income economies,High income,Women (Daughters),0.802,0.823,0.8,0.848,,Oceania,554.0
+305,New Zealand,High income,High-income economies,High income,Men (Sons),0.751,0.846,0.827,0.808,,Oceania,554.0
+306,Nicaragua,Latin America & Caribbean,Developing economies,Lower middle income,Overall (All Offspring),0.417,0.413,0.474,0.515,0.567,North America,558.0
+307,Nicaragua,Latin America & Caribbean,Developing economies,Lower middle income,Women (Daughters),0.388,0.468,0.471,0.548,0.55,North America,558.0
+308,Nicaragua,Latin America & Caribbean,Developing economies,Lower middle income,Men (Sons),0.439,0.353,0.476,0.483,0.584,North America,558.0
+309,Niger,Sub-Saharan Africa,Developing economies,Low income,Overall (All Offspring),0.715,0.366,0.373,0.488,0.392,Africa,562.0
+310,Niger,Sub-Saharan Africa,Developing economies,Low income,Women (Daughters),0.788,0.433,0.247,0.432,0.382,Africa,562.0
+311,Niger,Sub-Saharan Africa,Developing economies,Low income,Men (Sons),0.688,0.392,0.584,0.58,0.456,Africa,562.0
+312,Nigeria,Sub-Saharan Africa,Developing economies,Lower middle income,Overall (All Offspring),0.661,0.573,0.672,0.576,0.477,Africa,566.0
+313,Nigeria,Sub-Saharan Africa,Developing economies,Lower middle income,Women (Daughters),0.648,0.507,0.604,0.589,0.42,Africa,566.0
+314,Nigeria,Sub-Saharan Africa,Developing economies,Lower middle income,Men (Sons),0.748,0.679,0.783,0.612,0.61,Africa,566.0
+315,Norway,High income,High-income economies,High income,Overall (All Offspring),0.633,0.679,0.579,0.585,0.725,Europe,578.0
+316,Norway,High income,High-income economies,High income,Women (Daughters),0.537,0.638,0.531,0.577,0.688,Europe,578.0
+317,Norway,High income,High-income economies,High income,Men (Sons),0.719,0.715,0.612,0.592,0.767,Europe,578.0
+318,Pakistan,South Asia,Developing economies,Lower middle income,Overall (All Offspring),0.337,0.232,0.235,0.268,0.392,Asia,586.0
+319,Pakistan,South Asia,Developing economies,Lower middle income,Women (Daughters),0.435,0.341,0.274,0.251,0.322,Asia,586.0
+320,Pakistan,South Asia,Developing economies,Lower middle income,Men (Sons),0.176,0.141,0.205,0.266,0.434,Asia,586.0
+321,Panama,Latin America & Caribbean,Developing economies,Upper middle income,Overall (All Offspring),0.194,0.352,0.407,0.452,0.527,North America,591.0
+322,Panama,Latin America & Caribbean,Developing economies,Upper middle income,Women (Daughters),0.13,0.354,0.36,0.441,0.506,North America,591.0
+323,Panama,Latin America & Caribbean,Developing economies,Upper middle income,Men (Sons),0.256,0.347,0.441,0.459,0.542,North America,591.0
+324,Papua New Guinea,East Asia & Pacific,Developing economies,Lower middle income,Overall (All Offspring),,,,,0.604,Oceania,598.0
+325,Papua New Guinea,East Asia & Pacific,Developing economies,Lower middle income,Women (Daughters),,,,,0.513,Oceania,598.0
+326,Papua New Guinea,East Asia & Pacific,Developing economies,Lower middle income,Men (Sons),,,,,0.656,Oceania,598.0
+327,Paraguay,Latin America & Caribbean,Developing economies,Upper middle income,Overall (All Offspring),0.433,0.389,0.399,0.459,0.598,South America,600.0
+328,Paraguay,Latin America & Caribbean,Developing economies,Upper middle income,Women (Daughters),0.367,0.379,0.393,0.486,0.572,South America,600.0
+329,Paraguay,Latin America & Caribbean,Developing economies,Upper middle income,Men (Sons),0.48,0.395,0.414,0.436,0.623,South America,600.0
+330,Peru,Latin America & Caribbean,Developing economies,Upper middle income,Overall (All Offspring),0.089,0.224,0.375,0.508,0.594,South America,604.0
+331,Peru,Latin America & Caribbean,Developing economies,Upper middle income,Women (Daughters),0.072,0.107,0.333,0.441,0.612,South America,604.0
+332,Peru,Latin America & Caribbean,Developing economies,Upper middle income,Men (Sons),0.101,0.267,0.387,0.526,0.589,South America,604.0
+333,Philippines,East Asia & Pacific,Developing economies,Lower middle income,Overall (All Offspring),0.67,0.709,0.777,0.687,0.844,Asia,608.0
+334,Philippines,East Asia & Pacific,Developing economies,Lower middle income,Women (Daughters),0.581,0.762,0.778,0.742,0.919,Asia,608.0
+335,Philippines,East Asia & Pacific,Developing economies,Lower middle income,Men (Sons),0.747,0.651,0.775,0.629,0.793,Asia,608.0
+336,Poland,High income,High-income economies,High income,Overall (All Offspring),0.652,0.61,0.588,0.539,0.663,Europe,616.0
+337,Poland,High income,High-income economies,High income,Women (Daughters),0.708,0.627,0.631,0.482,0.678,Europe,616.0
+338,Poland,High income,High-income economies,High income,Men (Sons),0.602,0.59,0.53,0.59,0.639,Europe,616.0
+339,Portugal,High income,High-income economies,High income,Overall (All Offspring),0.35,0.331,0.355,0.316,0.486,Europe,620.0
+340,Portugal,High income,High-income economies,High income,Women (Daughters),0.306,0.285,0.388,0.34,0.52,Europe,620.0
+341,Portugal,High income,High-income economies,High income,Men (Sons),0.409,0.391,0.31,0.302,0.438,Europe,620.0
+342,Romania,Europe & Central Asia,Developing economies,Upper middle income,Overall (All Offspring),0.397,0.429,0.515,0.481,0.314,Europe,642.0
+343,Romania,Europe & Central Asia,Developing economies,Upper middle income,Women (Daughters),0.418,0.373,0.481,0.475,0.208,Europe,642.0
+344,Romania,Europe & Central Asia,Developing economies,Upper middle income,Men (Sons),0.427,0.512,0.561,0.489,0.426,Europe,642.0
+345,Russian Federation,Europe & Central Asia,Developing economies,Upper middle income,Overall (All Offspring),0.733,0.812,0.84,0.759,0.63,Europe,643.0
+346,Russian Federation,Europe & Central Asia,Developing economies,Upper middle income,Overall (All Offspring),0.733,0.812,0.84,0.759,0.63,Asia,643.0
+347,Russian Federation,Europe & Central Asia,Developing economies,Upper middle income,Women (Daughters),0.74,0.791,0.814,0.781,0.638,Europe,643.0
+348,Russian Federation,Europe & Central Asia,Developing economies,Upper middle income,Women (Daughters),0.74,0.791,0.814,0.781,0.638,Asia,643.0
+349,Russian Federation,Europe & Central Asia,Developing economies,Upper middle income,Men (Sons),0.716,0.85,0.866,0.747,0.628,Europe,643.0
+350,Russian Federation,Europe & Central Asia,Developing economies,Upper middle income,Men (Sons),0.716,0.85,0.866,0.747,0.628,Asia,643.0
+351,Rwanda,Sub-Saharan Africa,Developing economies,Low income,Overall (All Offspring),0.33,0.493,0.329,0.426,0.452,Africa,646.0
+352,Rwanda,Sub-Saharan Africa,Developing economies,Low income,Women (Daughters),0.315,0.529,0.328,0.373,0.393,Africa,646.0
+353,Rwanda,Sub-Saharan Africa,Developing economies,Low income,Men (Sons),0.315,0.467,0.336,0.497,0.51,Africa,646.0
+354,Sao Tome and Principe,Sub-Saharan Africa,Developing economies,Lower middle income,Overall (All Offspring),,,,,0.435,Africa,678.0
+355,Sao Tome and Principe,Sub-Saharan Africa,Developing economies,Lower middle income,Women (Daughters),,,,,0.775,Africa,678.0
+356,Sao Tome and Principe,Sub-Saharan Africa,Developing economies,Lower middle income,Men (Sons),,,,,0.375,Africa,678.0
+357,Senegal,Sub-Saharan Africa,Developing economies,Low income,Overall (All Offspring),0.532,0.629,0.524,0.476,0.505,Africa,686.0
+358,Senegal,Sub-Saharan Africa,Developing economies,Low income,Women (Daughters),0.464,0.644,0.564,0.461,0.493,Africa,686.0
+359,Senegal,Sub-Saharan Africa,Developing economies,Low income,Men (Sons),0.578,0.614,0.499,0.475,0.53,Africa,686.0
+360,Serbia,Europe & Central Asia,Developing economies,Upper middle income,Overall (All Offspring),0.37,0.557,0.588,0.546,0.56,Europe,688.0
+361,Serbia,Europe & Central Asia,Developing economies,Upper middle income,Women (Daughters),0.335,0.479,0.589,0.492,0.528,Europe,688.0
+362,Serbia,Europe & Central Asia,Developing economies,Upper middle income,Men (Sons),0.44,0.645,0.587,0.6,0.583,Europe,688.0
+363,Sierra Leone,Sub-Saharan Africa,Developing economies,Low income,Overall (All Offspring),,,,,0.436,Africa,694.0
+364,Sierra Leone,Sub-Saharan Africa,Developing economies,Low income,Women (Daughters),,,,,0.404,Africa,694.0
+365,Sierra Leone,Sub-Saharan Africa,Developing economies,Low income,Men (Sons),,,,,0.452,Africa,694.0
+366,Slovak Republic,High income,High-income economies,High income,Overall (All Offspring),0.707,0.646,0.717,0.582,0.6,Europe,703.0
+367,Slovak Republic,High income,High-income economies,High income,Women (Daughters),0.713,0.622,0.717,0.615,0.558,Europe,703.0
+368,Slovak Republic,High income,High-income economies,High income,Men (Sons),0.703,0.675,0.717,0.534,0.64,Europe,703.0
+369,Slovenia,High income,High-income economies,High income,Overall (All Offspring),0.579,0.616,0.553,0.505,0.672,Europe,705.0
+370,Slovenia,High income,High-income economies,High income,Women (Daughters),0.553,0.585,0.487,0.469,0.578,Europe,705.0
+371,Slovenia,High income,High-income economies,High income,Men (Sons),0.618,0.645,0.612,0.537,0.729,Europe,705.0
+372,South Africa,Sub-Saharan Africa,Developing economies,Upper middle income,Overall (All Offspring),0.209,0.314,0.468,0.662,0.802,Africa,710.0
+373,South Africa,Sub-Saharan Africa,Developing economies,Upper middle income,Women (Daughters),0.191,0.286,0.382,0.656,0.785,Africa,710.0
+374,South Africa,Sub-Saharan Africa,Developing economies,Upper middle income,Men (Sons),0.238,0.346,0.565,0.667,0.82,Africa,710.0
+375,South Sudan,Sub-Saharan Africa,Developing economies,Low income,Overall (All Offspring),,,,,0.584,Africa,728.0
+376,South Sudan,Sub-Saharan Africa,Developing economies,Low income,Women (Daughters),,,,,0.599,Africa,728.0
+377,South Sudan,Sub-Saharan Africa,Developing economies,Low income,Men (Sons),,,,,0.55,Africa,728.0
+378,Spain,High income,High-income economies,High income,Overall (All Offspring),0.334,0.444,0.552,0.625,0.695,Europe,724.0
+379,Spain,High income,High-income economies,High income,Women (Daughters),0.405,0.518,0.546,0.647,0.788,Europe,724.0
+380,Spain,High income,High-income economies,High income,Men (Sons),0.261,0.383,0.554,0.608,0.613,Europe,724.0
+381,Sri Lanka,South Asia,Developing economies,Lower middle income,Overall (All Offspring),0.565,0.658,0.652,0.693,0.597,Asia,144.0
+382,Sri Lanka,South Asia,Developing economies,Lower middle income,Women (Daughters),0.585,0.585,0.69,0.727,0.537,Asia,144.0
+383,Sri Lanka,South Asia,Developing economies,Lower middle income,Men (Sons),,0.734,0.589,0.677,0.655,Asia,144.0
+384,Sudan,Sub-Saharan Africa,Developing economies,Lower middle income,Overall (All Offspring),,,,,0.282,Africa,736.0
+385,Sudan,Sub-Saharan Africa,Developing economies,Lower middle income,Women (Daughters),,,,,0.315,Africa,736.0
+386,Sudan,Sub-Saharan Africa,Developing economies,Lower middle income,Men (Sons),,,,,0.258,Africa,736.0
+387,Swaziland,Sub-Saharan Africa,Developing economies,Lower middle income,Overall (All Offspring),,,,,0.619,Africa,748.0
+388,Swaziland,Sub-Saharan Africa,Developing economies,Lower middle income,Women (Daughters),,,,,0.659,Africa,748.0
+389,Swaziland,Sub-Saharan Africa,Developing economies,Lower middle income,Men (Sons),,,,,0.575,Africa,748.0
+390,Sweden,High income,High-income economies,High income,Overall (All Offspring),0.684,0.769,0.747,0.702,0.774,Europe,752.0
+391,Sweden,High income,High-income economies,High income,Women (Daughters),0.72,0.771,0.77,0.716,0.755,Europe,752.0
+392,Sweden,High income,High-income economies,High income,Men (Sons),0.644,0.765,0.721,0.689,0.787,Europe,752.0
+393,Switzerland,High income,High-income economies,High income,Overall (All Offspring),0.672,0.614,0.731,0.604,0.654,Europe,756.0
+394,Switzerland,High income,High-income economies,High income,Women (Daughters),0.703,0.58,0.712,0.562,0.606,Europe,756.0
+395,Switzerland,High income,High-income economies,High income,Men (Sons),0.62,0.653,0.744,0.65,0.695,Europe,756.0
+396,"Taiwan, China",High income,High-income economies,High income,Overall (All Offspring),0.286,0.478,0.652,0.707,0.678,Asia,158.0
+397,"Taiwan, China",High income,High-income economies,High income,Women (Daughters),0.251,0.466,0.617,0.724,0.693,Asia,158.0
+398,"Taiwan, China",High income,High-income economies,High income,Men (Sons),0.395,0.512,0.683,0.688,0.662,Asia,158.0
+399,Tajikistan,Europe & Central Asia,Developing economies,Lower middle income,Overall (All Offspring),0.765,0.781,0.825,0.691,0.759,Asia,762.0
+400,Tajikistan,Europe & Central Asia,Developing economies,Lower middle income,Women (Daughters),,0.757,0.761,0.668,0.772,Asia,762.0
+401,Tajikistan,Europe & Central Asia,Developing economies,Lower middle income,Men (Sons),,0.842,0.926,0.745,0.71,Asia,762.0
+402,Tanzania,Sub-Saharan Africa,Developing economies,Low income,Overall (All Offspring),0.458,0.366,0.589,0.665,0.544,Africa,834.0
+403,Tanzania,Sub-Saharan Africa,Developing economies,Low income,Women (Daughters),0.447,0.268,0.561,0.674,0.541,Africa,834.0
+404,Tanzania,Sub-Saharan Africa,Developing economies,Low income,Men (Sons),0.502,0.468,0.613,0.668,0.537,Africa,834.0
+405,Thailand,East Asia & Pacific,Developing economies,Upper middle income,Overall (All Offspring),,,,,0.641,Asia,764.0
+406,Thailand,East Asia & Pacific,Developing economies,Upper middle income,Women (Daughters),,,,,0.671,Asia,764.0
+407,Thailand,East Asia & Pacific,Developing economies,Upper middle income,Men (Sons),,,,,0.628,Asia,764.0
+408,Timor-Leste,East Asia & Pacific,Developing economies,Lower middle income,Overall (All Offspring),0.556,-0.263,0.086,0.135,0.417,Asia,626.0
+409,Timor-Leste,East Asia & Pacific,Developing economies,Lower middle income,Women (Daughters),0.818,-0.334,0.108,0.023,0.368,Asia,626.0
+410,Timor-Leste,East Asia & Pacific,Developing economies,Lower middle income,Men (Sons),0.243,-0.273,0.063,0.242,0.481,Asia,626.0
+411,Togo,Sub-Saharan Africa,Developing economies,Low income,Overall (All Offspring),0.083,-0.018,0.264,0.421,0.36,Africa,768.0
+412,Togo,Sub-Saharan Africa,Developing economies,Low income,Women (Daughters),0.115,0.157,0.186,0.435,0.373,Africa,768.0
+413,Togo,Sub-Saharan Africa,Developing economies,Low income,Men (Sons),0.124,-0.166,0.381,0.346,0.393,Africa,768.0
+414,Tonga,East Asia & Pacific,Developing economies,Lower middle income,Overall (All Offspring),,,,,0.719,Oceania,776.0
+415,Tonga,East Asia & Pacific,Developing economies,Lower middle income,Women (Daughters),,,,,0.799,Oceania,776.0
+416,Tonga,East Asia & Pacific,Developing economies,Lower middle income,Men (Sons),,,,,0.565,Oceania,776.0
+417,Tunisia,Middle East & North Africa,Developing economies,Lower middle income,Overall (All Offspring),0.028,0.271,0.293,0.451,0.544,Africa,788.0
+418,Tunisia,Middle East & North Africa,Developing economies,Lower middle income,Women (Daughters),0.304,0.169,0.219,0.42,0.486,Africa,788.0
+419,Tunisia,Middle East & North Africa,Developing economies,Lower middle income,Men (Sons),-0.163,0.401,0.39,0.471,0.598,Africa,788.0
+420,Turkey,Europe & Central Asia,Developing economies,Upper middle income,Overall (All Offspring),0.179,0.411,0.396,0.481,0.438,Europe,792.0
+421,Turkey,Europe & Central Asia,Developing economies,Upper middle income,Overall (All Offspring),0.179,0.411,0.396,0.481,0.438,Asia,792.0
+422,Turkey,Europe & Central Asia,Developing economies,Upper middle income,Women (Daughters),,0.359,0.399,0.49,0.35,Europe,792.0
+423,Turkey,Europe & Central Asia,Developing economies,Upper middle income,Women (Daughters),,0.359,0.399,0.49,0.35,Asia,792.0
+424,Turkey,Europe & Central Asia,Developing economies,Upper middle income,Men (Sons),,0.474,0.415,0.512,0.557,Europe,792.0
+425,Turkey,Europe & Central Asia,Developing economies,Upper middle income,Men (Sons),,0.474,0.415,0.512,0.557,Asia,792.0
+426,Tuvalu,East Asia & Pacific,Developing economies,Upper middle income,Overall (All Offspring),,,,,0.612,Oceania,798.0
+427,Uganda,Sub-Saharan Africa,Developing economies,Low income,Overall (All Offspring),0.185,0.395,0.513,0.541,0.506,Africa,800.0
+428,Uganda,Sub-Saharan Africa,Developing economies,Low income,Women (Daughters),-1.811,0.314,0.435,0.491,0.52,Africa,800.0
+429,Uganda,Sub-Saharan Africa,Developing economies,Low income,Men (Sons),0.323,0.513,0.611,0.576,0.511,Africa,800.0
+430,Ukraine,Europe & Central Asia,Developing economies,Lower middle income,Overall (All Offspring),0.757,0.8,0.829,0.677,0.623,Europe,804.0
+431,Ukraine,Europe & Central Asia,Developing economies,Lower middle income,Women (Daughters),0.754,0.829,0.851,0.629,0.589,Europe,804.0
+432,Ukraine,Europe & Central Asia,Developing economies,Lower middle income,Men (Sons),0.76,0.756,0.797,0.715,0.66,Europe,804.0
+433,United Kingdom,High income,High-income economies,High income,Overall (All Offspring),0.64,0.673,0.703,0.73,0.831,Europe,826.0
+434,United Kingdom,High income,High-income economies,High income,Women (Daughters),0.694,0.638,0.679,0.763,0.803,Europe,826.0
+435,United Kingdom,High income,High-income economies,High income,Men (Sons),0.591,0.714,0.727,0.692,0.857,Europe,826.0
+436,United States,High income,High-income economies,High income,Overall (All Offspring),0.669,0.567,0.592,0.628,0.692,North America,840.0
+437,United States,High income,High-income economies,High income,Women (Daughters),0.724,0.597,0.596,0.623,0.707,North America,840.0
+438,United States,High income,High-income economies,High income,Men (Sons),0.602,0.534,0.583,0.631,0.667,North America,840.0
+439,Uruguay,High income,High-income economies,High income,Overall (All Offspring),0.423,0.508,0.57,0.51,0.545,South America,858.0
+440,Uruguay,High income,High-income economies,High income,Women (Daughters),0.454,0.502,0.573,0.551,0.553,South America,858.0
+441,Uruguay,High income,High-income economies,High income,Men (Sons),0.37,0.517,0.564,0.465,0.53,South America,858.0
+442,Uzbekistan,Europe & Central Asia,Developing economies,Lower middle income,Overall (All Offspring),0.868,0.888,0.891,0.894,0.761,Asia,860.0
+443,Uzbekistan,Europe & Central Asia,Developing economies,Lower middle income,Women (Daughters),0.817,0.864,0.891,0.901,0.813,Asia,860.0
+444,Uzbekistan,Europe & Central Asia,Developing economies,Lower middle income,Men (Sons),0.886,0.9,0.892,0.88,0.702,Asia,860.0
+445,Vanuatu,East Asia & Pacific,Developing economies,Lower middle income,Overall (All Offspring),,,,,0.59,Oceania,548.0
+446,Vanuatu,East Asia & Pacific,Developing economies,Lower middle income,Women (Daughters),,,,,0.658,Oceania,548.0
+447,Vanuatu,East Asia & Pacific,Developing economies,Lower middle income,Men (Sons),,,,,0.529,Oceania,548.0
+448,"Venezuela, RB",Latin America & Caribbean,Developing economies,Upper middle income,Overall (All Offspring),0.572,0.583,0.629,0.602,0.665,South America,862.0
+449,"Venezuela, RB",Latin America & Caribbean,Developing economies,Upper middle income,Women (Daughters),0.652,0.537,0.635,0.619,0.677,South America,862.0
+450,"Venezuela, RB",Latin America & Caribbean,Developing economies,Upper middle income,Men (Sons),0.499,0.633,0.625,0.591,0.651,South America,862.0
+451,Vietnam,East Asia & Pacific,Developing economies,Lower middle income,Overall (All Offspring),0.565,0.602,0.576,0.416,0.511,Asia,704.0
+452,Vietnam,East Asia & Pacific,Developing economies,Lower middle income,Women (Daughters),0.488,0.576,0.638,0.415,0.492,Asia,704.0
+453,Vietnam,East Asia & Pacific,Developing economies,Lower middle income,Men (Sons),,0.66,0.535,0.448,0.552,Asia,704.0
+454,West Bank and Gaza,Middle East & North Africa,Developing economies,Lower middle income,Overall (All Offspring),,,,,0.66,Asia,275.0
+455,West Bank and Gaza,Middle East & North Africa,Developing economies,Lower middle income,Women (Daughters),,,,,0.602,Asia,275.0
+456,West Bank and Gaza,Middle East & North Africa,Developing economies,Lower middle income,Men (Sons),,,,,0.684,Asia,275.0
+457,"Yemen, Rep.",Middle East & North Africa,Developing economies,Lower middle income,Overall (All Offspring),,,,,0.64,Asia,887.0
+458,"Yemen, Rep.",Middle East & North Africa,Developing economies,Lower middle income,Women (Daughters),,,,,0.415,Asia,887.0
+459,"Yemen, Rep.",Middle East & North Africa,Developing economies,Lower middle income,Men (Sons),,,,,0.749,Asia,887.0
+460,Zambia,Sub-Saharan Africa,Developing economies,Lower middle income,Overall (All Offspring),,,,,0.592,Africa,894.0
+461,Zambia,Sub-Saharan Africa,Developing economies,Lower middle income,Women (Daughters),,,,,0.581,Africa,894.0
+462,Zambia,Sub-Saharan Africa,Developing economies,Lower middle income,Men (Sons),,,,,0.598,Africa,894.0

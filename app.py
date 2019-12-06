@@ -85,7 +85,7 @@ def make_map(year = 1940):
     
     #add rank column
     plot_df = map_and_bar_df
-    plot_df = plot_df.loc[plot_df['child']=='all']
+    plot_df = plot_df.loc[plot_df['child']=='Overall (All Offspring)']
     plot_df = plot_df.dropna(subset=[quote_yr])
     plot_df['Rank'] = plot_df[quote_yr].rank(ascending = 0)
     plot_df.drop_duplicates(subset='countryname', keep='first', inplace=True)
@@ -113,7 +113,7 @@ def make_map(year = 1940):
     ).project(
         'equirectangular'
     ).properties(title=f'Global Education Mobility Index: {year}',
-                height=325,
+                height=350,
                 width=650
     ).add_selection(
                     selection
@@ -122,7 +122,7 @@ def make_map(year = 1940):
     
     bar_chart_data = plot_df
     
-    bar_chart = alt.Chart(bar_chart_data.loc[bar_chart_data['child'] == 'all']).mark_bar().encode(
+    bar_chart = alt.Chart(bar_chart_data.loc[bar_chart_data['child'] == 'Overall (All Offspring)']).mark_bar().encode(
         alt.X(f'{quote_yr}:Q', title="Education Mobility Index"),
         alt.Y('countryname', axis=None, title='',
         sort=alt.EncodingSortField(field='Rank',
@@ -138,12 +138,13 @@ def make_map(year = 1940):
             alt.Tooltip(f'{quote_yr}:Q', title="EMI"),
             alt.Tooltip('Rank:N', title="Global Rank")
         ]
-    ).properties(title=f'{year} Global Ranking', height = 315, width = 175).add_selection(selection)
+    ).properties(title=f'{year} Global Ranking', height = 350, width = 250).add_selection(selection)
       
     
     map_and_bar = (map_chart | bar_chart).configure_legend(
         orient="right",
-        labelFontSize=14)
+        labelFontSize=14,
+        titleFontSize=16).configure_title(anchor="middle",fontSize=22 )
     
     return map_and_bar
 
@@ -280,7 +281,7 @@ dbc.Container
         dbc.Row([
                 html.H1("Visualizing Global Education Opportunity", style = {"margin-left":"10px", "margin-top":"10px", 'text-align':'center'}, className="display-5"),
                 html.P(
-                    "In an ideal world, every child would have the opportunity to achieve success regardless of what social class they happened to be born into.  This visualization shows how education mobility (the potential for offspring to achieve an equal or higher education level than their parents) has changed globally over five generations.  Use the map and bar chart to get a big-picture view for each generation then use the line plots below to explore comparisons of your choosing (Shift click either the bar chart or map to select multiple countries).  For example, see for yourself whether the US truly is 'the land of equal opportunity'!", 
+                    "Education mobility Index (EMI) is the potential for an offspring to achieve an equal or higher education level than their parents). This visualization shows how education mobility has changed globally over five generations using data from the World Bank (GDIM, 2018). Use the map and bar chart to get a big-picture view for each generation then use the line plots below to explore comparisons of your choosing. For example, see for yourself whether the US truly is 'the land of equal opportunity'!", 
                 style = {"textAlign":"left", "margin-left":"10px", "margin-bottom":"30px"},
                 className="lead"),
             ]),
@@ -305,10 +306,12 @@ dbc.Container
                             labelStyle={'display': 'inline-block', 'font-size':'14px','width':'40%', 'margin-left':'25px'},
                             style={"display":"table-row"},
                             labelClassName="lead"
-                                    )
+                                    ),
+                        html.Br(),
+                        dcc.Markdown("**Shift+click**\n\n(To select multiple countries)", style={"textAlign":"left",'font-size': '18px', 'margin-left':'25px','margin-top':'10px'})            
                         ])
                         ]
-                        ),
+                        ),          
 
 
             ###### dbc.Col for World and Bar plot ###### 
@@ -326,7 +329,7 @@ dbc.Container
                 )]
             ),
 
-                ]),
+                ]),  
 
 
         ####### Framework for upper half ends ###########
@@ -335,7 +338,7 @@ dbc.Container
 
         ######## Add header for lineplots ###########
         html.Div([
-                html.H4('Region / Country / Economy Comparisons', style={"textAlign":"center", "margin-left":"0px"}),
+                html.H3('Region / Country / Economy Comparisons', style={"textAlign":"center", "margin-left":"0px"}),
             ]),
 
         ####### Add dropdown for line charts ########
@@ -343,7 +346,7 @@ dbc.Container
         dbc.Col(
                 html.Div([
                  html.Br(),
-                 dcc.Markdown("Use the drop down below to select specific countries, continents, or economies to compare and see how education opportunity has changed overall, and whether it is different for boys (sons) and girls (daughters)",style={"textAlign":"left",'font-size': '18px'}),   
+                 dcc.Markdown("Use the drop down below to select specific countries, continents, or economies to compare and see how education opportunity has changed overall, and whether it is different for Men (sons) and Women (daughters)",style={"textAlign":"left",'font-size': '18px'}),   
                  dcc.Dropdown(
                             id='dd-chart-area',
                             options=[
@@ -534,7 +537,8 @@ dbc.Container
         ######### Add footer ###########
         dbc.Row([
             dbc.Col([
-                html.P('This Dash app was made collaboratively by the DSCI 532 L02 Group 212 from MDS 2019-20 batch')])
+                html.P('This Dash app was made collaboratively by the DSCI 532 L02 Group 212 from MDS 2019-20 batch'),
+                html.P('Data Source: GDIM. 2018. Global Database on Intergenerational Mobility. Development Research Group, World Bank. Washington, D.C.: World Bank Group.')])
                 ]),
     
     ], fluid = True,)
