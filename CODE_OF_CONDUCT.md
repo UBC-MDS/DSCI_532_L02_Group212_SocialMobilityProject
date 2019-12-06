@@ -1,6 +1,6 @@
 Code of Conduct
 ================
-21/11/2019
+06-12-2019
 
 ## Our Pledge
 
@@ -10,10 +10,19 @@ to a harassment-free experience for everyone regardless of sex, creed,
 race, color, gender identity, sexual orientation, physical disability or
 mental disability.
 
+## Expected behaviour
+
+  - Treat people with respect and fairness
+  - Work together in a spirit of openness and collaboration
+  - Use respectful and inclusive language
+  - Give and receive feedback constructively
+  - Be open-minded to differing points of view
+
 ## Unacceptable behaviour
 
   - Personal attacks
   - Pornography
+  - Trolling
   - Gore or explicit content  
   - Unwelcome sexual advances
   - Any form of harassment
