@@ -113,8 +113,8 @@ def make_map(year = 1940):
     ).project(
         'equirectangular'
     ).properties(title=f'Global Education Mobility Index: {year}',
-                height=350,
-                width=650
+                height=300,
+                width=600
     ).add_selection(
                     selection
     )#.interactive()
@@ -138,7 +138,7 @@ def make_map(year = 1940):
             alt.Tooltip(f'{quote_yr}:Q', title="EMI"),
             alt.Tooltip('Rank:N', title="Global Rank")
         ]
-    ).properties(title=f'{year} Global Ranking', height = 350, width = 250).add_selection(selection)
+    ).properties(title=f'{year} Global Ranking', height = 325, width = 225).add_selection(selection)
       
     
     map_and_bar = (map_chart | bar_chart).configure_legend(

@@ -25,19 +25,13 @@ The main variable we are plotting in all our visualizations is educational mobil
 
 ### Section 3: Research questions and usage scenarios
 
-Professor Moriarty, a reputable Sociology professor at UBC, is exploring different ways to make his class’s term paper more engaging. The Teaching Assistant (TA) assigned with this endeavour, was coincidentally also the TA for MDS. The TA decided to use an app created by MDS students which enables one to visualise trends in the education index globally. The app would provide the sociology students with ample oppurtunity to look further into trends in education opportunity across the globe for their term paper. 
+This app lets users explore how education opportunity has changed globally over time.  Specifically it can help answer questions such as:
+- How does the education mobility change for certain countries, regions, or economies over time?
+- How do different countries or regions compare to each other? 
+- Which countries have the highest education mobility for a given generation?
+- For all of the above questions, is the education mobility different for different genders?
 
-When using the app Tanvi, a Sociology major, will land on an interactive map of the world encompassing the education index for all given geographies across four generations. The app enables her to visualise a comprehensive global database collected on intergenerational mobility using education index as a proxy for overall class mobility/equality. By hovering over a region, she can get the education index for a chosen generation for any country. A histogram on the right will further aid her insight by providing the global rank of this country for the chosen generation. The histogram also includes color encoding to allow her to identify whether the country is deemed a developing economy or a high-income economy. 
-
-For example, if she chooses the 1940 generation (representing people born in the 1940's), she might observe that South Africa has the highest education index amongst all African countries. In fact, if she expands her view along the map, she will also see that it is on par with the developed economies of the time. This could lead her to choose South Africa as her country of interest and then formulate a deeper insight into South Africa’s progress over generations and compare it to other countries. 
-
-The bottom half of the dashboard would enable her to perform this task using a more granular approach. From the drop down menu, she can choose to compare South Africa with any other country or region of her choosing, say USA. The three plots on the bottom would allow her to explore the following questions:
-- How has the overall education opportunity changed for South Africa compared to the USA over time?
-- Are the changes different for men and women?
-For example, she might notice that in South Africa, the education index fell for the first three generations and then displayed minor improvements. On the other hand, it rose consistently in the US.
-However she might also find that the education index of women, though historically disadvantaged, has shown an upward trend in the last generation for both countries. 
-
-With this information in hand, she decides to write her paper on the impact of woman’s education on the upward mobility of a generation as a whole. In future, she can further build upon this by combining this visualization app with the Gap Minder dataset, to investigate the correlation between a country’s average per capita GDP and its maternal education index.
+People who might be interested in exploring these questions could inlude sociology students or policy advisors. For example, a sociology student might use this app to explore how different countries have compared over time and then pick a specific country to do a research project on.  Policy advisors might be interested to seeing how their country compares to similar countries in their region, or how it compares to all countries in their region to help support decisions around increasing education funding or setting up more funding or opportunities for girls (if there is a gap between girls and boys).
 
 
 
