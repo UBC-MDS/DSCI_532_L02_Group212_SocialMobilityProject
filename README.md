@@ -5,7 +5,7 @@ Holly Williams, Aakanksha Dimri, and Thomas Pin's DSCI 532 dashboard project on 
 
 ## Link to app
 
-[LINK](https://dsci-532-l02-gr212-milestone2.herokuapp.com/)
+[LINK](https://dsci-532-l02-gr212-milestone3.herokuapp.com/)
 
 ## Description of our app & sketch 
 
